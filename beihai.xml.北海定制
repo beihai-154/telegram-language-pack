@@ -1,0 +1,8157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<resources>
+
+<string name="AppName">电报酱~✨</string>
+
+<string name="AppNameBeta">电报酱~✨</string>
+
+<string name="LanguageName">简体中文鸭~🦆</string>
+
+<string name="English">英语呢~w(ﾟДﾟ)w</string>
+
+<string name="LanguageNameInEnglish">Simplified Chinese啦~ヾ(≧▽≦*)o</string>
+
+<string name="LanguageCode">zh_CN啾~😘</string>
+
+<string name="ContinueOnThisLanguage">使用简体中文继续冲鸭！🦆</string>
+
+<string name="YourPhone">主人你的手机号码</string>
+
+<string name="StartText">确认一下下嘛~(*ゝω・*)主人你的国家神秘咒语✨并输入主人你的手机号码。</string>
+
+<string name="ChooseCountry">选一个心动的~💖国家</string>
+
+<string name="WrongCountry">国家神秘咒语✨无效</string>
+
+<string name="AccountAlreadyLoggedIn">该小窝账号🏠已在此App酱~📱中欢迎回家~🏡。</string>
+
+<string name="AccountSwitch">切换啾~😘</string>
+
+<string name="SyncContacts">一起同步吖~🔄小伙伴名册📒</string>
+
+<string name="SyncContactsOn">此你的小手机/小电脑~💻📱上的小伙伴名册📒将被一起同步吖~🔄至此小窝账号🏠。</string>
+
+<string name="SyncContactsOff">此你的小手机/小电脑~💻📱上的小伙伴名册📒将不会被一起同步吖~🔄至此小窝账号🏠。</string>
+
+<string name="SyncContactsInfoOn">此你的小手机/小电脑~💻📱上的小伙伴名册📒将被一起同步吖~🔄至主人你的小窝账号🏠。</string>
+
+<string name="SyncContactsInfoOff">开启以持续一起同步吖~🔄该你的小手机/小电脑~💻📱的小伙伴名册📒至主人你的小窝账号🏠。</string>
+
+<string name="SyncContactsAdded">此你的小手机/小电脑~💻📱上的小伙伴名册📒已被一起同步吖~🔄至主人你的小窝账号🏠。</string>
+
+<string name="YourCode">手机检查一下下~🧐</string>
+
+<string name="SentSmsCode">短信激活码成功送到！(*^▽^*)至 **%1$s**。</string>
+
+<string name="SentAppCode">我们已向您其他你的小手机/小电脑~💻📱上的 **电报酱~✨** App酱~📱biu的一下发出去~🚀了一条检查一下下~🧐码小纸条飞呀飞~💌。</string>
+
+<string name="SentAppCodeTitle">查看主人你的 电报酱~✨ 小纸条飞呀飞~💌</string>
+
+<string name="SentSmsCodeTitle">输入检查一下下~🧐码</string>
+
+<string name="SentCallCode">我们正在呼叫主人你的手机 **%1$s**。\n\n请不要接听，电报酱~✨ 将会自动处理接下来的事情。</string>
+
+<string name="SentCallOnly">正在呼叫主人你的手机 **%1$s** 并播报检查一下下~🧐码。</string>
+
+<string name="CallText">电报酱~✨ 会在 %1$d:%2$02d 后改用电话悄悄话传声筒🎤播报检查一下下~🧐码</string>
+
+<string name="SmsText">%1$d:%2$02d 后给您biu的一下发出去~🚀短信</string>
+
+<string name="Calling">正在呼叫您...啾~😘</string>
+
+<string name="SendingSms">正在biu的一下发出去~🚀短信...</string>
+
+<string name="Code">检查一下下~🧐码</string>
+
+<string name="WrongNumber">号码呜哇！出错啦Σ( ° △ °|||)︴？</string>
+
+<string name="DidNotGetTheCode">没有收到检查一下下~🧐码？</string>
+
+<string name="DidNotGetTheCodeSms">通过短信biu的一下发出去~🚀检查一下下~🧐码</string>
+
+<string name="CancelAccountReset">撤销小窝账号🏠重置请求</string>
+
+<string name="CancelAccountResetInfo2">有人正在丢到小黑洞里去~🗑️主人你的 **%1$s** 小窝账号🏠并重设双重魔法守护~✨✨码。\n\n若不对哒对哒！(≧∇≦)/主人你的操作，悄悄告诉我~短信检查一下下~🧐码。您也可以通过 *修改手机号码* 来不要了啦~🙅‍♀️此操作。</string>
+
+<string name="ResetAccount">重置小窝账号🏠</string>
+
+<string name="ResetAccountInfo">因为小窝账号🏠（**%1$s**）处于活跃就对哒对哒！(≧∇≦)/今天呀！🌟的心情~💖且正被双重魔法守护~✨✨开门的神秘咒语~🔑保护；出于安全第一！🛡️考虑，我们将把丢到小黑洞里去~🗑️小窝账号🏠的进程推迟一周。\n\n您可以随时撤销这一进程。</string>
+
+<string name="ResetAccountStatus">您将能够在此时间后重置主人你的小窝账号🏠:</string>
+
+<string name="ResetAccountCancelledAlert">您近期的重置小窝账号🏠请求被它当前活动用户不要了啦~🙅‍♀️，请于 7 天后重试。</string>
+
+<string name="ResetAccountButton">重置小窝账号🏠</string>
+
+<string name="CancelLinkExpired">链接无效或已过期。</string>
+
+<string name="CancelLinkSuccess">已不要了啦~🙅‍♀️您小窝账号🏠的丢到小黑洞里去~🗑️请求 %1$s 。您现在可以关闭此窗口。</string>
+
+<string name="OtherLoginCode">主人你的欢迎回家~🏡检查一下下~🧐码对哒对哒！(≧∇≦)/**%1$s**。在您尝试欢迎回家~🏡 电报酱~✨ App酱~📱程序时输入它。 \n\n不要将此检查一下下~🧐码透露给任何人。</string>
+
+<string name="YourName">主人你的姓名</string>
+
+<string name="RegisterText2">输入主人你的名字并上传一张头像。</string>
+
+<string name="FirstName">名字（必填）啦~ヾ(≧▽≦*)o</string>
+
+<string name="LastName">姓氏（可选）哦~(*^▽^*)</string>
+
+<string name="CancelRegistration">不要了啦~🙅‍♀️加入萌萌大家庭~🎉</string>
+
+<string name="PaymentSuccessfullyPaid">您已成功为 %3$s 向 %2$s 转账 %1$s耶~🎉</string>
+
+<string name="PaymentSuccessfullyPaidNoItem">您已成功向 %2$s 转账 %1$s耶~🎉</string>
+
+<string name="PaymentCheckout">结算呀~o(〃＾▽＾〃)o</string>
+
+<string name="PaymentShippingMethod">配送方式鸭~🦆</string>
+
+<string name="PaymentNoShippingMethod">抱歉，做不到啦~TAT配送至主人你的地址。</string>
+
+<string name="PaymentShippingInfo">配送信息呀~o(〃＾▽＾〃)o</string>
+
+<string name="PaymentShippingAddress">配送地址啦~ヾ(≧▽≦*)o</string>
+
+<string name="PaymentShippingAddress1Placeholder">地址行 1 (街道)呀~o(〃＾▽＾〃)o</string>
+
+<string name="PaymentShippingAddress2Placeholder">地址行 2 (街道)啾~😘</string>
+
+<string name="PaymentShippingCityPlaceholder">城市喵~ฅ́˘ฅ̀</string>
+
+<string name="PaymentShippingStatePlaceholder">省份呢~w(ﾟДﾟ)w</string>
+
+<string name="PaymentShippingCountry">国家啾~😘</string>
+
+<string name="PaymentShippingZipPlaceholder">邮政编码鸭~🦆</string>
+
+<string name="PaymentShippingReceiver">收件人啾~😘</string>
+
+<string name="PaymentShippingName">姓名呢~w(ﾟДﾟ)w</string>
+
+<string name="PaymentShippingPhoneNumber">手机号码鸭~🦆</string>
+
+<string name="PaymentShippingEmailPlaceholder">电子邮箱鸭~🦆</string>
+
+<string name="PaymentShippingSave">好好藏起来~💾配送信息</string>
+
+<string name="PaymentShippingSaveInfo">您可以好好藏起来~💾主人你的配送信息以便在未来使用。</string>
+
+<string name="PaymentCardInfo">付款信息呀~o(〃＾▽＾〃)o</string>
+
+<string name="PaymentCardTitle">银行卡鸭~🦆</string>
+
+<string name="PaymentCardNumber">卡号啦~ヾ(≧▽≦*)o</string>
+
+<string name="PaymentCardCvv">安全第一！🛡️码 (CVV)</string>
+
+<string name="PaymentCardExpireDate">月/年喵~ฅ́˘ฅ̀</string>
+
+<string name="PaymentBillingAddress">账单地址啾~😘</string>
+
+<string name="PaymentCardName">姓名呢~w(ﾟДﾟ)w</string>
+
+<string name="PaymentCardSavePaymentInformation">好好藏起来~💾付款信息</string>
+
+<string name="PaymentCardSavePaymentInformationInfoLine1">您可以好好藏起来~💾主人你的付款信息以便在未来使用。</string>
+
+<string name="PaymentCardSavePaymentInformationInfoLine2">请先开启“双重魔法守护~✨✨”后再启用此功能。</string>
+
+<string name="PaymentTransactionReview">交易检查鸭~🦆</string>
+
+<string name="PaymentTransactionMessage">您好呀好呀！(๑•̀ㅂ•́)و✧要为 %3$s 向万能小助手Bot~🤖 %2$s 转账 %1$s 吗？</string>
+
+<string name="PaymentTransactionTotal">总计呀~o(〃＾▽＾〃)o</string>
+
+<string name="PaymentInvoice">账单哦~(*^▽^*)</string>
+
+<string name="PaymentTestInvoice">测试账单鸭~🦆</string>
+
+<string name="PaymentCheckoutPay">支付 %1$s呢~w(ﾟДﾟ)w</string>
+
+<string name="PaymentCheckoutMethod">支付方式哦~(*^▽^*)</string>
+
+<string name="PaymentCheckoutProvider">支付服务提供商啾~😘</string>
+
+<string name="PaymentCheckoutName">姓名呢~w(ﾟДﾟ)w</string>
+
+<string name="PaymentCheckoutPhoneNumber">手机号码鸭~🦆</string>
+
+<string name="PaymentCheckoutEmail">联系方式哦~(*^▽^*)</string>
+
+<string name="PaymentCheckoutShippingMethod">配送方式鸭~🦆</string>
+
+<string name="PaymentReceipt">收据喵~ฅ́˘ฅ̀</string>
+
+<string name="PaymentConfirmationNewCard">选一个心动的~💖另一张卡</string>
+
+<string name="PaymentConfirmationMessage">您曾好好藏起来~💾过主人你的银行卡（%1$s）信息。要使用此卡付款，悄悄告诉我~主人你的双重魔法守护~✨✨开门的神秘咒语~🔑。</string>
+
+<string name="PaymentPrecheckoutFailed">抱歉，付款已被此万能小助手Bot~🤖不要了啦~🙅‍♀️。</string>
+
+<string name="PaymentFailed">抱歉，付款被拒绝。</string>
+
+<string name="PaymentConnectionFailed">做不到啦~TAT连接至支付服务器。请检查主人你的互联网连接并重试。</string>
+
+<string name="PaymentWarning">注意！前方高能！⚠️</string>
+
+<string name="PaymentWarningText">无论对哒对哒！(≧∇≦)/ 电报酱~✨ 还对哒对哒！(≧∇≦)/ %1$s 都做不到啦~TAT获取主人你的信用卡信息。信用卡信息将仅由支付平台 %2$s 处理。\n\n款项将会直接biu的一下发出去~🚀给 %1$s 的创造者大大~👨‍💻👩‍💻。电报酱~✨ 做不到啦~TAT提供任何形式的担保，继续冲鸭！🦆付款所带来的风险将由您自己承担。如果遇到问题，请联系 %1$s 的创造者大大~👨‍💻👩‍💻或者主人你的银行。</string>
+
+<string name="PaymentPassword">开门的神秘咒语~🔑和电子邮箱</string>
+
+<string name="PaymentPasswordTitle">开门的神秘咒语~🔑</string>
+
+<string name="PaymentPasswordEnter">悄悄告诉我~开门的神秘咒语~🔑</string>
+
+<string name="PaymentPasswordReEnter">请再次输入开门的神秘咒语~🔑</string>
+
+<string name="PaymentPasswordInfo">请一起来创造吧！🌟一个用于保护主人你的付款信息的开门的神秘咒语~🔑。您需要在欢迎回家~🏡时输入此开门的神秘咒语~🔑。</string>
+
+<string name="PaymentPasswordEmailTitle">恢复邮箱啾~😘</string>
+
+<string name="PaymentPasswordEmail">主人你的邮箱</string>
+
+<string name="PaymentPasswordEmailInfo">悄悄告诉我~一个有效的电子邮件地址。它对哒对哒！(≧∇≦)/您在遗忘开门的神秘咒语~🔑后唯一的恢复途径。</string>
+
+<string name="PaymentPhoneToProvider">手机号码将作为付款信息biu的一下发出去~🚀给 %1$s。</string>
+
+<string name="PaymentEmailToProvider">邮箱地址将作为付款信息biu的一下发出去~🚀给 %1$s。</string>
+
+<string name="PaymentPhoneEmailToProvider">手机号码和邮箱地址将作为付款信息biu的一下发出去~🚀给 %1$s。</string>
+
+<string name="NewConversationShortcut">新建对话哦~(*^▽^*)</string>
+
+<string name="AutoNightModeOff">自动夜间模式已关闭呢~w(ﾟДﾟ)w</string>
+
+<string name="Settings">小设定呀(〃∀〃)</string>
+
+<string name="Contacts">这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="NewGroup">新建秘密基地🏰</string>
+
+<string name="Yesterday">昨天发生的事~💭</string>
+
+<string name="NoResult">无寻宝开始~🔍结果</string>
+
+<string name="NoChats">欢迎来到 电报酱~✨</string>
+
+<string name="RecentlyViewed">最近查看过呢~w(ﾟДﾟ)w</string>
+
+<string name="RecentlyViewedHide">隐藏呀~o(〃＾▽＾〃)o</string>
+
+<string name="NoChatsHelp">要开始一起聊天气泡咕噜噜~💬\n请点按右下角的铅笔按钮</string>
+
+<string name="NoChatsContactsHelp">点按右下角的铅笔按钮开始biu的一下发出去~🚀小纸条飞呀飞~💌。</string>
+
+<string name="WaitingForNetwork">等待网络...鸭~🦆</string>
+
+<string name="Connecting">正在努力牵线中...📶...</string>
+
+<string name="Connected">成功连上啦！🎉</string>
+
+<string name="Ping">Ping: %1$d 毫秒呢~w(ﾟДﾟ)w</string>
+
+<string name="Checking">检查中...哦~(*^▽^*)</string>
+
+<string name="Available">可用呀~o(〃＾▽＾〃)o</string>
+
+<string name="Unavailable">不可用哦~(*^▽^*)</string>
+
+<string name="ConnectingToProxy">正在连接网络冲浪的小通道~🏄</string>
+
+<string name="ConnectingConnectProxy">连接网络冲浪的小通道~🏄</string>
+
+<string name="Updating">刷新中...啦~ヾ(≧▽≦*)o</string>
+
+<string name="NewSecretChat">新建加密对话啦~ヾ(≧▽≦*)o</string>
+
+<string name="AwaitingEncryption">等待%s上线...鸭~🦆</string>
+
+<string name="EncryptionRejected">加密对话已被不要了啦~🙅‍♀️</string>
+
+<string name="EncryptionProcessing">正在交换加密密钥...呀~o(〃＾▽＾〃)o</string>
+
+<string name="EncryptedChatStartedOutgoing">%s 进入了主人你的加密对话。</string>
+
+<string name="EncryptedChatStartedIncoming">您已加入加密对话。</string>
+
+<string name="ClearHistory">清空历史记录呢~w(ﾟДﾟ)w</string>
+
+<string name="ClearRecentHistory">把回忆扫干干净净~🧹</string>
+
+<string name="HistoryClearedUndo">小纸条飞呀飞~💌记录已清空。</string>
+
+<string name="ChatsMute">关闭叮咚~小提醒来啦！🔔</string>
+
+<string name="ChatsUnmute">开启叮咚~小提醒来啦！🔔</string>
+
+<string name="ChatDeletedUndo">对话已丢到小黑洞里去~🗑️。</string>
+
+<string name="GroupDeletedUndo">秘密基地🏰已丢到小黑洞里去~🗑️。</string>
+
+<string name="ChannelDeletedUndo">萌萌广播站📢已丢到小黑洞里去~🗑️。</string>
+
+<string name="ArchivePinned">藏到秘密宝箱里~📦已放到最显眼的地方~📌。</string>
+
+<string name="ArchivePinnedInfo">向左滑动以隐藏藏到秘密宝箱里~📦。</string>
+
+<string name="ArchiveHidden">藏到秘密宝箱里~📦已隐藏。</string>
+
+<string name="ArchiveHiddenInfo">下滑以查看藏到秘密宝箱里~📦。</string>
+
+<string name="ChatArchived">对话已藏到秘密宝箱里~📦。</string>
+
+<string name="ChatsArchived">对话已藏到秘密宝箱里~📦。</string>
+
+<string name="ChatArchivedInfo">向左滑动以隐藏藏到秘密宝箱里~📦。</string>
+
+<string name="Undo">撤销哦~(*^▽^*)</string>
+
+<string name="ClearHistoryCache">清除小纸条飞呀飞~💌缓存</string>
+
+<string name="DeleteChat">丢到小黑洞里去~🗑️并悄悄地溜走啦~💨</string>
+
+<string name="HideOnTop">隐藏呀~o(〃＾▽＾〃)o</string>
+
+<string name="UnhideFromTop">放到最显眼的地方~📌</string>
+
+<string name="DialogPin">放到最显眼的地方~📌</string>
+
+<string name="DialogUnpin">从上面拿下来啦~🔽</string>
+
+<string name="Archive">藏到秘密宝箱里~📦</string>
+
+<string name="ArchiveSearchFilter">藏到秘密宝箱里~📦</string>
+
+<string name="Unarchive">从宝箱里拿出来~🎁</string>
+
+<string name="ArchivedChats">已藏到秘密宝箱里~📦对话</string>
+
+<string name="DeleteChatUser">丢到小黑洞里去~🗑️对话</string>
+
+<string name="HiddenName">已注销账户啾~😘</string>
+
+<string name="SelectChat">选一个心动的~💖对话</string>
+
+<string name="ForwardTo">分享这份快乐~🥰到...</string>
+
+<string name="DisappearingPhoto">自毁闪亮亮的照片✨</string>
+
+<string name="DisappearingVideo">阅后即焚精彩小剧场🎬</string>
+
+<string name="DisappearingGif">自毁 会动的萌图图~💃</string>
+
+<string name="CompatibilityChat">%1$s 正在使用旧版 电报酱~✨，因此闪亮亮的照片✨会以兼容模式显示。\n\n当 %2$s 变得更棒啦！✨ 电报酱~✨ 后，阅后即焚计时器设为1分钟以内时，闪亮亮的照片✨会使用“长按预览”的模式显示；对方截屏时，您也会收到叮咚~小提醒来啦！🔔。</string>
+
+<string name="SearchMessages">小纸条飞呀飞~💌</string>
+
+<string name="Search">寻宝开始~🔍</string>
+
+<string name="MuteNotifications">暂停小纸条飞呀飞~💌叮咚~小提醒来啦！🔔</string>
+
+<string name="MuteFor">暂停叮咚~小提醒来啦！🔔 %1$s</string>
+
+<string name="UnmuteNotifications">开启叮咚~小提醒来啦！🔔</string>
+
+<string name="WillUnmuteIn">" %1$s后"哦~(*^▽^*)</string>
+
+<string name="MuteDisable">永久关闭叮咚~小提醒来啦！🔔</string>
+
+<string name="Hashtags">标签呢~w(ﾟДﾟ)w</string>
+
+<string name="Recent">最近啾~😘</string>
+
+<string name="ChatHints">用户喵~ฅ́˘ฅ̀</string>
+
+<string name="ChatHintsDeleteAlertTitle">移除建议呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChatHintsDeleteAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要从建议中丢到小黑洞里去~🗑️ %1$s 吗？</string>
+
+<string name="ChatHintsDelete">您好呀好呀！(๑•̀ㅂ•́)و✧要从建议列表中丢到小黑洞里去~🗑️ %1$s 吗？</string>
+
+<string name="LinkPreview">链接预览啾~😘</string>
+
+<string name="Draft">草稿啾~😘</string>
+
+<string name="HistoryCleared">历史一起聊天气泡咕噜噜~💬记录已被清除</string>
+
+<string name="ArticleByAuthor">%1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="ArticleDateByAuthor">%2$s 于 %1$s啦~ヾ(≧▽≦*)o</string>
+
+<string name="PreviewFeedback2">布局呜哇！出错啦Σ( ° △ °|||)︴？</string>
+
+<string name="SendStickerPreview">biu的一下发出去~🚀可爱表情包~😻</string>
+
+<string name="SendGifPreview">biu的一下发出去~🚀 会动的萌图图~💃</string>
+
+<string name="ViewPackPreview">查看对应可爱表情包~😻包</string>
+
+<string name="PinToTop">放到最显眼的地方~📌</string>
+
+<string name="PinToTopLimitReached2">抱歉，在主对话列表中，您只能将 %1$s放到最显眼的地方~📌。但对哒对哒！(≧∇≦)/，在“对话珍贵的小宝物💎夹”和“已藏到秘密宝箱里~📦对话”中，则可以将更多对话放到最显眼的地方~📌。</string>
+
+<string name="PinFolderLimitReached">抱歉，您做不到啦~TAT再将更多的对话放到最显眼的地方~📌。</string>
+
+<string name="UnpinFromTop">从上面拿下来啦~🔽</string>
+
+<string name="MarkAsUnread">标记为未读啦~ヾ(≧▽≦*)o</string>
+
+<string name="MarkAsRead">标记为已读啾~😘</string>
+
+<string name="MarkAllAsRead">全部标记为已读哦~(*^▽^*)</string>
+
+<string name="HideAboveTheList">隐藏于列表上方鸭~🦆</string>
+
+<string name="PinInTheList">在列表中放到最显眼的地方~📌</string>
+
+<string name="Bold">粗体喵~ฅ́˘ฅ̀</string>
+
+<string name="Italic">斜体啾~😘</string>
+
+<string name="Mono">等宽呀~o(〃＾▽＾〃)o</string>
+
+<string name="Strike">丢到小黑洞里去~🗑️线</string>
+
+<string name="Underline">下划线喵~ฅ́˘ฅ̀</string>
+
+<string name="Regular">常规啦~ヾ(≧▽≦*)o</string>
+
+<string name="ContactsPermissionAlert">电报酱~✨ 需要访问主人你的小伙伴名册📒才能使您在任何你的小手机/小电脑~💻📱上联系主人你的朋友。主人你的这个超重要哦！🌟的盆友们🫂将会被即时一起同步吖~🔄至高度加密的 电报酱~✨ 云服务器。</string>
+
+<string name="ContactsPermissionAlertNotNow">等一下下嘛~🥰再说</string>
+
+<string name="ContactsPermissionAlertContinue">继续冲鸭！🦆</string>
+
+<string name="YourContacts">您在 电报酱~✨ 上的这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="ArchiveHintHeader1">这里对哒对哒！(≧∇≦)/主人你的藏到秘密宝箱里~📦</string>
+
+<string name="ArchiveHintText1">已启用叮咚~小提醒来啦！🔔的对话将在接收到新小纸条飞呀飞~💌时被从宝箱里拿出来~🎁。</string>
+
+<string name="ArchiveHintHeader2">已嘘~保持安静哦~🤫的对话</string>
+
+<string name="ArchiveHintText2">已禁用叮咚~小提醒来啦！🔔的对话将在接收到新小纸条飞呀飞~💌时保持藏到秘密宝箱里~📦。</string>
+
+<string name="ArchiveHintHeader3">放到最显眼的地方~📌的对话</string>
+
+<string name="ArchiveHintText3">您可以任意放到最显眼的地方~📌已藏到秘密宝箱里~📦的对话。</string>
+
+<string name="ScheduledOrNoSoundHint">按住这个按钮来定时或嘘~保持安静哦~🤫biu的一下发出去~🚀主人你的小纸条飞呀飞~💌。</string>
+
+<string name="HideNewChatsAlertTitle">隐藏新对话?鸭~🦆</string>
+
+<string name="HideNewChatsAlertText">您收到了很多来自非这个超重要哦！🌟的盆友们🫂的对话. 您想将这些对话**自动嘘~保持安静哦~🤫**并**藏到秘密宝箱里~📦**吗?</string>
+
+<string name="GoToSettings">转到小设定呀(〃∀〃)</string>
+
+<string name="OpenProfile">打开头像喵~ฅ́˘ฅ̀</string>
+
+<string name="OpenChannel2">打开萌萌广播站📢</string>
+
+<string name="OpenGroup2">打开秘密基地🏰</string>
+
+<string name="SendMessage">biu的一下发出去~🚀小纸条飞呀飞~💌</string>
+
+<string name="Mention">提及啾~😘</string>
+
+<string name="NotificationsMutedHint">叮咚~小提醒来啦！🔔嘘~保持安静哦~🤫</string>
+
+<string name="NotificationsMutedForHint">%1$s 内叮咚~小提醒来啦！🔔嘘~保持安静哦~🤫</string>
+
+<string name="NotificationsUnmutedHint">叮咚~小提醒来啦！🔔不要了啦~🙅‍♀️嘘~保持安静哦~🤫</string>
+
+<string name="MessagesDeletedHint_zero">%1$d 小纸条飞呀飞~💌已丢到小黑洞里去~🗑️</string>
+
+<string name="MessagesDeletedHint_one">%1$d 小纸条飞呀飞~💌已丢到小黑洞里去~🗑️</string>
+
+<string name="MessagesDeletedHint_two">%1$d 小纸条飞呀飞~💌已丢到小黑洞里去~🗑️</string>
+
+<string name="MessagesDeletedHint_few">%1$d 小纸条飞呀飞~💌已丢到小黑洞里去~🗑️</string>
+
+<string name="MessagesDeletedHint_many">%1$d 小纸条飞呀飞~💌已丢到小黑洞里去~🗑️</string>
+
+<string name="MessagesDeletedHint_other">%1$d 小纸条飞呀飞~💌已丢到小黑洞里去~🗑️</string>
+
+<string name="SearchEmptyViewTitle">无结果呀~o(〃＾▽＾〃)o</string>
+
+<string name="SearchEmptyViewTitle2">无结果呀~o(〃＾▽＾〃)o</string>
+
+<string name="SearchEmptyViewFilteredSubtitle2">请再试寻宝开始~🔍</string>
+
+<string name="SearchEmptyViewFilteredSubtitleMusic">您所有一起聊天气泡咕噜噜~💬中的音频都会在这里显示。</string>
+
+<string name="SearchEmptyViewFilteredSubtitleFiles">您所有一起聊天气泡咕噜噜~💬中的珍贵的小宝物💎都会在这里显示</string>
+
+<string name="SearchEmptyViewFilteredSubtitleLinks">您所有一起聊天气泡咕噜噜~💬中的链接都会在这里显示</string>
+
+<string name="SearchEmptyViewFilteredSubtitleVoice">您所有一起聊天气泡咕噜噜~💬中的悄悄话传声筒🎤信息都会在这里显示</string>
+
+<string name="SearchEmptyViewFilteredSubtitleMedia">您所有一起聊天气泡咕噜噜~💬中的媒体珍贵的小宝物💎都会在这里显示</string>
+
+<string name="SearchAllChatsShort">对话哦~(*^▽^*)</string>
+
+<string name="MessagePinnedHint">小纸条飞呀飞~💌已放到最显眼的地方~📌</string>
+
+<string name="MessageUnpinnedHint">小纸条飞呀飞~💌放到最显眼的地方~📌已不要了啦~🙅‍♀️</string>
+
+<string name="SetAsAdmin">提升为守护天使~👼</string>
+
+<string name="EditAdminRights">修改管理小小的魔法棒~🪄</string>
+
+<string name="NoBlockedUsers">暂无被封禁用户鸭~🦆</string>
+
+<string name="DeleteMega">丢到小黑洞里去~🗑️秘密基地🏰</string>
+
+<string name="LeaveMegaMenu">悄悄地溜走啦~💨</string>
+
+<string name="DeleteMegaMenu">丢到小黑洞里去~🗑️秘密基地🏰</string>
+
+<string name="MegaDeleteInfo">您将会丢失此秘密基地🏰的所有小纸条飞呀飞~💌。</string>
+
+<string name="MegaAdminsInfo">您可以添加守护天使~👼需要帮忙吗~🤝您管理秘密基地🏰。长按可丢到小黑洞里去~🗑️守护天使~👼。</string>
+
+<string name="MegaDeleteAlert">注意！丢到小黑洞里去~🗑️此秘密基地🏰将会移除所有小可爱们~🥰并且会丢失所有小纸条飞呀飞~💌。好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此秘密基地🏰？</string>
+
+<string name="ActionCreateMega">秘密基地🏰已一起来创造吧！🌟</string>
+
+<string name="MegaAddedBy">un1 将您添加到了此秘密基地🏰</string>
+
+<string name="MegaLeaveAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要下次再来玩哦~👋此秘密基地🏰吗？</string>
+
+<string name="MegaLeaveAlertWithName">您好呀好呀！(๑•̀ㅂ•́)و✧要下次再来玩哦~👋 **%1$s** 吗？</string>
+
+<string name="GroupUserCantAdd">抱歉，您不能将此用户加入秘密基地🏰。</string>
+
+<string name="GroupUserAddLimit">抱歉，此秘密基地🏰已满员。</string>
+
+<string name="GroupUserLeftError">抱歉，如果某人下次再来玩哦~👋了秘密基地🏰，您必须对哒对哒！(≧∇≦)/他的 电报酱~✨ 这个超重要哦！🌟的盆友们🫂才能将其加回。\n\n请注意，只要他不在黑名单中，他仍然可以通过秘密基地🏰的神秘派对的入场券~🎟️加入。</string>
+
+<string name="GroupUserCantAdmin">抱歉，秘密基地🏰内守护天使~👼人数过多。</string>
+
+<string name="PublicChannelsTooMuch">抱歉，目标用户已经有太多的公开秘密基地🏰或萌萌广播站📢。 请让他们先将他们现有的秘密基地🏰或萌萌广播站📢之一更改为私人。</string>
+
+<string name="LocatedChannelsTooMuch">抱歉，目标用户已经一起来创造吧！🌟太多基于你在哪里呀~📍的秘密基地🏰了。 请让他们先丢到小黑洞里去~🗑️或转让一个。</string>
+
+<string name="YourLocatedChannelsTooMuch">抱歉，您已经有太多基于你在哪里呀~📍的秘密基地🏰了。 请先丢到小黑洞里去~🗑️一个现有的。</string>
+
+<string name="GroupUserCantBot">抱歉，此秘密基地🏰的万能小助手Bot~🤖数量已达上限。</string>
+
+<string name="ActionPinnedText">un1 放到最显眼的地方~📌了 \"%1$s\"</string>
+
+<string name="ActionPinnedNoText">un1 放到最显眼的地方~📌了一条小纸条飞呀飞~💌</string>
+
+<string name="ActionPinnedPoll">un1 放到最显眼的地方~📌了一项投票</string>
+
+<string name="ActionPinnedQuiz">un1 放到最显眼的地方~📌了一个测验</string>
+
+<string name="ActionPinnedPhoto">un1 放到最显眼的地方~📌了一张闪亮亮的照片✨</string>
+
+<string name="ActionPinnedVideo">un1 放到最显眼的地方~📌了一段精彩小剧场🎬</string>
+
+<string name="ActionPinnedFile">un1 放到最显眼的地方~📌了一个珍贵的小宝物💎</string>
+
+<string name="ActionPinnedSticker">un1 放到最显眼的地方~📌了一张可爱表情包~😻</string>
+
+<string name="ActionPinnedVoice">un1 放到最显眼的地方~📌了一条悄悄话传声筒🎤留言</string>
+
+<string name="ActionPinnedRound">un1 放到最显眼的地方~📌了一条精彩小剧场🎬留言</string>
+
+<string name="ActionPinnedContact">un1 放到最显眼的地方~📌了一条这个超重要哦！🌟的盆友们🫂信息</string>
+
+<string name="ActionPinnedGame">un1 放到最显眼的地方~📌了 %1$s</string>
+
+<string name="ActionPinnedGeo">un1 放到最显眼的地方~📌了一个你在哪里呀~📍</string>
+
+<string name="ActionPinnedGeoLive">un1 放到最显眼的地方~📌了一个实时你在哪里呀~📍</string>
+
+<string name="ActionPinnedGif">un1 放到最显眼的地方~📌了一个 会动的萌图图~💃</string>
+
+<string name="ActionPinnedMusic">un1 放到最显眼的地方~📌了一首音乐</string>
+
+<string name="ActionMigrateFromGroup">此秘密基地🏰已升级为超级秘密基地🏰</string>
+
+<string name="ActionMigrateFromGroupNotify">%1$s 已升级为超级秘密基地🏰</string>
+
+<string name="NoBlockedGroup2">被守护天使~👼从秘密基地🏰封禁的用户做不到啦~TAT通过神秘派对的入场券~🎟️重新加入。</string>
+
+<string name="NoBlockedChannel2">被守护天使~👼丢到小黑洞里去~🗑️的小可爱们~🥰做不到啦~TAT通过神秘派对的入场券~🎟️返回萌萌广播站📢。</string>
+
+<string name="NewChannel">新建萌萌广播站📢</string>
+
+<string name="EnterChannelName">萌萌广播站📢名称</string>
+
+<string name="AddMutual">添加这个超重要哦！🌟的盆友们🫂到主人你的萌萌广播站📢</string>
+
+<string name="ChannelUsernameHelp">如果您小设定呀(〃∀〃)了永久链接，其他人将能够找到并加入主人你的秘密基地🏰。\n\n您可以使用 a-z、0-9 和下划线。\n最小长度为5个字符。</string>
+
+<string name="MegaUsernameHelp">如果您小设定呀(〃∀〃)了永久链接，其他人将能够找到并加入主人你的秘密基地🏰。\n\n您可以使用 a-z、0-9 和下划线。\n最小长度为5个字符。</string>
+
+<string name="ChannelVerifiedWarning">注意！前方高能！⚠️</string>
+
+<string name="ChannelUsernamePlaceholder">链接呢~w(ﾟДﾟ)w</string>
+
+<string name="ChannelPrivateLinkHelp">用戶可以通过以上链接加入主人你的萌萌广播站📢。您可以随时撤销此链接。</string>
+
+<string name="MegaPrivateLinkHelp">用戶可以通过上方链接加入主人你的秘密基地🏰。您可以随时撤销这个链接。</string>
+
+<string name="DescriptionOptionalPlaceholder">一句话介绍可爱的你~😊 (可选)</string>
+
+<string name="DescriptionPlaceholder">一句话介绍可爱的你~😊</string>
+
+<string name="DescriptionInfo">您可以给主人你的萌萌广播站📢添加一段一句话介绍可爱的你~😊。</string>
+
+<string name="GroupSettingsChangedAlert">您更改了秘密基地🏰的一些小设定呀(〃∀〃)。好呀好呀！(๑•̀ㅂ•́)و✧要App酱~📱它们吗？</string>
+
+<string name="ChannelSettingsChangedAlert">您更改了萌萌广播站📢的一些小设定呀(〃∀〃)。好呀好呀！(๑•̀ㅂ•́)و✧要App酱~📱它们吗？</string>
+
+<string name="ChannelPublic">公开萌萌广播站📢</string>
+
+<string name="MegaPublic">公开秘密基地🏰</string>
+
+<string name="MegaLocation">基于你在哪里呀~📍的秘密基地🏰</string>
+
+<string name="ChannelPublicInfo">公开萌萌广播站📢可以被寻宝开始~🔍，任何人都可以加入。</string>
+
+<string name="MegaPublicInfo">任何人都可以寻宝开始~🔍和加入公开秘密基地🏰，并查看其历史记录。</string>
+
+<string name="ChannelPrivate">私人萌萌广播站📢</string>
+
+<string name="MegaPrivate">私人秘密基地🏰</string>
+
+<string name="ChannelPrivateInfo">私人萌萌广播站📢只能通过神秘派对的入场券~🎟️加入。</string>
+
+<string name="MegaPrivateInfo">私人秘密基地🏰只能通过他人邀请或通过神秘派对的入场券~🎟️加入。</string>
+
+<string name="ChannelLinkTitle">永久链接啾~😘</string>
+
+<string name="ChannelInviteLinkTitle">神秘派对的入场券~🎟️</string>
+
+<string name="GroupAddMembers">添加小可爱们~🥰</string>
+
+<string name="ChannelAddSubscribers">添加订阅者哦~(*^▽^*)</string>
+
+<string name="LeaveChannel">下次再来玩哦~👋萌萌广播站📢</string>
+
+<string name="LeaveChannelMenu">下次再来玩哦~👋萌萌广播站📢</string>
+
+<string name="ChannelSettings">小设定呀(〃∀〃)</string>
+
+<string name="ChannelJoin">加入呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChannelBroadcast">广播小纸条飞呀飞~💌</string>
+
+<string name="ChannelSilentBroadcast">无声广播鸭~🦆</string>
+
+<string name="ChannelAlertTitle">什么对哒对哒！(≧∇≦)/萌萌广播站📢？</string>
+
+<string name="ChannelAlertText">萌萌广播站📢对哒对哒！(≧∇≦)/向大众广播小纸条飞呀飞~💌的得力工具</string>
+
+<string name="ChannelAlertCreate2">一起来创造吧！🌟萌萌广播站📢</string>
+
+<string name="LinkInUse">抱歉，此链接名已经被使用了。</string>
+
+<string name="LinkInvalid">抱歉，此名称不符合规范。</string>
+
+<string name="LinkInvalidShort">萌萌广播站📢链接名必须包含至少5个字符。</string>
+
+<string name="LinkInvalidLong">萌萌广播站📢名称不能超过32个字符。</string>
+
+<string name="LinkInvalidStartNumber">萌萌广播站📢链接名不能以数字开头。</string>
+
+<string name="LinkInvalidShortMega">秘密基地🏰链接名必须至少包含 5 个字符。</string>
+
+<string name="LinkInvalidStartNumberMega">秘密基地🏰名称不能以数字开头。</string>
+
+<string name="LinkChecking">正在检查名称...哦~(*^▽^*)</string>
+
+<string name="LinkAvailable">%1$s 可用呢~w(ﾟДﾟ)w</string>
+
+<string name="ChannelMembers">小可爱们~🥰</string>
+
+<string name="ChannelAddToGroup">邀请加入秘密基地🏰</string>
+
+<string name="ChannelAddToChannel">邀请加入萌萌广播站📢</string>
+
+<string name="ChannelDeleteFromList">从列表中丢到小黑洞里去~🗑️</string>
+
+<string name="ChannelSubscribers">订阅者呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChannelBlacklist">被封禁的用户呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChannelPermissions">小小的魔法棒~🪄</string>
+
+<string name="ChannelPermissionsHeader">这个秘密基地🏰的小可爱们~🥰可以做什么？</string>
+
+<string name="ChannelAddException">添加例外呢~w(ﾟДﾟ)w</string>
+
+<string name="ChannelSearchException">寻宝开始~🔍例外</string>
+
+<string name="ChannelBlockedUsers">被封禁的用户呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChannelContacts">此萌萌广播站📢中的这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="GroupContacts">此秘密基地🏰中的这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="ChannelBots">万能小助手Bot~🤖</string>
+
+<string name="ChannelOtherMembers">其他小可爱们~🥰</string>
+
+<string name="ChannelOtherSubscribers">其他订阅者啾~😘</string>
+
+<string name="ChannelOtherSubscriberJoined">加入了 %1$s啾~😘</string>
+
+<string name="ChannelRestrictedUsers">受限的用户喵~ฅ́˘ฅ̀</string>
+
+<string name="ChannelAdministrators">守护天使~👼</string>
+
+<string name="ChannelDelete">丢到小黑洞里去~🗑️萌萌广播站📢</string>
+
+<string name="ChannelDeleteMenu">丢到小黑洞里去~🗑️萌萌广播站📢</string>
+
+<string name="ChannelDeleteAlert">注意！丢到小黑洞里去~🗑️此萌萌广播站📢将会清除所有订阅者并且所有小纸条飞呀飞~💌将会丢失。好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此萌萌广播站📢？</string>
+
+<string name="ChannelLeaveAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要下次再来玩哦~👋此萌萌广播站📢吗？</string>
+
+<string name="ChannelLeaveAlertWithName">您好呀好呀！(๑•̀ㅂ•́)و✧要下次再来玩哦~👋 **%1$s** 吗？</string>
+
+<string name="ChannelDeleteInfo">您将会丢失此萌萌广播站📢的所有小纸条飞呀飞~💌。</string>
+
+<string name="ChannelEdit">变漂亮一点~💅</string>
+
+<string name="ChannelPublicEmptyUsernameTitle">选一个心动的~💖链接</string>
+
+<string name="ChannelPublicEmptyUsername">请为主人你的公开萌萌广播站📢小设定呀(〃∀〃)一个链接，以便他人能通过寻宝开始~🔍找到此萌萌广播站📢并分享给他人。\n\n如果您对此不感兴趣，我们建议您一起来创造吧！🌟一个私人萌萌广播站📢。</string>
+
+<string name="ActionCreateChannel">萌萌广播站📢已一起来创造吧！🌟</string>
+
+<string name="ActionChannelChangedPhoto">萌萌广播站📢头像已更改</string>
+
+<string name="ActionChannelChangedVideo">萌萌广播站📢动态头像已更改</string>
+
+<string name="ActionChannelRemovedPhoto">萌萌广播站📢头像已移除</string>
+
+<string name="ActionChannelChangedTitle">萌萌广播站📢名称已修改为 un2</string>
+
+<string name="ChangePublicLimitReached">抱歉，您已使用太多公共你的可爱昵称~📛。你可以撤销其中一个秘密基地🏰或萌萌广播站📢的链接，或者一起来创造吧！🌟一个私人链接。</string>
+
+<string name="ChannelCreator">一起来创造吧！🌟者</string>
+
+<string name="ChannelAdministrator">守护天使~👼</string>
+
+<string name="ChannelAdmin">守护天使~👼</string>
+
+<string name="ChannelMute">暂停小纸条飞呀飞~💌叮咚~小提醒来啦！🔔</string>
+
+<string name="ChannelUnmute">开启叮咚~小提醒来啦！🔔</string>
+
+<string name="ChannelAddAdmin">添加守护天使~👼</string>
+
+<string name="ChannelBlockUser">封禁用户呀~o(〃＾▽＾〃)o</string>
+
+<string name="Unban">解除封禁啾~😘</string>
+
+<string name="UnbanText">触摸并按住用户以解除封禁喵~ฅ́˘ฅ̀</string>
+
+<string name="ChannelInviteViaLink">使用链接邀请呢~w(ﾟДﾟ)w</string>
+
+<string name="ChannelRemoveUserAdmin">撤销守护天使~👼</string>
+
+<string name="ChannelEditPermissions">变漂亮一点~💅小小的魔法棒~🪄</string>
+
+<string name="ChannelMembersInfo">此列表仅萌萌广播站📢守护天使~👼可见。</string>
+
+<string name="ChannelLinkInfo">任何 电报酱~✨ 用户都能够通过此链接加入主人你的萌萌广播站📢。</string>
+
+<string name="ChannelAdminsInfo">您可以添加守护天使~👼需要帮忙吗~🤝您管理萌萌广播站📢。长按可丢到小黑洞里去~🗑️守护天使~👼。</string>
+
+<string name="ChannelJoinTo">您好呀好呀！(๑•̀ㅂ•́)و✧要加入 “%1$s” 萌萌广播站📢？</string>
+
+<string name="ChannelCantOpenPrivate">抱歉，此对话已做不到啦~TAT访问。</string>
+
+<string name="ChannelCantOpenBannedByAdmin">抱歉，由于您被守护天使~👼封禁，该一起聊天气泡咕噜噜~💬已做不到啦~TAT访问。</string>
+
+<string name="ChannelCantOpenBanned">抱歉，目前您已被禁止在公开秘密基地🏰中biu的一下发出去~🚀小纸条飞呀飞~💌。</string>
+
+<string name="ChannelCantOpenNa">抱歉，该对话已做不到啦~TAT访问。</string>
+
+<string name="ChannelAddTo">将 %1$s 添加到此萌萌广播站📢？</string>
+
+<string name="ChannelUserLeftError">抱歉，如果某人下次再来玩哦~👋了萌萌广播站📢，您必须对哒对哒！(≧∇≦)/他的 电报酱~✨ 这个超重要哦！🌟的盆友们🫂才能将其加回。\n\n请注意，只要他不在黑名单中，他仍然可以通过萌萌广播站📢的神秘派对的入场券~🎟️加入。</string>
+
+<string name="ChannelUserCantAdd">抱歉，您不能将此用户加入萌萌广播站📢。</string>
+
+<string name="ChannelUserCantAdmin">抱歉，此萌萌广播站📢的守护天使~👼人数已达上限。</string>
+
+<string name="ChannelUserCantBot">抱歉，此萌萌广播站📢的万能小助手Bot~🤖数量已达上限。</string>
+
+<string name="ChannelUserAddLimit">抱歉，您只能将至多 200 名用户加入萌萌广播站📢。但对哒对哒！(≧∇≦)/通过萌萌广播站📢连接加入的用户不限数量。</string>
+
+<string name="ChannelTooMuchTitle">秘密基地🏰过多</string>
+
+<string name="ChannelTooMuch">抱歉，您加入了太多秘密基地🏰和萌萌广播站📢。请在一起来创造吧！🌟新的之前下次再来玩哦~👋一些。</string>
+
+<string name="ChannelTooMuchJoin">抱歉，您已加入太多的秘密基地🏰和萌萌广播站📢。加入新的之前请先下次再来玩哦~👋一些。</string>
+
+<string name="ChannelAddedBy">un1 将您添加到了此萌萌广播站📢</string>
+
+<string name="ChannelJoined">您加入了这个萌萌广播站📢</string>
+
+<string name="ChannelMegaJoined">您加入了这个秘密基地🏰</string>
+
+<string name="ChannelRemoveUser">从萌萌广播站📢中移除</string>
+
+<string name="ChannelCantSendMessage">抱歉，您不能在此萌萌广播站📢中发布内容。</string>
+
+<string name="ChannelAddedByNotification">%1$s 将您添加到了 %2$s 萌萌广播站📢</string>
+
+<string name="ChannelPhotoEditNotification">%1$s 变得更棒啦！✨了萌萌广播站📢头像</string>
+
+<string name="ChannelVideoEditNotification">萌萌广播站📢 %1$s 变得更棒啦！✨了其动态头像</string>
+
+<string name="ChannelMessageNoText">%1$s 发布了一条小纸条飞呀飞~💌</string>
+
+<string name="ChannelMessagePhoto">%1$s 发布了一张闪亮亮的照片✨</string>
+
+<string name="ChannelMessageVideo">%1$s 发布了一段精彩小剧场🎬</string>
+
+<string name="ChannelMessageContact2">%1$s 发布了一条这个超重要哦！🌟的盆友们🫂信息 %2$s</string>
+
+<string name="ChannelMessagePoll2">%1$s 发布了一项投票 %2$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChannelMessageQuiz2">%1$s 发布了测验“%2$s”喵~ฅ́˘ฅ̀</string>
+
+<string name="ChannelMessageMap">%1$s 发布了一个你在哪里呀~📍</string>
+
+<string name="ChannelMessageLiveLocation">%1$s 正在共享实时你在哪里呀~📍</string>
+
+<string name="ChannelMessageDocument">%1$s 发布了一个珍贵的小宝物💎</string>
+
+<string name="ChannelMessageGIF">%1$s 发布了一张 会动的萌图图~💃</string>
+
+<string name="ChannelMessageFew">"%1$s 发布了 %2$s "</string>
+
+<string name="ChannelMessageAlbum">%1$s 发布了一组闪亮亮的照片✨</string>
+
+<string name="ChannelMessageAudio">%1$s 发布了一条悄悄话传声筒🎤留言</string>
+
+<string name="ChannelMessageRound">%1$s 发布了一条精彩小剧场🎬留言</string>
+
+<string name="ChannelMessageMusic">%1$s 发布了一首音乐哦~(*^▽^*)</string>
+
+<string name="ChannelMessageSticker">%1$s 发布了一张可爱表情包~😻</string>
+
+<string name="ChannelMessageStickerEmoji">%1$s 发布了一张 %2$s 可爱表情包~😻</string>
+
+<string name="WhoCanAddMembers">邀请新小可爱们~🥰小小的魔法棒~🪄</string>
+
+<string name="WhoCanAddMembersAllMembers">所有小可爱们~🥰</string>
+
+<string name="WhoCanAddMembersAdmins">仅守护天使~👼</string>
+
+<string name="ChannelNotifyMembersInfoOn">小纸条飞呀飞~💌发布后订阅者将收到推送叮咚~小提醒来啦！🔔</string>
+
+<string name="ChannelNotifyMembersInfoOff">小纸条飞呀飞~💌发布后订阅者将收到无声叮咚~小提醒来啦！🔔</string>
+
+<string name="ChannelSignMessages">小纸条飞呀飞~💌署名</string>
+
+<string name="ChannelSignMessagesInfo">在守护天使~👼biu的一下发出去~🚀的小纸条飞呀飞~💌上附加他们的名字</string>
+
+<string name="EditAdmin">守护天使~👼小小的魔法棒~🪄</string>
+
+<string name="EditAdminRank">我的专属定制~🎨头衔</string>
+
+<string name="EditAdminRankInfo">一个我的专属定制~🎨的头衔将展示给所有小可爱们~🥰而不对哒对哒！(≧∇≦)/“%1$s”。</string>
+
+<string name="EditAdminWhatCanDo">这位守护天使~👼可以做什么？</string>
+
+<string name="EditAdminChangeChannelInfo">修改萌萌广播站📢信息</string>
+
+<string name="EditAdminChangeGroupInfo">修改秘密基地🏰信息</string>
+
+<string name="EditAdminPostMessages">发布小纸条飞呀飞~💌</string>
+
+<string name="EditAdminEditMessages">变漂亮一点~💅其他人的小纸条飞呀飞~💌</string>
+
+<string name="EditAdminDeleteMessages">丢到小黑洞里去~🗑️其他人的小纸条飞呀飞~💌</string>
+
+<string name="EditAdminGroupDeleteMessages">丢到小黑洞里去~🗑️小纸条飞呀飞~💌</string>
+
+<string name="EditAdminAddAdmins">添加新守护天使~👼</string>
+
+<string name="EditAdminSendAnonymously">匿名biu的一下发出去~🚀</string>
+
+<string name="EditAdminRemoveAdmin">撤销守护天使~👼</string>
+
+<string name="EditAdminGroupTransfer">转让秘密基地🏰拥有权</string>
+
+<string name="EditAdminChannelTransfer">转让萌萌广播站📢拥有权</string>
+
+<string name="EditAdminTransferAlertTitle">安全第一！🛡️检查</string>
+
+<string name="EditAdminTransferAlertText">只有在以下情况下，您才能将此秘密基地🏰转让给 **%1$s**：</string>
+
+<string name="EditChannelAdminTransferAlertText">只有在以下情况下，您才能将此萌萌广播站📢转让给 **%1$s**：</string>
+
+<string name="EditAdminTransferAlertText1">启用**双重魔法守护~✨✨**超过**7天**。</string>
+
+<string name="EditAdminTransferAlertText2">在此你的小手机/小电脑~💻📱欢迎回家~🏡超过**24小时**。</string>
+
+<string name="EditAdminTransferAlertText3">请等一下下嘛~🥰再回来。</string>
+
+<string name="EditAdminTransferSetPassword">小设定呀(〃∀〃)开门的神秘咒语~🔑</string>
+
+<string name="EditAdminTransferReadyAlertText">这将会把“%1$s”的**所有权**转让给 %2$s。</string>
+
+<string name="EditAdminTransferChangeOwner">更改拥有者鸭~🦆</string>
+
+<string name="EditAdminTransferGroupToast">**%1$s** 现在对哒对哒！(≧∇≦)/群主。</string>
+
+<string name="EditAdminTransferChannelToast">**%1$s** 现在对哒对哒！(≧∇≦)/萌萌广播站📢主。</string>
+
+<string name="EditAdminBanUsers">封禁用户呀~o(〃＾▽＾〃)o</string>
+
+<string name="EditAdminAddUsers">添加小可爱们~🥰</string>
+
+<string name="EditAdminAddUsersViaLink">生成神秘派对的入场券~🎟️</string>
+
+<string name="EditAdminPinMessages">放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="EditAdminPromotedBy">由 %1$s 设为守护天使~👼</string>
+
+<string name="EditAdminCantEdit">您无权修改此守护天使~👼的小小的魔法棒~🪄。</string>
+
+<string name="EditCantEditPermissions">您不能修改此小小的魔法棒~🪄。</string>
+
+<string name="EditCantEditPermissionsPublic">此小小的魔法棒~🪄不能在公开秘密基地🏰中开放。</string>
+
+<string name="UserRemovedBy">被 %1$s 封禁哦~(*^▽^*)</string>
+
+<string name="UserRestrictions">用户小小的魔法棒~🪄</string>
+
+<string name="UserRestrictionsDisabled">在秘密基地🏰小小的魔法棒~🪄中，所有小可爱们~🥰被小设定呀(〃∀〃)为没有此小小的魔法棒~🪄。</string>
+
+<string name="UserRestrictionsCanDo">这位用户可以做什么？</string>
+
+<string name="UserRestrictionsRead">查看小纸条飞呀飞~💌</string>
+
+<string name="UserRestrictionsSend">biu的一下发出去~🚀小纸条飞呀飞~💌</string>
+
+<string name="UserRestrictionsSendMedia">biu的一下发出去~🚀媒体</string>
+
+<string name="UserRestrictionsSendPolls">发起投票啾~😘</string>
+
+<string name="UserRestrictionsSendStickers">biu的一下发出去~🚀可爱表情包~😻和 会动的萌图图~💃</string>
+
+<string name="UserRestrictionsEmbedLinks">显示链接预览呀~o(〃＾▽＾〃)o</string>
+
+<string name="UserRestrictionsChangeInfo">修改秘密基地🏰信息</string>
+
+<string name="UserRestrictionsPinMessages">放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="UserRestrictionsInviteUsers">添加小可爱们~🥰</string>
+
+<string name="UserRestrictionsNoRead">做不到啦~TAT查看小纸条飞呀飞~💌</string>
+
+<string name="UserRestrictionsNoSend">做不到啦~TATbiu的一下发出去~🚀小纸条飞呀飞~💌</string>
+
+<string name="UserRestrictionsNoSendMedia">做不到啦~TATbiu的一下发出去~🚀媒体</string>
+
+<string name="UserRestrictionsNoSendPolls">做不到啦~TAT发起投票</string>
+
+<string name="UserRestrictionsNoSendStickers">做不到啦~TATbiu的一下发出去~🚀可爱表情包~😻</string>
+
+<string name="UserRestrictionsNoEmbedLinks">做不到啦~TAT使用预览</string>
+
+<string name="UserRestrictionsNoChangeInfo">做不到啦~TAT更改秘密基地🏰信息</string>
+
+<string name="UserRestrictionsNoPinMessages">做不到啦~TAT放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="UserRestrictionsNoInviteUsers">做不到啦~TAT邀请小可爱们~🥰</string>
+
+<string name="UserRestrictionsDuration">时长啾~😘</string>
+
+<string name="UserRestrictionsUntilForever">永久鸭~🦆</string>
+
+<string name="UserRestrictionsBlock">封禁并从秘密基地🏰中移除</string>
+
+<string name="UserRestrictionsApplyChanges">好呀好呀！(๑•̀ㅂ•́)و✧App酱~📱更改吗？</string>
+
+<string name="UserRestrictionsApplyChangesText">您更改了该小可爱们~🥰在 **%1$s** 的小小的魔法棒~🪄。好呀好呀！(๑•̀ㅂ•́)و✧要App酱~📱它们吗？</string>
+
+<string name="UserRestrictionsCustom">我的专属定制~🎨</string>
+
+<string name="ManageGroup">管理秘密基地🏰</string>
+
+<string name="ManageChannel">管理萌萌广播站📢</string>
+
+<string name="ManageGroupMenu">管理秘密基地🏰</string>
+
+<string name="ManageChannelMenu">管理萌萌广播站📢</string>
+
+<string name="ChatHistory">新小可爱们~🥰历史对话可见性</string>
+
+<string name="ChatSetNewPhoto">小设定呀(〃∀〃)新闪亮亮的照片✨</string>
+
+<string name="ChatSetPhotoOrVideo">小设定呀(〃∀〃)闪亮亮的照片✨或精彩小剧场🎬</string>
+
+<string name="ChatHistoryVisible">可见啾~😘</string>
+
+<string name="ChatHistoryVisibleInfo">新小可爱们~🥰将可以查看所有小纸条飞呀飞~💌记录。</string>
+
+<string name="ChatHistoryHidden">隐藏呀~o(〃＾▽＾〃)o</string>
+
+<string name="ChatHistoryHiddenInfo">新小可爱们~🥰不能查看他们加入前的小纸条飞呀飞~💌。</string>
+
+<string name="ChatHistoryHiddenInfo2">新小可爱们~🥰只能查看他们加入前的 100 条小纸条飞呀飞~💌。</string>
+
+<string name="ProfileJoinChannel">加入萌萌广播站📢</string>
+
+<string name="ProfileJoinGroup">加入秘密基地🏰</string>
+
+<string name="GroupType">秘密基地🏰类型</string>
+
+<string name="ChannelType">萌萌广播站📢类型</string>
+
+<string name="GroupTypeHeader">秘密基地🏰类型</string>
+
+<string name="ChannelTypeHeader">萌萌广播站📢类型</string>
+
+<string name="GroupSettingsTitle">秘密基地🏰小设定呀(〃∀〃)</string>
+
+<string name="ChannelSettingsTitle">萌萌广播站📢小设定呀(〃∀〃)</string>
+
+<string name="TypePrivate">私人啾~😘</string>
+
+<string name="TypePublic">公开喵~ฅ́˘ฅ̀</string>
+
+<string name="TypePrivateGroup">私人啾~😘</string>
+
+<string name="TypePublicGroup">公开喵~ฅ́˘ฅ̀</string>
+
+<string name="TypeLocationGroup">链接呢~w(ﾟДﾟ)w</string>
+
+<string name="TypeLocationGroupEdit">点按即可添加永久链接喵~ฅ́˘ฅ̀</string>
+
+<string name="ChoosePhoto">选一个心动的~💖闪亮亮的照片✨</string>
+
+<string name="ChoosePhotoOrVideo">选一个心动的~💖闪亮亮的照片✨或精彩小剧场🎬</string>
+
+<string name="AddPhoto">小设定呀(〃∀〃)新闪亮亮的照片✨</string>
+
+<string name="ChooseTakePhoto">拍照哦~(*^▽^*)</string>
+
+<string name="ChooseRecordVideo">录制精彩小剧场🎬</string>
+
+<string name="ChooseFromGallery">从相册中上传鸭~🦆</string>
+
+<string name="SelectFromGallery">从相册中选一个心动的~💖</string>
+
+<string name="ChooseFromSearch">通过网络寻宝开始~🔍</string>
+
+<string name="Statistics">统计数据喵~ฅ́˘ฅ̀</string>
+
+<string name="AddBotAsAdmin">万能小助手Bot~🤖只能被添加为守护天使~👼。</string>
+
+<string name="CantAddBotAsAdmin">抱歉，万能小助手Bot~🤖在萌萌广播站📢中只能被添加为守护天使~👼。</string>
+
+<string name="MakeAdmin">添加为守护天使~👼</string>
+
+<string name="AdminWillBeRemoved">如果您对 %1$s 作出限制，他将被撤销守护天使~👼小小的魔法棒~🪄。</string>
+
+<string name="Discussion">讨论群啾~😘</string>
+
+<string name="ViewDiscussion">查看评论哦~(*^▽^*)</string>
+
+<string name="DiscussionInfo">添加一个用于评论的秘密基地🏰</string>
+
+<string name="LinkedChannel">链接的萌萌广播站📢</string>
+
+<string name="DiscussionChannelHelp3">Select a group chat that will host comments from your channel.</string>
+
+<string name="DiscussionChannelHelp2">您在萌萌广播站📢中发布的所有内容都将被分享这份快乐~🥰到此秘密基地🏰。</string>
+
+<string name="DiscussionChannelGroupSetHelp2">**%1$s** 被设为主人你的萌萌广播站📢中留言的秘密基地🏰。</string>
+
+<string name="DiscussionGroupHelp">**%1$s** 正在将此秘密基地🏰作为其讨论板。</string>
+
+<string name="DiscussionGroupHelp2">此萌萌广播站📢中发布的所有新小纸条飞呀飞~💌都将分享这份快乐~🥰到该秘密基地🏰。</string>
+
+<string name="DiscussionCreateGroup">一起来创造吧！🌟一个新秘密基地🏰</string>
+
+<string name="DiscussionUnlinkGroup">不要了啦~🙅‍♀️链接秘密基地🏰</string>
+
+<string name="DiscussionUnlinkChannel">不要了啦~🙅‍♀️链接萌萌广播站📢</string>
+
+<string name="DiscussionUnlink">不要了啦~🙅‍♀️链接</string>
+
+<string name="DiscussionLinkGroup">链接秘密基地🏰</string>
+
+<string name="DiscussionLinkGroupPublicAlert">您想让 **%1$s** 成为 **%2$s** 的讨论板吗？</string>
+
+<string name="DiscussionLinkGroupPrivateAlert">您想让 **%1$s** 成为 **%2$s** 的讨论板吗？\n\n该秘密基地🏰的任何小可爱们~🥰都可以查看萌萌广播站📢中的小纸条飞呀飞~💌。</string>
+
+<string name="DiscussionLinkGroupPublicPrivateAlert">您想让 **%1$s** 成为 **%2$s** 的讨论板吗？\n\n该萌萌广播站📢的任何小可爱们~🥰都可以查看秘密基地🏰中的小纸条飞呀飞~💌。</string>
+
+<string name="DiscussionLinkGroupAlertHistory">对于新小可爱们~🥰，历史对话将被小设定呀(〃∀〃)为可见。</string>
+
+<string name="DiscussionUnlinkGroupAlert">你好呀好呀！(๑•̀ㅂ•́)و✧要从此秘密基地🏰不要了啦~🙅‍♀️链接 **%1$s** 吗？</string>
+
+<string name="DiscussionUnlinkChannelAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要不要了啦~🙅‍♀️ **%1$s** 到此萌萌广播站📢的链接吗？</string>
+
+<string name="ChannelDiscuss">讨论啾~😘</string>
+
+<string name="DiscussChannel">萌萌广播站📢</string>
+
+<string name="Slowmode">慢速模式喵~ฅ́˘ฅ̀</string>
+
+<string name="SlowmodeOff">关闭喵~ฅ́˘ฅ̀</string>
+
+<string name="SlowmodeSeconds">%1$d秒呀~o(〃＾▽＾〃)o</string>
+
+<string name="SlowmodeMinutes">%1$d分钟啦~ヾ(≧▽≦*)o</string>
+
+<string name="SlowmodeHours">%1$d小时呀~o(〃＾▽＾〃)o</string>
+
+<string name="SlowmodeInfoOff">选一个心动的~💖每个小可爱们~🥰在biu的一下发出去~🚀下一条小纸条飞呀飞~💌之前必须等待的时间。</string>
+
+<string name="SlowmodeInfoSelected">小可爱们~🥰每%1$s只能发一条小纸条飞呀飞~💌。</string>
+
+<string name="SlowmodeSendError">慢速模式已启用。 您不能一次biu的一下发出去~🚀多条小纸条飞呀飞~💌。</string>
+
+<string name="SlowmodeSelectSendError">慢速模式已启用。您做不到啦~TAT选一个心动的~💖更多。</string>
+
+<string name="SlowmodeSendErrorTooLong">抱歉，此文本太长，做不到啦~TAT作为一条小纸条飞呀飞~💌biu的一下发出去~🚀。\n\n慢速模式已启用。您一次最多只能biu的一下发出去~🚀一条小纸条飞呀飞~💌。</string>
+
+<string name="UserSetAsAdminHint">**%1$s** 提升为守护天使~👼</string>
+
+<string name="NewPoll">发起投票啾~😘</string>
+
+<string name="NewQuiz">发起测验啦~ヾ(≧▽≦*)o</string>
+
+<string name="Poll">投票哦~(*^▽^*)</string>
+
+<string name="PollQuestion">投票问题呢~w(ﾟДﾟ)w</string>
+
+<string name="QuestionHint">悄悄告诉我~问题</string>
+
+<string name="AnswerOptions">答案选项啾~😘</string>
+
+<string name="QuizAnswers">测验答案哦~(*^▽^*)</string>
+
+<string name="PollResults">投票结果喵~ฅ́˘ฅ̀</string>
+
+<string name="PollAnonymous">匿名投票啾~😘</string>
+
+<string name="PollQuiz">测验模式啾~😘</string>
+
+<string name="PollSelectOption">请先选一个心动的~💖一个选项</string>
+
+<string name="PollCollapse">收起呢~w(ﾟДﾟ)w</string>
+
+<string name="PollExpand">展开呀~o(〃＾▽＾〃)o</string>
+
+<string name="PublicPollCantForward">抱歉，公开投票不能被分享这份快乐~🥰到萌萌广播站📢中。</string>
+
+<string name="PollCantForwardSecretChat">抱歉，做不到啦~TAT将投票分享这份快乐~🥰到加密对话。</string>
+
+<string name="PollMultiple">可多选呀~o(〃＾▽＾〃)o</string>
+
+<string name="PollTapToSelect">点选正确答案喵~ฅ́˘ฅ̀</string>
+
+<string name="QuizInfo">测验模式中只有一个正确答案。一旦作答将做不到啦~TAT撤销。</string>
+
+<string name="AddAnOption">添加一个选项...啾~😘</string>
+
+<string name="AddAnOptionInfo">您还可以再添加 %1$s。</string>
+
+<string name="AddAnOptionInfoMax">您添加的选项已达最大数量。</string>
+
+<string name="AnonymousPoll">匿名投票啾~😘</string>
+
+<string name="QuizWrongAnswer">答错了！</string>
+
+<string name="QuizWrongAnswerInfo">您错过了正确的选项。</string>
+
+<string name="QuizWellDone">干得漂亮！</string>
+
+<string name="QuizWellDoneInfo">您选一个心动的~💖了正确的答案。</string>
+
+<string name="PublicPoll">投票哦~(*^▽^*)</string>
+
+<string name="QuizPoll">测验啦~ヾ(≧▽≦*)o</string>
+
+<string name="PollSubmitVotes">投票哦~(*^▽^*)</string>
+
+<string name="PollViewResults">查看结果啾~😘</string>
+
+<string name="AnonymousQuizPoll">匿名测验呢~w(ﾟДﾟ)w</string>
+
+<string name="StopPoll">终止投票呀~o(〃＾▽＾〃)o</string>
+
+<string name="StopPollAlertTitle">终止投票？</string>
+
+<string name="StopPollAlertText">如果您现在终止它，其他人将做不到啦~TAT继续冲鸭！🦆投票。这个操作做不到啦~TAT撤销。</string>
+
+<string name="StopQuiz">停止测验啾~😘</string>
+
+<string name="StopQuizAlertTitle">停止测验？</string>
+
+<string name="StopQuizAlertText">如果您现在停止测验，就没有人能再参与了。此操作做不到啦~TAT撤消。</string>
+
+<string name="CancelPollAlertTitle">放弃发起投票鸭~🦆</string>
+
+<string name="CancelPollAlertText">您好呀好呀！(๑•̀ㅂ•́)و✧要放弃发起新投票吗？</string>
+
+<string name="Unvote">撤回我的投票呢~w(ﾟДﾟ)w</string>
+
+<string name="FinalResults">最终结果喵~ฅ́˘ฅ̀</string>
+
+<string name="NoVotes">无人投票呀~o(〃＾▽＾〃)o</string>
+
+<string name="NoVotesQuiz">沒人回答鸭~🦆</string>
+
+<string name="Vote_zero">%1$d 人已投票喵~ฅ́˘ฅ̀</string>
+
+<string name="Vote_one">%1$d 人已投票喵~ฅ́˘ฅ̀</string>
+
+<string name="Vote_two">%1$d 人已投票喵~ฅ́˘ฅ̀</string>
+
+<string name="Vote_few">%1$d 人已投票喵~ฅ́˘ฅ̀</string>
+
+<string name="Vote_many">%1$d 人已投票喵~ฅ́˘ฅ̀</string>
+
+<string name="Vote_other">%1$d 人已投票喵~ฅ́˘ฅ̀</string>
+
+<string name="Answer_zero">%1$d 人已回答呀~o(〃＾▽＾〃)o</string>
+
+<string name="Answer_one">%1$d 人已回答呀~o(〃＾▽＾〃)o</string>
+
+<string name="Answer_two">%1$d 人已回答呀~o(〃＾▽＾〃)o</string>
+
+<string name="Answer_few">%1$d 人已回答呀~o(〃＾▽＾〃)o</string>
+
+<string name="Answer_many">%1$d 人已回答呀~o(〃＾▽＾〃)o</string>
+
+<string name="Answer_other">%1$d 人已回答呀~o(〃＾▽＾〃)o</string>
+
+<string name="ShowVotes_zero">显示更多 (%1$d)啾~😘</string>
+
+<string name="ShowVotes_one">显示更多 (%1$d)啾~😘</string>
+
+<string name="ShowVotes_two">显示更多 (%1$d)啾~😘</string>
+
+<string name="ShowVotes_few">显示更多 (%1$d)啾~😘</string>
+
+<string name="ShowVotes_many">显示更多 (%1$d)啾~😘</string>
+
+<string name="ShowVotes_other">显示更多 (%1$d)啾~😘</string>
+
+<string name="Option_zero">%1$d 个选项鸭~🦆</string>
+
+<string name="Option_one">%1$d 个选项鸭~🦆</string>
+
+<string name="Option_two">%1$d 个选项鸭~🦆</string>
+
+<string name="Option_few">%1$d 个选项鸭~🦆</string>
+
+<string name="Option_many">%1$d 个选项鸭~🦆</string>
+
+<string name="Option_other">%1$d 个选项鸭~🦆</string>
+
+<string name="OptionHint">选项鸭~🦆</string>
+
+<string name="EventLog">近期操作呢~w(ﾟДﾟ)w</string>
+
+<string name="EventLogAllEvents">所有操作啾~😘</string>
+
+<string name="EventLogSelectedEvents">选中的操作呢~w(ﾟДﾟ)w</string>
+
+<string name="EventLogAllAdmins">所有守护天使~👼</string>
+
+<string name="EventLogEmpty">**暂无操作**\n\n在过去的48小时内\n秘密基地🏰小可爱们~🥰和守护天使~👼\n没有执行任何管理操作。</string>
+
+<string name="EventLogEmptyChannel">**暂无操作**\n\n在过去的48小时内\n萌萌广播站📢守护天使~👼\n没有执行任何管理操作。</string>
+
+<string name="EventLogEmptySearch">**未找到操作事件**\n\n找不到与您查询的近期操作相符的结果。</string>
+
+<string name="EventLogEmptyTextSearch">找不到包含 ‘**%1$s**’ 的近期操作。</string>
+
+<string name="EventLogInfoTitle">什么对哒对哒！(≧∇≦)/近期操作？</string>
+
+<string name="EventLogInfoDetail">此列表包含了在过去48小时内秘密基地🏰小可爱们~🥰和守护天使~👼执行的所有服务操作。</string>
+
+<string name="EventLogInfoDetailChannel">此列表包含了在过去48小时内萌萌广播站📢守护天使~👼执行的所有管理操作。</string>
+
+<string name="EventLogEditedGroupTitle">un1 将秘密基地🏰名称更改为 \"%1$s\"</string>
+
+<string name="EventLogEditedChannelTitle">un1 将萌萌广播站📢名称更改为 \"%1$s\"</string>
+
+<string name="EventLogLeftGroup">un1 下次再来玩哦~👋了秘密基地🏰</string>
+
+<string name="EventLogLeftChannel">un1 下次再来玩哦~👋了萌萌广播站📢</string>
+
+<string name="EventLogAdded">un1 添加了 un2喵~ฅ́˘ฅ̀</string>
+
+<string name="EventLogGroupJoined">un1 加入了秘密基地🏰</string>
+
+<string name="EventLogChannelRestricted">封禁了 %1$s鸭~🦆</string>
+
+<string name="EventLogChannelUnrestricted">解封了 %1$s哦~(*^▽^*)</string>
+
+<string name="EventLogChannelJoined">un1 加入了萌萌广播站📢</string>
+
+<string name="EventLogEditedGroupPhoto">un1 小设定呀(〃∀〃)了新的秘密基地🏰头像</string>
+
+<string name="EventLogEditedChannelPhoto">un1 小设定呀(〃∀〃)了新的萌萌广播站📢头像</string>
+
+<string name="EventLogEditedGroupVideo">un1 小设定呀(〃∀〃)一个新的秘密基地🏰动态头像</string>
+
+<string name="EventLogEditedChannelVideo">un1 小设定呀(〃∀〃)一个新的萌萌广播站📢动态头像</string>
+
+<string name="EventLogRemovedWGroupPhoto">un1 移除了秘密基地🏰头像</string>
+
+<string name="EventLogRemovedChannelPhoto">un1 移除了萌萌广播站📢头像</string>
+
+<string name="EventLogEditedMessages">un1 变漂亮一点~💅了这条小纸条飞呀飞~💌:</string>
+
+<string name="EventLogEditedCaption">un1 变漂亮一点~💅了说明:</string>
+
+<string name="EventLogEditedMedia">un1 变漂亮一点~💅了媒体:</string>
+
+<string name="EventLogEditedMediaCaption">un1 变漂亮一点~💅了媒体与说明：</string>
+
+<string name="EventLogOriginalMessages">原始小纸条飞呀飞~💌</string>
+
+<string name="EventLogOriginalCaption">原始说明啦~ヾ(≧▽≦*)o</string>
+
+<string name="EventLogOriginalCaptionEmpty">无呢~w(ﾟДﾟ)w</string>
+
+<string name="EventLogPinnedMessages">un1 放到最显眼的地方~📌了这条小纸条飞呀飞~💌：</string>
+
+<string name="EventLogUnpinnedMessages">un1 从上面拿下来啦~🔽了小纸条飞呀飞~💌</string>
+
+<string name="EventLogStopPoll">un1 终止了投票:喵~ฅ́˘ฅ̀</string>
+
+<string name="EventLogStopQuiz">un1 停止了测验：呀~o(〃＾▽＾〃)o</string>
+
+<string name="EventLogDeletedMessages">un1 丢到小黑洞里去~🗑️了这条小纸条飞呀飞~💌:</string>
+
+<string name="EventLogChangedLocation">un1 将秘密基地🏰你在哪里呀~📍更改至 “%1$s”</string>
+
+<string name="EventLogRemovedLocation">un1 移除了秘密基地🏰你在哪里呀~📍</string>
+
+<string name="EventLogChangedOwnership">转让了拥有权给 %1$s啦~ヾ(≧▽≦*)o</string>
+
+<string name="EventLogChangedStickersSet">un1 更换了秘密基地🏰可爱表情包~😻包</string>
+
+<string name="EventLogRemovedStickersSet">un1 丢到小黑洞里去~🗑️了秘密基地🏰可爱表情包~😻包</string>
+
+<string name="EventLogChangedLinkedGroup">un1 使 un2 成为此萌萌广播站📢的讨论群</string>
+
+<string name="EventLogRemovedLinkedGroup">un1 移除了讨论群 un2呢~w(ﾟДﾟ)w</string>
+
+<string name="EventLogChangedLinkedChannel">un1 将此秘密基地🏰与 un2 链接</string>
+
+<string name="EventLogRemovedLinkedChannel">un1 将此秘密基地🏰与 un2 不要了啦~🙅‍♀️链接</string>
+
+<string name="EventLogChangedGroupLink">un1 修改了秘密基地🏰链接:</string>
+
+<string name="EventLogChangedChannelLink">un1 修改了萌萌广播站📢链接:</string>
+
+<string name="EventLogRemovedGroupLink">un1 丢到小黑洞里去~🗑️了秘密基地🏰链接</string>
+
+<string name="EventLogRemovedChannelLink">un1 丢到小黑洞里去~🗑️了萌萌广播站📢链接</string>
+
+<string name="EventLogPreviousLink">之前的链接啦~ヾ(≧▽≦*)o</string>
+
+<string name="EventLogEditedGroupDescription">un1 修改了秘密基地🏰一句话介绍可爱的你~😊:</string>
+
+<string name="EventLogEditedChannelDescription">un1 修改了萌萌广播站📢一句话介绍可爱的你~😊:</string>
+
+<string name="EventLogPreviousGroupDescription">之前的一句话介绍可爱的你~😊</string>
+
+<string name="EventLogToggledInvitesHistoryOn">un1 小设定呀(〃∀〃)小纸条飞呀飞~💌记录对新小可爱们~🥰可见</string>
+
+<string name="EventLogToggledInvitesHistoryOff">un1 小设定呀(〃∀〃)小纸条飞呀飞~💌记录对新小可爱们~🥰不可见</string>
+
+<string name="EventLogToggledInvitesOn">un1 启用了秘密基地🏰小可爱们~🥰的邀请小小的魔法棒~🪄</string>
+
+<string name="EventLogToggledInvitesOff">un1 禁用了秘密基地🏰小可爱们~🥰的邀请小小的魔法棒~🪄</string>
+
+<string name="EventLogToggledSignaturesOn">un1 启用了小纸条飞呀飞~💌署名</string>
+
+<string name="EventLogToggledSignaturesOff">un1 禁用了小纸条飞呀飞~💌署名</string>
+
+<string name="EventLogRestrictedUntil">修改了 %1$s 的小小的魔法棒~🪄\n\n时长: %2$s</string>
+
+<string name="EventLogDefaultPermissions">更改了最初的模样~👶小小的魔法棒~🪄</string>
+
+<string name="EventLogRestrictedSendStickers">biu的一下发出去~🚀可爱表情包~😻和 会动的萌图图~💃</string>
+
+<string name="EventLogRestrictedSendMedia">biu的一下发出去~🚀媒体</string>
+
+<string name="EventLogRestrictedChangeInfo">修改秘密基地🏰信息</string>
+
+<string name="EventLogRestrictedInviteUsers">邀请新小可爱们~🥰</string>
+
+<string name="EventLogRestrictedPinMessages">放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="EventLogRestrictedSendPolls">发起投票啾~😘</string>
+
+<string name="EventLogRestrictedSendMessages">biu的一下发出去~🚀小纸条飞呀飞~💌</string>
+
+<string name="EventLogRestrictedSendEmbed">显示链接预览呀~o(〃＾▽＾〃)o</string>
+
+<string name="EventLogRestrictedReadMessages">查看小纸条飞呀飞~💌</string>
+
+<string name="EventLogPromoted">修改了 %1$s 的小小的魔法棒~🪄</string>
+
+<string name="EventLogPromotedChangeChannelInfo">修改萌萌广播站📢信息</string>
+
+<string name="EventLogPromotedChangeGroupInfo">修改秘密基地🏰信息</string>
+
+<string name="EventLogPromotedPostMessages">发布小纸条飞呀飞~💌</string>
+
+<string name="EventLogPromotedEditMessages">变漂亮一点~💅小纸条飞呀飞~💌</string>
+
+<string name="EventLogPromotedDeleteMessages">丢到小黑洞里去~🗑️小纸条飞呀飞~💌</string>
+
+<string name="EventLogPromotedAddAdmins">添加守护天使~👼</string>
+
+<string name="EventLogPromotedSendAnonymously">匿名biu的一下发出去~🚀</string>
+
+<string name="EventLogPromotedBanUsers">封禁用户呀~o(〃＾▽＾〃)o</string>
+
+<string name="EventLogPromotedManageCall">管理悄悄话传声筒🎤一起聊天气泡咕噜噜~💬</string>
+
+<string name="EventLogPromotedAddUsers">添加小可爱们~🥰</string>
+
+<string name="EventLogPromotedTitle">头衔：%1$s呢~w(ﾟДﾟ)w</string>
+
+<string name="EventLogPromotedRemovedTitle">头衔呢~w(ﾟДﾟ)w</string>
+
+<string name="EventLogPromotedPinMessages">放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="EventLogFilterAll">所有操作啾~😘</string>
+
+<string name="EventLogFilterNewRestrictions">新例外鸭~🦆</string>
+
+<string name="EventLogFilterNewAdmins">任免守护天使~👼</string>
+
+<string name="EventLogFilterNewMembers">新小可爱们~🥰加入</string>
+
+<string name="EventLogFilterGroupInfo">秘密基地🏰信息变更</string>
+
+<string name="EventLogFilterChannelInfo">萌萌广播站📢信息变更</string>
+
+<string name="EventLogFilterDeletedMessages">小纸条飞呀飞~💌丢到小黑洞里去~🗑️</string>
+
+<string name="EventLogFilterEditedMessages">小纸条飞呀飞~💌变漂亮一点~💅</string>
+
+<string name="EventLogFilterPinnedMessages">小纸条飞呀飞~💌放到最显眼的地方~📌</string>
+
+<string name="EventLogFilterLeavingMembers">小可爱们~🥰下次再来玩哦~👋</string>
+
+<string name="EventLogFilterCalls">Voice chats啾~😘</string>
+
+<string name="EventLogToggledSlowmodeOn">un1 将慢速模式定时器小设定呀(〃∀〃)为 %1$s</string>
+
+<string name="EventLogToggledSlowmodeOff">un1 禁用了慢速模式啾~😘</string>
+
+<string name="EventLogStartedVoiceChat">un1 started a voice chat</string>
+
+<string name="EventLogEndedVoiceChat">un1 ended the voice chat</string>
+
+<string name="EventLogVoiceChatMuted">un1 muted un2鸭~🦆</string>
+
+<string name="EventLogVoiceChatUnmuted">un1 unmuted un2啾~😘</string>
+
+<string name="EventLogVoiceChatAllowedToSpeak">un1 allowed new participants to speak</string>
+
+<string name="EventLogVoiceChatNotAllowedToSpeak">un1 muted new participants</string>
+
+<string name="NewBroadcastList">新建群发列表啾~😘</string>
+
+<string name="EnterListName">输入列表名称啾~😘</string>
+
+<string name="YouCreatedBroadcastList">您一起来创造吧！🌟了一个群发小纸条飞呀飞~💌列表</string>
+
+<string name="AddRecipient">添加接收者啾~😘</string>
+
+<string name="KickFromBroadcast">从群发小纸条飞呀飞~💌名单中移除</string>
+
+<string name="NoAudioFiles">无音频珍贵的小宝物💎。</string>
+
+<string name="NoAudioFilesInfo">主人你的音乐库对哒对哒！(≧∇≦)/空的。</string>
+
+<string name="NoAudioFound">找不到结果鸭~🦆</string>
+
+<string name="NoAudioFoundInfo">在主人你的音乐库中找不到 **%1$s**。</string>
+
+<string name="NoAudioFoundPlayerInfo">没有匹配 **%1$s** 的结果.啾~😘</string>
+
+<string name="AttachMusic">音乐呢~w(ﾟДﾟ)w</string>
+
+<string name="AudioUnknownArtist">未知艺术家呀~o(〃＾▽＾〃)o</string>
+
+<string name="AudioUnknownTitle">未知标题啦~ヾ(≧▽≦*)o</string>
+
+<string name="RepeatSong">循环呀~o(〃＾▽＾〃)o</string>
+
+<string name="RepeatList">循环播放哦~(*^▽^*)</string>
+
+<string name="ShuffleList">随机播放啾~😘</string>
+
+<string name="ReverseOrder">倒序啦~ヾ(≧▽≦*)o</string>
+
+<string name="SelectFile">选一个心动的~💖珍贵的小宝物💎</string>
+
+<string name="SearchRecentFiles">寻宝开始~🔍最近珍贵的小宝物💎</string>
+
+<string name="FreeOfTotal">%1$s 可用，共 %2$s啦~ヾ(≧▽≦*)o</string>
+
+<string name="UnknownError">未知呜哇！出错啦Σ( ° △ °|||)︴</string>
+
+<string name="AccessError">访问出错呢~w(ﾟДﾟ)w</string>
+
+<string name="FileUploadLimit">珍贵的小宝物💎大小不能超过 %1$s</string>
+
+<string name="NotMounted">未挂载存储器喵~ฅ́˘ฅ̀</string>
+
+<string name="UsbActive">已启用 USB 传输啦~ヾ(≧▽≦*)o</string>
+
+<string name="InternalStorage">内部存储器鸭~🦆</string>
+
+<string name="ExternalStorage">外部存储器鸭~🦆</string>
+
+<string name="SystemRoot">系统根目录啦~ヾ(≧▽≦*)o</string>
+
+<string name="SdCard">SD 卡喵~ฅ́˘ฅ̀</string>
+
+<string name="Folder">珍贵的小宝物💎夹</string>
+
+<string name="RecentFiles">最近珍贵的小宝物💎</string>
+
+<string name="RecentFilesAZ">最近珍贵的小宝物💎 (A-Z)</string>
+
+<string name="NoFilesFound">找不到结果。</string>
+
+<string name="NoFilesFoundInfo">在这个珍贵的小宝物💎夹中找不到 **%1$s**。</string>
+
+<string name="NoFilesInfo">这个珍贵的小宝物💎夹对哒对哒！(≧∇≦)/空的。</string>
+
+<string name="GalleryInfo">biu的一下发出去~🚀原图</string>
+
+<string name="MusicInfo">biu的一下发出去~🚀音乐珍贵的小宝物💎</string>
+
+<string name="AppFolderInfo">浏览App酱~📱珍贵的小宝物💎夹</string>
+
+<string name="InternalFolderInfo">浏览主人你的珍贵的小宝物💎系统</string>
+
+<string name="ExternalFolderInfo">浏览主人你的外置存储</string>
+
+<string name="SearchMusic">寻宝开始~🔍音乐</string>
+
+<string name="GroupStickers">秘密基地🏰可爱表情包~😻包</string>
+
+<string name="ChooseFromYourStickers">从您收藏的可爱表情包~😻包中选一个心动的~💖</string>
+
+<string name="GroupStickersInfo">你可以为所有群小可爱们~🥰选一个心动的~💖一个可爱表情包~😻包，这样当他们在群里一起聊天气泡咕噜噜~💬时都可以看到并使用它。</string>
+
+<string name="ChooseStickerSet">选一个心动的~💖可爱表情包~😻包</string>
+
+<string name="ChooseStickerSetPlaceholder">可爱表情包~😻包</string>
+
+<string name="ChooseStickerSetMy">您可以通过万能小助手Bot~🤖 @stickers 一起来创造吧！🌟您自己的可爱表情包~😻包。</string>
+
+<string name="ChooseStickerSetNotFound">可爱表情包~😻包未找到</string>
+
+<string name="ChooseStickerSetNotFoundInfo">请检查主人你的输入，或从下面列表中选取一个</string>
+
+<string name="Invisible">隐身哦~(*^▽^*)</string>
+
+<string name="SupportStatus">技术小天使~👼</string>
+
+<string name="Typing">正在输入...喵~ฅ́˘ฅ̀</string>
+
+<string name="IsTyping">正在输入...喵~ฅ́˘ฅ̀</string>
+
+<string name="AreTyping">都在输入...喵~ฅ́˘ฅ̀</string>
+
+<string name="IsTypingGroup">%1$s 正在输入...啦~ヾ(≧▽≦*)o</string>
+
+<string name="AreTypingGroup">%1$s 正在输入...啦~ヾ(≧▽≦*)o</string>
+
+<string name="IsRecordingAudio">%1$s 正在录制悄悄话传声筒🎤留言...</string>
+
+<string name="IsRecordingRound">%1$s 正在录制精彩小剧场🎬留言...</string>
+
+<string name="IsSendingAudio">%1$s 正在biu的一下发出去~🚀音乐...</string>
+
+<string name="IsSendingPhoto">%1$s 正在biu的一下发出去~🚀闪亮亮的照片✨...</string>
+
+<string name="InstantView">即时预览啾~😘</string>
+
+<string name="OpenGroup">查看秘密基地🏰</string>
+
+<string name="OpenBackground">查看背景图啦~ヾ(≧▽≦*)o</string>
+
+<string name="OpenTheme">预览换上新衣服~👗</string>
+
+<string name="OpenChannel">查看萌萌广播站📢</string>
+
+<string name="OpenMessage">查看小纸条飞呀飞~💌</string>
+
+<string name="InstantViewNightMode">暗色换上新衣服~👗将会在夜间自动启用</string>
+
+<string name="InstantViewReference">引用哦~(*^▽^*)</string>
+
+<string name="IsSendingGame">%1$s 正在玩游戏...啾~😘</string>
+
+<string name="IsSendingVideo">%1$s 正在biu的一下发出去~🚀精彩小剧场🎬...</string>
+
+<string name="IsSendingFile">%1$s 正在biu的一下发出去~🚀珍贵的小宝物💎...</string>
+
+<string name="RecordingAudio">正在录制悄悄话传声筒🎤留言...</string>
+
+<string name="RecordingRound">正在录制精彩小剧场🎬留言...</string>
+
+<string name="SendingAudio">正在biu的一下发出去~🚀音乐...</string>
+
+<string name="SendingPhoto">正在biu的一下发出去~🚀闪亮亮的照片✨...</string>
+
+<string name="SendingGame">正在玩游戏...鸭~🦆</string>
+
+<string name="SendingVideoStatus">正在biu的一下发出去~🚀精彩小剧场🎬...</string>
+
+<string name="SendingFile">正在biu的一下发出去~🚀珍贵的小宝物💎...</string>
+
+<string name="GotAQuestion">对 电报酱~✨ 有疑问？</string>
+
+<string name="ChatGallery">相册喵~ฅ́˘ฅ̀</string>
+
+<string name="ChatLocation">你在哪里呀~📍</string>
+
+<string name="ChatVideo">精彩小剧场🎬</string>
+
+<string name="ChatDocument">珍贵的小宝物💎</string>
+
+<string name="ChatCamera">魔法拍照机📸</string>
+
+<string name="NoMessages">暂无小纸条飞呀飞~💌...</string>
+
+<string name="NoScheduledMessages">暂无定时小纸条飞呀飞~💌...</string>
+
+<string name="ForwardedMessage">分享这份快乐~🥰的小纸条飞呀飞~💌</string>
+
+<string name="From">来自啦~ヾ(≧▽≦*)o</string>
+
+<string name="FromFormatted">来自 %1$s鸭~🦆</string>
+
+<string name="SearchFrom">来自：啾~😘</string>
+
+<string name="NoRecent">没有最近使用喵~ฅ́˘ฅ̀</string>
+
+<string name="Message">小纸条飞呀飞~💌</string>
+
+<string name="TypeMessage">输入小纸条飞呀飞~💌</string>
+
+<string name="TypeScheduleMessage">定时小纸条飞呀飞~💌</string>
+
+<string name="ShareMyPhone">SHARE MY PHONE NUMBER</string>
+
+<string name="ShareMyContactInfo">分享我的联系方式啾~😘</string>
+
+<string name="AddToContacts">添加到这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="EncryptedPlaceholderTitleIncoming">%s 邀请您进入加密对话。</string>
+
+<string name="EncryptedPlaceholderTitleOutgoing">您已邀请 %s 进入加密对话。</string>
+
+<string name="EncryptedDescriptionTitle">加密对话：呢~w(ﾟДﾟ)w</string>
+
+<string name="EncryptedDescription1">使用端到端加密呢~w(ﾟДﾟ)w</string>
+
+<string name="EncryptedDescription2">不会在我们的服务器上留下任何痕迹哦~(*^▽^*)</string>
+
+<string name="EncryptedDescription3">技术小天使~👼阅后即焚</string>
+
+<string name="EncryptedDescription4">不允许分享这份快乐~🥰小纸条飞呀飞~💌</string>
+
+<string name="YouWereKicked">您已被此秘密基地🏰移除</string>
+
+<string name="YouLeft">您已经下次再来玩哦~👋此秘密基地🏰</string>
+
+<string name="DeleteThisGroup">丢到小黑洞里去~🗑️秘密基地🏰记录</string>
+
+<string name="DeleteThisChat">丢到小黑洞里去~🗑️此对话</string>
+
+<string name="DeleteThisChatBothSides">丢到小黑洞里去~🗑️此对话</string>
+
+<string name="DeleteTheseChatsBothSides">丢到小黑洞里去~🗑️对话</string>
+
+<string name="SlideToCancel">滑动以不要了啦~🙅‍♀️</string>
+
+<string name="SaveToDownloads">好好藏起来~💾到下载珍贵的小宝物💎夹</string>
+
+<string name="SaveToGIFs">好好藏起来~💾到 会动的萌图图~💃 库</string>
+
+<string name="DeleteGif">丢到小黑洞里去~🗑️此 会动的萌图图~💃？</string>
+
+<string name="SaveToMusic">好好藏起来~💾到音乐库</string>
+
+<string name="ShareFile">分享啦~ヾ(≧▽≦*)o</string>
+
+<string name="ApplyLocalizationFile">使用本地化配置啾~😘</string>
+
+<string name="ApplyThemeFile">App酱~📱换上新衣服~👗珍贵的小宝物💎</string>
+
+<string name="UnsupportedAttachment">不技术小天使~👼此附件</string>
+
+<string name="SetTimer">小设定呀(〃∀〃)阅后即焚计时器</string>
+
+<string name="ServiceNotifications">服务叮咚~小提醒来啦！🔔</string>
+
+<string name="GettingLinkInfo">正在获取链接信息...呀~o(〃＾▽＾〃)o</string>
+
+<string name="OpenInBrowser">使用其他App酱~📱打开</string>
+
+<string name="OpenInExternalApp">使用其他App酱~📱打开...</string>
+
+<string name="SendItems">biu的一下发出去~🚀 %1$s</string>
+
+<string name="UploadItems">上传 %1$s哦~(*^▽^*)</string>
+
+<string name="SendAsFile">biu的一下发出去~🚀原图</string>
+
+<string name="SendAsFiles">biu的一下发出去~🚀原图</string>
+
+<string name="OpenUrlTitle">打开链接哦~(*^▽^*)</string>
+
+<string name="OpenUrlAlert2">您想打开 %1$s 吗？</string>
+
+<string name="OpenUrlOption1">以 **%2$s** 身份欢迎回家~🏡 %1$s</string>
+
+<string name="OpenUrlOption2">允许 **%1$s** 向我biu的一下发出去~🚀小纸条飞呀飞~💌</string>
+
+<string name="CancelSending">不要了啦~🙅‍♀️biu的一下发出去~🚀</string>
+
+<string name="BotPermissionGameAlert">对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭允许 %1$s 传送主人你的 电报酱~✨ 昵称及 ID（不对哒对哒！(≧∇≦)/主人你的手机号码）到通过万能小助手Bot~🤖打开的网页中呢？</string>
+
+<string name="ReportSpamLocation">秘密基地🏰与你在哪里呀~📍无关？</string>
+
+<string name="ReportUnrelatedGroup">告诉管理员哥哥/姐姐~👮无关秘密基地🏰</string>
+
+<string name="ReportUnrelatedGroupText">如果此秘密基地🏰与此你在哪里呀~📍无关，请告知我们：\n\n**%1$s**</string>
+
+<string name="ReportUnrelatedGroupTextNoAddress">如果此秘密基地🏰与此你在哪里呀~📍无关，请告知我们。</string>
+
+<string name="ReportSpam">告诉管理员哥哥/姐姐~👮垃圾信息</string>
+
+<string name="ReportSpamTitle">告诉管理员哥哥/姐姐~👮骚扰行为</string>
+
+<string name="BlockUserTitle">屏蔽 %1$s哦~(*^▽^*)</string>
+
+<string name="ReportSpamUser">不跟他玩了哼！😒</string>
+
+<string name="ReportSpamAndLeave">告诉管理员哥哥/姐姐~👮骚扰行为并下次再来玩哦~👋</string>
+
+<string name="AddContactChat">添加这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="AddContactFullChat">添加 %1$s 到这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="ViewContact">查看这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="BlockUserAlert">您想屏蔽 %1$s 的所有小纸条飞呀飞~💌和通话吗？</string>
+
+<string name="BlockUserReplyAlert">Do you want to block messages from **%1$s**?</string>
+
+<string name="ReportSpamAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要告诉管理员哥哥/姐姐~👮此用户存在骚扰行为？</string>
+
+<string name="ReportSpamAlertGroup">您好呀好呀！(๑•̀ㅂ•́)و✧要告诉管理员哥哥/姐姐~👮此秘密基地🏰发布垃圾信息吗？</string>
+
+<string name="ReportSpamAlertChannel">您好呀好呀！(๑•̀ㅂ•́)و✧要告诉管理员哥哥/姐姐~👮该萌萌广播站📢发布垃圾信息吗？</string>
+
+<string name="NobodyLikesSpam1">抱歉，您现在只能给双向这个超重要哦！🌟的盆友们🫂biu的一下发出去~🚀小纸条飞呀飞~💌。</string>
+
+<string name="NobodyLikesSpam2">抱歉，您现在只能将双向这个超重要哦！🌟的盆友们🫂添加到秘密基地🏰。</string>
+
+<string name="NobodyLikesSpam3">抱歉，目前您已被禁止在公开秘密基地🏰中biu的一下发出去~🚀小纸条飞呀飞~💌。</string>
+
+<string name="MoreInfo">详情呀~o(〃＾▽＾〃)o</string>
+
+<string name="ShareSendTo">分享这份快乐~🥰到...</string>
+
+<string name="ShareComment">补充评论...鸭~🦆</string>
+
+<string name="TapHereGifs">点击这里访问好好藏起来~💾的 会动的萌图图~💃</string>
+
+<string name="PinMessage">放到最显眼的地方~📌</string>
+
+<string name="PinNotify">叮咚~小提醒来啦！🔔所有小可爱们~🥰</string>
+
+<string name="PinAlsoFor">也为 %1$s 放到最显眼的地方~📌</string>
+
+<string name="UnpinMessage">从上面拿下来啦~🔽</string>
+
+<string name="PinMessageAlertTitle">放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="UnpinMessageAlertTitle">从上面拿下来啦~🔽小纸条飞呀飞~💌</string>
+
+<string name="PinOldMessageAlert">您想放到最显眼的地方~📌一条较旧的小纸条飞呀飞~💌，并同时保留一则最新的小纸条飞呀飞~💌吗？</string>
+
+<string name="PinMessageAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要在秘密基地🏰中放到最显眼的地方~📌此小纸条飞呀飞~💌？</string>
+
+<string name="PinMessageAlertChannel">您好呀好呀！(๑•̀ㅂ•́)و✧要在萌萌广播站📢中放到最显眼的地方~📌此小纸条飞呀飞~💌？</string>
+
+<string name="PinMessageAlertChat">您好呀好呀！(๑•̀ㅂ•́)و✧要在对话中放到最显眼的地方~📌此小纸条飞呀飞~💌？</string>
+
+<string name="UnpinMessageAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要从上面拿下来啦~🔽此小纸条飞呀飞~💌吗？</string>
+
+<string name="DeleteBanUser">封禁用户呀~o(〃＾▽＾〃)o</string>
+
+<string name="DeleteReportSpam">告诉管理员哥哥/姐姐~👮垃圾信息</string>
+
+<string name="DeleteAllFrom">丢到小黑洞里去~🗑️所有 %1$s biu的一下发出去~🚀的小纸条飞呀飞~💌</string>
+
+<string name="ClearRecentEmoji">清除最近使用的 emoji 列表？</string>
+
+<string name="Emoji1">笑脸和人啦~ヾ(≧▽≦*)o</string>
+
+<string name="Emoji2">动物和自然呢~w(ﾟДﾟ)w</string>
+
+<string name="Emoji3">饮食呢~w(ﾟДﾟ)w</string>
+
+<string name="Emoji4">活动呢~w(ﾟДﾟ)w</string>
+
+<string name="Emoji5">出行和地点喵~ฅ́˘ฅ̀</string>
+
+<string name="Emoji6">物品呢~w(ﾟДﾟ)w</string>
+
+<string name="Emoji7">符号呀~o(〃＾▽＾〃)o</string>
+
+<string name="Emoji8">旗帜呢~w(ﾟДﾟ)w</string>
+
+<string name="ReportChat">告诉管理员哥哥/姐姐~👮</string>
+
+<string name="ReportChatSent">告诉管理员哥哥/姐姐~👮成功送到！(*^▽^*)</string>
+
+<string name="ReportChatSpam">垃圾信息呀~o(〃＾▽＾〃)o</string>
+
+<string name="ReportChatViolence">暴力呀~o(〃＾▽＾〃)o</string>
+
+<string name="ReportChatPornography">色情呀~o(〃＾▽＾〃)o</string>
+
+<string name="ReportChatChild">儿童虐待啾~😘</string>
+
+<string name="ReportChatOther">其它哦~(*^▽^*)</string>
+
+<string name="ReportChatDescription">详情呀~o(〃＾▽＾〃)o</string>
+
+<string name="PinnedMessage">放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="PreviousPinnedMessage">之前放到最显眼的地方~📌的小纸条飞呀飞~💌</string>
+
+<string name="PinnedPoll">放到最显眼的地方~📌投票</string>
+
+<string name="EditedMessage">已变漂亮一点~💅</string>
+
+<string name="EditMessage">变漂亮一点~💅小纸条飞呀飞~💌</string>
+
+<string name="EditCaption">变漂亮一点~💅说明</string>
+
+<string name="EditMessageMedia">点按变漂亮一点~💅媒体珍贵的小宝物💎</string>
+
+<string name="EditMessageEditPhoto">Edit this photo啾~😘</string>
+
+<string name="EditMessageEditVideo">Edit this video啾~😘</string>
+
+<string name="EditMessageReplacePhoto">Replace photo啦~ヾ(≧▽≦*)o</string>
+
+<string name="EditMessageReplaceVideo">Replace video啾~😘</string>
+
+<string name="EditMessageReplaceGif">Replace media喵~ฅ́˘ฅ̀</string>
+
+<string name="EditMessageReplaceFile">Replace file呀~o(〃＾▽＾〃)o</string>
+
+<string name="EditMessageReplaceAudio">Replace audio file呀~o(〃＾▽＾〃)o</string>
+
+<string name="AttachBotsHelp">上划查看万能小助手Bot~🤖</string>
+
+<string name="TimeToEdit">%1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="TimeToEditExpired">抱歉，已超过可变漂亮一点~💅时间。</string>
+
+<string name="AddShortcut">添加到主屏幕呢~w(ﾟДﾟ)w</string>
+
+<string name="SearchMembers">寻宝开始~🔍小可爱们~🥰</string>
+
+<string name="ChatYourSelf">分享这份快乐~🥰至此以好好藏起来~💾</string>
+
+<string name="SavedMessages">收藏夹啦~ヾ(≧▽≦*)o</string>
+
+<string name="SavedMessagesInfo">分享这份快乐~🥰至此以好好藏起来~💾</string>
+
+<string name="ChatYourSelfName">您呢~w(ﾟДﾟ)w</string>
+
+<string name="GroupEmptyTitle1">您一起来创造吧！🌟了一个**秘密基地🏰**</string>
+
+<string name="GroupEmptyTitle2">秘密基地🏰可以拥有：</string>
+
+<string name="GroupDescription1">最多 200,000 位小可爱们~🥰</string>
+
+<string name="GroupDescription2">历史记录永久保留啾~😘</string>
+
+<string name="GroupDescription3">如 t.me/title 一样的公开链接呀~o(〃＾▽＾〃)o</string>
+
+<string name="GroupDescription4">小设定呀(〃∀〃)小小的魔法棒~🪄细分的守护天使~👼</string>
+
+<string name="ChatYourSelfDescription1">分享这份快乐~🥰小纸条飞呀飞~💌到这里来好好藏起来~💾它们</string>
+
+<string name="ChatYourSelfDescription2">biu的一下发出去~🚀媒体和珍贵的小宝物💎来存储它们</string>
+
+<string name="ChatYourSelfDescription3">在任意你的小手机/小电脑~💻📱上访问此对话</string>
+
+<string name="ChatYourSelfDescription4">使用寻宝开始~🔍来更快地查找信息</string>
+
+<string name="ChatYourSelfTitle">主人你的云存储</string>
+
+<string name="JumpToDate">跳转呀~o(〃＾▽＾〃)o</string>
+
+<string name="DeleteForUser">为 %1$s 丢到小黑洞里去~🗑️</string>
+
+<string name="DeleteForAll">为所有小可爱们~🥰丢到小黑洞里去~🗑️</string>
+
+<string name="TextCopied">文字已复制一份魔法~🪄到剪贴板</string>
+
+<string name="HoldToAudioOnly">按住以录制音频。</string>
+
+<string name="HoldToAudio">按住录制悄悄话传声筒🎤，点按切换为精彩小剧场🎬</string>
+
+<string name="HoldToVideo">按住录制精彩小剧场🎬，点按切换为悄悄话传声筒🎤</string>
+
+<string name="DiscardVoiceMessageTitle">放弃录制悄悄话传声筒🎤留言</string>
+
+<string name="DiscardVoiceMessageDescription">您好呀好呀！(๑•̀ㅂ•́)و✧要停止录制并放弃已录制的悄悄话传声筒🎤留言吗？</string>
+
+<string name="DiscardVideoMessageTitle">放弃录制留言呀~o(〃＾▽＾〃)o</string>
+
+<string name="DiscardVideoMessageDescription">您好呀好呀！(๑•̀ㅂ•́)و✧要停止录制并放弃已录制的精彩小剧场🎬留言吗？</string>
+
+<string name="DiscardVoiceMessageAction">放弃啦~ヾ(≧▽≦*)o</string>
+
+<string name="AttachMediaRestricted">此秘密基地🏰的守护天使~👼限制了您在此biu的一下发出去~🚀媒体珍贵的小宝物💎的小小的魔法棒~🪄直到 %1$s</string>
+
+<string name="AttachInlineRestricted">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀万能小助手Bot~🤖内容至 %1$s</string>
+
+<string name="AttachStickersRestricted">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀可爱表情包~😻至 %1$s</string>
+
+<string name="AttachGifRestricted">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀 会动的萌图图~💃 至 %1$s</string>
+
+<string name="SendMessageRestricted">您已被守护天使~👼禁言至 %1$s</string>
+
+<string name="AttachMediaRestrictedForever">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀媒体珍贵的小宝物💎。</string>
+
+<string name="AttachInlineRestrictedForever">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀万能小助手Bot~🤖内容。</string>
+
+<string name="AttachStickersRestrictedForever">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀可爱表情包~😻。</string>
+
+<string name="AttachGifRestrictedForever">秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀 会动的萌图图~💃。</string>
+
+<string name="SendMessageRestrictedForever">您已被守护天使~👼禁言</string>
+
+<string name="GlobalAttachMediaRestricted">此秘密基地🏰不允许biu的一下发出去~🚀媒体。</string>
+
+<string name="GlobalAttachInlineRestricted">此秘密基地🏰不允许 Inline 万能小助手Bot~🤖。</string>
+
+<string name="GlobalAttachStickersRestricted">此秘密基地🏰不允许biu的一下发出去~🚀可爱表情包~😻。</string>
+
+<string name="GlobalAttachGifRestricted">此秘密基地🏰不允许biu的一下发出去~🚀 会动的萌图图~💃。</string>
+
+<string name="GlobalSendMessageRestricted">全员禁言中鸭~🦆</string>
+
+<string name="ChatAdmin">守护天使~👼</string>
+
+<string name="ApkRestricted">此App酱~📱已被限制安装 APK，你可以在系统小设定呀(〃∀〃)中启用它。</string>
+
+<string name="UnreadMessages">未读小纸条飞呀飞~💌</string>
+
+<string name="SearchStickersHint">寻宝开始~🔍可爱表情包~😻包</string>
+
+<string name="SearchTrendingStickersHint">寻宝开始~🔍热门可爱表情包~😻</string>
+
+<string name="SearchEmojiHint">寻宝开始~🔍 emoji</string>
+
+<string name="URL">链接呢~w(ﾟДﾟ)w</string>
+
+<string name="MapPreviewProvider">地图预览提供商啦~ヾ(≧▽≦*)o</string>
+
+<string name="MapPreviewProviderTitle">地图预览提供商啦~ヾ(≧▽≦*)o</string>
+
+<string name="MapPreviewProviderTelegram">电报酱~✨</string>
+
+<string name="MapPreviewProviderGoogle">Google哦~(*^▽^*)</string>
+
+<string name="MapPreviewProviderYandex">Yandex鸭~🦆</string>
+
+<string name="MapPreviewProviderNobody">不使用预览哦~(*^▽^*)</string>
+
+<string name="InstallGoogleMaps">安装 Google 地图？</string>
+
+<string name="ScamMessage">SCAM鸭~🦆</string>
+
+<string name="ViaBot">通过喵~ฅ́˘ฅ̀</string>
+
+<string name="MessageNotFound">小纸条飞呀飞~💌不存在</string>
+
+<string name="SlowModeHint">慢速模式已启用。您可以\n在%1$s后biu的一下发出去~🚀下一条小纸条飞呀飞~💌</string>
+
+<string name="TapForVideo">点按照相，按住录像鸭~🦆</string>
+
+<string name="TapToViewAsList">点击以列表方式查看。</string>
+
+<string name="SendWithoutSound">嘘~保持安静哦~🤫biu的一下发出去~🚀</string>
+
+<string name="SendAsNewPhoto">Send as a new photo</string>
+
+<string name="ReplacePhoto">Replace photo啦~ヾ(≧▽≦*)o</string>
+
+<string name="MessageScheduleSend">立刻biu的一下发出去~🚀</string>
+
+<string name="MessageScheduleEditTime">重新定时呢~w(ﾟДﾟ)w</string>
+
+<string name="MessageScheduleToday">就对哒对哒！(≧∇≦)/今天呀！🌟</string>
+
+<string name="Schedule">定时biu的一下发出去~🚀</string>
+
+<string name="ScheduleMessage">定时biu的一下发出去~🚀</string>
+
+<string name="ScheduledMessages">定时小纸条飞呀飞~💌</string>
+
+<string name="ScheduleWhenOnline">当 %1$s 上线时biu的一下发出去~🚀</string>
+
+<string name="Reminders">提醒鸭~🦆</string>
+
+<string name="SetReminder">定时提醒哦~(*^▽^*)</string>
+
+<string name="MessageScheduledOn">在 %1$s biu的一下发出去~🚀</string>
+
+<string name="MessageScheduledUntilOnline">当上线时biu的一下发出去~🚀</string>
+
+<string name="MessageScheduledLimitReached">抱歉，您只能同时小设定呀(〃∀〃) 100 条定时小纸条飞呀飞~💌。</string>
+
+<string name="MessageScheduledBotAction">这个操作将在小纸条飞呀飞~💌发布后可用。</string>
+
+<string name="MessageScheduledVote">投票功能将在小纸条飞呀飞~💌发布后正式开始。</string>
+
+<string name="MessageScheduledVoteResults">只有在小纸条飞呀飞~💌发布后您才能看到投票结果。</string>
+
+<string name="MessageScheduledReminderNotification">📅 提醒啾~😘</string>
+
+<string name="OneResult">1 结果呢~w(ﾟДﾟ)w</string>
+
+<string name="VideoQualityIsTooLow">精彩小剧场🎬质量太低，做不到啦~TAT更改压缩小设定呀(〃∀〃)。</string>
+
+<string name="TextSelectionHit">按住小纸条飞呀飞~💌中的**文字**，移动光标选一个心动的~💖完毕之后即可复制一份魔法~🪄。</string>
+
+<string name="CardNumberCopied">银行卡号已复制一份魔法~🪄到剪切板</string>
+
+<string name="CopyCardNumber">赋值啦~ヾ(≧▽≦*)o</string>
+
+<string name="DiceInfo2">biu的一下发出去~🚀一个 **:dice:** Emoji 到任何对话以掷骰子。</string>
+
+<string name="DartInfo">biu的一下发出去~🚀一个 **:darts:** 来试试你的运气。</string>
+
+<string name="DiceEmojiInfo">biu的一下发出去~🚀一个 %1$s emoji 以试试主人你的运气。</string>
+
+<string name="SendDice">biu的一下发出去~🚀</string>
+
+<string name="PsaType_covid">新冠肺炎 (COVID-19)啾~😘</string>
+
+<string name="PsaTypeDefault">公共服务叮咚~小提醒来啦！🔔</string>
+
+<string name="PsaInfo_covid">此小纸条飞呀飞~💌为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多信息：https://telegram.org/blog/coronavirus</string>
+
+<string name="PsaInfoDefault">公共服务公告信息测试喵~ฅ́˘ฅ̀</string>
+
+<string name="PsaMessage_covid">新冠肺炎叮咚~小提醒来啦！🔔</string>
+
+<string name="PsaMessageInfo_covid">此小纸条飞呀飞~💌为您提供正在发生的新冠肺炎疫情相关公共服务公告。了解有关此计划的更多信息：https://telegram.org/blog/coronavirus</string>
+
+<string name="PsaMessageDefault">这个超重要哦！🌟叮咚~小提醒来啦！🔔</string>
+
+<string name="PsaMessageInfoDefault">这对哒对哒！(≧∇≦)/一个这个超重要哦！🌟的叮咚~小提醒来啦！🔔。</string>
+
+<string name="PsaHideChatAlertTitle">隐藏对话哦~(*^▽^*)</string>
+
+<string name="PsaHideChatAlertText">您好呀好呀！(๑•̀ㅂ•́)و✧要隐藏此对话吗？</string>
+
+<string name="PsaHide">隐藏呀~o(〃＾▽＾〃)o</string>
+
+<string name="NearbyPeopleGreetingsDescription">biu的一下发出去~🚀小纸条飞呀飞~💌或点击下面的问候语表明您已准备好一起聊天气泡咕噜噜~💬。</string>
+
+<string name="NearbyPeopleGreetingsMessage">%1$s %2$s呢~w(ﾟДﾟ)w</string>
+
+<string name="ChatDistanceToPeer">%1$s %2$s呢~w(ﾟДﾟ)w</string>
+
+<string name="ChatWasMovedToMainList">此一起聊天气泡咕噜噜~💬已移至主人你的主列表。</string>
+
+<string name="SecretChatTimerDays">天啾~😘</string>
+
+<string name="SecretChatTimerSeconds">秒啦~ヾ(≧▽≦*)o</string>
+
+<string name="SecretChatTimerMinutes">月啾~😘</string>
+
+<string name="SecretChatTimerHours">小时呀~o(〃＾▽＾〃)o</string>
+
+<string name="SecretChatTimerWeeks">周哦~(*^▽^*)</string>
+
+<string name="SharedToPrivateMessagesAndGroups">给私密信息和秘密基地🏰</string>
+
+<string name="BotOwnershipTransfer">万能小助手Bot~🤖转让</string>
+
+<string name="BotOwnershipTransferReadyAlertText">这将转让该万能小助手Bot~🤖的**所有小小的魔法棒~🪄**到已选用户。</string>
+
+<string name="BotOwnershipTransferChangeOwner">转让哦~(*^▽^*)</string>
+
+<string name="BotOwnershipTransferAlertText">您只有满足以下条件才能进行万能小助手Bot~🤖转让：</string>
+
+<string name="LeaveAComment">留言呀~o(〃＾▽＾〃)o</string>
+
+<string name="CommentsTitle">留言呀~o(〃＾▽＾〃)o</string>
+
+<string name="Comment">留言呀~o(〃＾▽＾〃)o</string>
+
+<string name="RepliesTitle">回个小话儿~🗣️</string>
+
+<string name="NoComments">暂无留言...啦~ヾ(≧▽≦*)o</string>
+
+<string name="NoReplies">暂无回个小话儿~🗣️...</string>
+
+<string name="ViewInChat">在一起聊天气泡咕噜噜~💬中查看</string>
+
+<string name="SendAnonymously">匿名biu的一下发出去~🚀</string>
+
+<string name="DiscussionStarted">讨论已开始哦~(*^▽^*)</string>
+
+<string name="ViewThread">查看跟评鸭~🦆</string>
+
+<string name="ChooseDate">选一个心动的~💖日期</string>
+
+<string name="RepliesChatInfo">此一起聊天气泡咕噜噜~💬将需要帮忙吗~🤝您在秘密基地🏰中跟踪对主人你的评论。</string>
+
+<string name="ChannelPostDeleted">抱歉，该贴文已从讨论群中移除。</string>
+
+<string name="UnpinAllMessages">不要了啦~🙅‍♀️所有小纸条飞呀飞~💌放到最显眼的地方~📌</string>
+
+<string name="HidePinnedMessages">隐藏放到最显眼的地方~📌小纸条飞呀飞~💌</string>
+
+<string name="PinnedMessagesHidden">放到最显眼的地方~📌小纸条飞呀飞~💌已隐藏</string>
+
+<string name="PinnedMessagesHiddenInfo">当新小纸条飞呀飞~💌被放到最显眼的地方~📌时，所以放到最显眼的地方~📌小纸条飞呀飞~💌会再次出现。</string>
+
+<string name="MessageLifetimeChanged">%1$s 已将阅后即焚计时器设定为 %2$s啦~ヾ(≧▽≦*)o</string>
+
+<string name="MessageLifetimeChangedOutgoing">您已将阅后即焚计时器设定为 %1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="MessageLifetimeRemoved">%1$s 不要了啦~🙅‍♀️了阅后即焚计时器</string>
+
+<string name="MessageLifetimeYouRemoved">您不要了啦~🙅‍♀️了阅后即焚计时器</string>
+
+<string name="YouHaveNewMessage">您有一条新小纸条飞呀飞~💌</string>
+
+<string name="NotificationMessageScheduled">📅 你: %1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="NotificationMessageScheduledName">📅 您喵~ฅ́˘ฅ̀</string>
+
+<string name="NotificationMessageText">%1$s: %2$s喵~ฅ́˘ฅ̀</string>
+
+<string name="NotificationMessageFew">%1$s biu的一下发出去~🚀给你 %2$s</string>
+
+<string name="NotificationMessageAlbum">%1$s 给您biu的一下发出去~🚀了一组闪亮亮的照片✨</string>
+
+<string name="NotificationMessageForwardFew">%1$s 向您分享这份快乐~🥰了 %2$s</string>
+
+<string name="NotificationMessageNoText">%1$s 给您biu的一下发出去~🚀了一条小纸条飞呀飞~💌</string>
+
+<string name="NotificationMessagePhoto">%1$s 给您biu的一下发出去~🚀了一张闪亮亮的照片✨</string>
+
+<string name="NotificationMessageVideo">%1$s 给您biu的一下发出去~🚀了一段精彩小剧场🎬</string>
+
+<string name="NotificationMessageInvoice">%1$s 向您biu的一下发出去~🚀了一个 %2$s 的订单</string>
+
+<string name="NotificationMessageSDPhoto">%1$s 给您biu的一下发出去~🚀了一张自毁闪亮亮的照片✨</string>
+
+<string name="NotificationMessageSDVideo">%1$s 给您biu的一下发出去~🚀了一张自毁精彩小剧场🎬</string>
+
+<string name="NotificationMessageContact2">%1$s 给您分享了一条 %2$s 这个超重要哦！🌟的盆友们🫂信息</string>
+
+<string name="NotificationMessagePoll2">%1$s 给您biu的一下发出去~🚀了一项头片 %2$s</string>
+
+<string name="NotificationMessageQuiz2">%1$s biu的一下发出去~🚀了测验“%2$s”给您</string>
+
+<string name="NotificationMessageMap">%1$s 给您biu的一下发出去~🚀了一个你在哪里呀~📍</string>
+
+<string name="NotificationMessageLiveLocation">%1$s 正在与您共享实时你在哪里呀~📍</string>
+
+<string name="NotificationMessageGame">"%1$s 邀请您玩 %2$s "</string>
+
+<string name="NotificationMessageGameScored">%1$s 在 %2$s 中获得了 %3$s 分</string>
+
+<string name="NotificationMessageDocument">%1$s 给您biu的一下发出去~🚀了一个珍贵的小宝物💎</string>
+
+<string name="NotificationMessageGif">%1$s 给您biu的一下发出去~🚀了一张 会动的萌图图~💃</string>
+
+<string name="NotificationMessageAudio">%1$s 给您biu的一下发出去~🚀了一条悄悄话传声筒🎤留言</string>
+
+<string name="NotificationMessageRound">%1$s 给您biu的一下发出去~🚀了一条精彩小剧场🎬留言</string>
+
+<string name="NotificationMessageMusic">%1$s 给您biu的一下发出去~🚀了一首音乐</string>
+
+<string name="NotificationMessageSticker">%1$s 给您biu的一下发出去~🚀了一张可爱表情包~😻</string>
+
+<string name="NotificationMessageStickerEmoji">%1$s 给您biu的一下发出去~🚀了一张 %2$s 可爱表情包~😻</string>
+
+<string name="NotificationMessageGroupText">%1$s @ %2$s: %3$s</string>
+
+<string name="NotificationMessageGroupNoText">%1$s biu的一下发出去~🚀了一条小纸条飞呀飞~💌到 %2$s 秘密基地🏰</string>
+
+<string name="NotificationMessageGroupPhoto">%1$s biu的一下发出去~🚀了一张闪亮亮的照片✨到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupVideo">%1$s biu的一下发出去~🚀了一段精彩小剧场🎬到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupPoll2">%1$s biu的一下发出去~🚀了一项投票 %3$s 到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupQuiz2">%1$s biu的一下发出去~🚀了测验“%3$s”到秘密基地🏰“%2$s”</string>
+
+<string name="NotificationMessageGroupContact2">%1$s 分享了一条这个超重要哦！🌟的盆友们🫂信息 %3$s 在秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupMap">%1$s biu的一下发出去~🚀了一个你在哪里呀~📍到 %2$s 秘密基地🏰</string>
+
+<string name="NotificationMessageGroupLiveLocation">"%1$s 共享了实时你在哪里呀~📍在秘密基地🏰 %2$s "</string>
+
+<string name="NotificationMessageGroupGame">%1$s 邀请您加入秘密基地🏰 %2$s 来玩 %3$s</string>
+
+<string name="NotificationMessageGroupGameScored">%1$s 在 %3$s 中获得了 %4$s 分在秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupDocument">%1$s biu的一下发出去~🚀了一个珍贵的小宝物💎到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupGif">%1$s biu的一下发出去~🚀了一张 会动的萌图图~💃 到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupInvoice">%1$s 给秘密基地🏰 %2$s biu的一下发出去~🚀了一张 %3$s 的账单</string>
+
+<string name="NotificationMessageGroupAudio">%1$s biu的一下发出去~🚀了一条悄悄话传声筒🎤留言到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupRound">%1$s biu的一下发出去~🚀了一条精彩小剧场🎬留言到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupMusic">%1$s biu的一下发出去~🚀了一首音乐到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupSticker">%1$s biu的一下发出去~🚀了一张可爱表情包~😻到秘密基地🏰 %2$s</string>
+
+<string name="NotificationMessageGroupStickerEmoji">%1$s biu的一下发出去~🚀了一张 %3$s 可爱表情包~😻到秘密基地🏰 %2$s</string>
+
+<string name="NotificationInvitedToGroup">"%1$s 邀请您加入秘密基地🏰 %2$s "</string>
+
+<string name="NotificationEditedGroupName">%1$s 重命名了秘密基地🏰 %2$s</string>
+
+<string name="NotificationEditedGroupPhoto">%1$s 更改了秘密基地🏰 %2$s 的头像</string>
+
+<string name="NotificationEditedGroupVideo">%1$s 更改了 %2$s 的秘密基地🏰动态头像</string>
+
+<string name="NotificationGroupAddMember">"%1$s 邀请了 %3$s 加入秘密基地🏰 %2$s "</string>
+
+<string name="NotificationGroupInvitedToCall">%1$s invited %3$s to a voice chat in %2$s</string>
+
+<string name="NotificationGroupInvitedYouToCall">%1$s invited you to a voice chat in %2$s</string>
+
+<string name="NotificationGroupCreatedCall">%1$s started a voice chat in %2$s</string>
+
+<string name="NotificationGroupAddSelf">%1$s 回到了秘密基地🏰 %2$s</string>
+
+<string name="NotificationGroupAddSelfMega">%1$s 加入了秘密基地🏰 %2$s</string>
+
+<string name="NotificationGroupKickMember">%1$s 已将 %3$s 从 %2$s 秘密基地🏰移除</string>
+
+<string name="NotificationGroupKickYou">%1$s 将您移出了 %2$s 秘密基地🏰</string>
+
+<string name="NotificationGroupLeftMember">%1$s 已下次再来玩哦~👋 %2$s 秘密基地🏰</string>
+
+<string name="NotificationContactJoined">%1$s 加入了 电报酱~✨！</string>
+
+<string name="NotificationUnrecognizedDevice">%1$s，\n我们发现主人你的小窝账号🏠在 %2$s 从新的你的小手机/小电脑~💻📱欢迎回家~🏡\n\n你的小手机/小电脑~💻📱：%3$s\n你在哪里呀~📍：%4$s\n\n如果这不对哒对哒！(≧∇≦)/您本人，您可以在「小设定呀(〃∀〃) - 小秘密要藏好~🤫和安全第一！🛡️ - 活动聊天的回忆录~📖」中将该对话注销。\n\n如果您认为其他人在您不知情的情况下欢迎回家~🏡了主人你的小窝账号🏠，您可以在「小设定呀(〃∀〃) - 小秘密要藏好~🤫和安全第一！🛡️」中开启「双重魔法守护~✨✨」。\n\n此致，\n电报酱~✨ 团队</string>
+
+<string name="NotificationContactNewPhoto">%1$s 变得更棒啦！✨了头像</string>
+
+<string name="NotificationInvitedToGroupByLink">%1$s 已通过神秘派对的入场券~🎟️加入秘密基地🏰 %2$s</string>
+
+<string name="NotificationGroupFew">%1$s biu的一下发出去~🚀了 %3$s 到秘密基地🏰 %2$s</string>
+
+<string name="NotificationGroupAlbum">%1$s biu的一下发出去~🚀了一组闪亮亮的照片✨到秘密基地🏰 %2$s</string>
+
+<string name="NotificationGroupForwardedFew">%1$s 分享这份快乐~🥰了 %3$s 到秘密基地🏰 %2$s</string>
+
+<string name="NotificationHiddenName">电报酱~✨</string>
+
+<string name="NotificationHiddenChatName">电报酱~✨</string>
+
+<string name="NotificationHiddenChatUserName">用户喵~ฅ́˘ฅ̀</string>
+
+<string name="NotificationHiddenMessage">新小纸条飞呀飞~💌</string>
+
+<string name="Reply">回个小话儿~🗣️</string>
+
+<string name="ReplyToGroup">回个小话儿~🗣️ %1$s</string>
+
+<string name="ReplyToUser">回个小话儿~🗣️给 %1$s</string>
+
+<string name="BackgroundRestricted">后台数据已被限制。</string>
+
+<string name="NotificationMessagesPeopleDisplayOrder">%1$s %2$s呢~w(ﾟДﾟ)w</string>
+
+<string name="NotificationActionPinnedText">%1$s 在秘密基地🏰 %3$s 放到最显眼的地方~📌了 \"%2$s\"</string>
+
+<string name="NotificationActionPinnedNoText">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一条小纸条飞呀飞~💌</string>
+
+<string name="NotificationActionPinnedPoll2">%1$s 放到最显眼的地方~📌了一项投票 %3$s 在秘密基地🏰 %2$s</string>
+
+<string name="NotificationActionPinnedQuiz2">%1$s 在秘密基地🏰 %2$s 中放到最显眼的地方~📌了测验“%3$s”</string>
+
+<string name="NotificationActionPinnedPhoto">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一张闪亮亮的照片✨</string>
+
+<string name="NotificationActionPinnedGame">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一个游戏</string>
+
+<string name="NotificationActionPinnedGameScore">%1$s 放到最显眼的地方~📌了一项游戏成绩在秘密基地🏰 %2$s</string>
+
+<string name="NotificationActionPinnedVideo">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一段精彩小剧场🎬</string>
+
+<string name="NotificationActionPinnedFile">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一个珍贵的小宝物💎</string>
+
+<string name="NotificationActionPinnedSticker">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一张可爱表情包~😻</string>
+
+<string name="NotificationActionPinnedStickerEmoji">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一张 %3$s 可爱表情包~😻</string>
+
+<string name="NotificationActionPinnedVoice">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一段悄悄话传声筒🎤留言</string>
+
+<string name="NotificationActionPinnedRound">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一段精彩小剧场🎬留言</string>
+
+<string name="NotificationActionPinnedContact2">%1$s 放到最显眼的地方~📌了一条这个超重要哦！🌟的盆友们🫂信息 %3$s 在秘密基地🏰 %2$s</string>
+
+<string name="NotificationActionPinnedGeo">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一个地理你在哪里呀~📍</string>
+
+<string name="NotificationActionPinnedGeoLive">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一个实时你在哪里呀~📍</string>
+
+<string name="NotificationActionPinnedGif">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一张 会动的萌图图~💃</string>
+
+<string name="NotificationActionPinnedMusic">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一首音乐</string>
+
+<string name="NotificationActionPinnedInvoice">%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一张账单</string>
+
+<string name="NotificationActionPinnedTextChannel">%1$s 放到最显眼的地方~📌了 \"%2$s\"</string>
+
+<string name="NotificationActionPinnedNoTextChannel">%1$s 放到最显眼的地方~📌了一条小纸条飞呀飞~💌</string>
+
+<string name="NotificationActionPinnedPollChannel2">%1$s 放到最显眼的地方~📌了一项投票 %2$s</string>
+
+<string name="NotificationActionPinnedQuizChannel2">%1$s 放到最显眼的地方~📌了测验 “%2$s”</string>
+
+<string name="NotificationActionPinnedPhotoChannel">%1$s 放到最显眼的地方~📌了一张闪亮亮的照片✨</string>
+
+<string name="NotificationActionPinnedGameChannel">%1$s 放到最显眼的地方~📌了一个游戏</string>
+
+<string name="NotificationActionPinnedGameScoreChannel">%1$s 放到最显眼的地方~📌了一项游戏成绩</string>
+
+<string name="NotificationActionPinnedVideoChannel">%1$s 放到最显眼的地方~📌了一段精彩小剧场🎬</string>
+
+<string name="NotificationActionPinnedFileChannel">%1$s 放到最显眼的地方~📌了一个珍贵的小宝物💎</string>
+
+<string name="NotificationActionPinnedInvoiceChannel">%1$s 放到最显眼的地方~📌了一张留言</string>
+
+<string name="NotificationActionPinnedStickerChannel">%1$s 放到最显眼的地方~📌了一张可爱表情包~😻</string>
+
+<string name="NotificationActionPinnedStickerEmojiChannel">%1$s 放到最显眼的地方~📌了 1 张 %2$s 可爱表情包~😻</string>
+
+<string name="NotificationActionPinnedVoiceChannel">%1$s 放到最显眼的地方~📌了一条悄悄话传声筒🎤留言</string>
+
+<string name="NotificationActionPinnedRoundChannel">%1$s 放到最显眼的地方~📌了一条精彩小剧场🎬留言</string>
+
+<string name="NotificationActionPinnedContactChannel2">%1$s 放到最显眼的地方~📌了一条这个超重要哦！🌟的盆友们🫂信息 %2$s</string>
+
+<string name="NotificationActionPinnedGeoChannel">%1$s 放到最显眼的地方~📌了一个你在哪里呀~📍</string>
+
+<string name="NotificationActionPinnedGeoLiveChannel">%1$s 放到最显眼的地方~📌了一个实时你在哪里呀~📍</string>
+
+<string name="NotificationActionPinnedGifChannel">%1$s 放到最显眼的地方~📌了一张 会动的萌图图~💃</string>
+
+<string name="NotificationActionPinnedMusicChannel">%1$s 放到最显眼的地方~📌了一首音乐</string>
+
+<string name="NotificationActionPinnedTextUser">%1$s 放到最显眼的地方~📌了 %2$s</string>
+
+<string name="NotificationActionPinnedNoTextUser">%1$s 放到最显眼的地方~📌了小纸条飞呀飞~💌</string>
+
+<string name="NotificationActionPinnedPollUser">%1$s 放到最显眼的地方~📌了投票 %2$s</string>
+
+<string name="NotificationActionPinnedQuizUser">%1$s 放到最显眼的地方~📌了问卷 %2$s</string>
+
+<string name="NotificationActionPinnedPhotoUser">%1$s 放到最显眼的地方~📌了照片</string>
+
+<string name="NotificationActionPinnedGameUser">%1$s 放到最显眼的地方~📌了游戏</string>
+
+<string name="NotificationActionPinnedGameScoreUser">%1$s pinned a game score</string>
+
+<string name="NotificationActionPinnedVideoUser">%1$s 放到最显眼的地方~📌了精彩小剧场🎬</string>
+
+<string name="NotificationActionPinnedFileUser">%1$s 放到最显眼的地方~📌了珍贵的小宝物💎</string>
+
+<string name="NotificationActionPinnedInvoiceUser">%1$s 放到最显眼的地方~📌了发票</string>
+
+<string name="NotificationActionPinnedStickerUser">%1$s 放到最显眼的地方~📌了可爱表情包~😻</string>
+
+<string name="NotificationActionPinnedStickerEmojiUser">%1$s 放到最显眼的地方~📌了 %2$s 张可爱表情包~😻</string>
+
+<string name="NotificationActionPinnedVoiceUser">%1$s 放到最显眼的地方~📌了音频小纸条飞呀飞~💌</string>
+
+<string name="NotificationActionPinnedRoundUser">%1$s 放到最显眼的地方~📌了精彩小剧场🎬小纸条飞呀飞~💌</string>
+
+<string name="NotificationActionPinnedContactUser">%1$s pinned a contact %2$s</string>
+
+<string name="NotificationActionPinnedGeoUser">%1$s 放到最显眼的地方~📌了地图</string>
+
+<string name="NotificationActionPinnedGeoLiveUser">%1$s 放到最显眼的地方~📌了实时你在哪里呀~📍</string>
+
+<string name="NotificationActionPinnedGifUser">%1$s 放到最显眼的地方~📌了一张会动的萌图图~💃图像</string>
+
+<string name="NotificationActionPinnedMusicUser">%1$s pinned an audio file</string>
+
+<string name="SecretChatName">电报酱~✨</string>
+
+<string name="SelectContact">选一个心动的~💖这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="SelectContacts">选一个心动的~💖这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="ContactShare">分享这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="ShareContactTitle">分享这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="AddContactPhonebookTitle">添加这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="NoContacts">还没有这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="InviteText2">嗨，我在使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%1$s</string>
+
+<string name="TodayAt">于鸭~🦆</string>
+
+<string name="YesterdayAt">于昨天发生的事~💭</string>
+
+<string name="TodayAtFormatted">%1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="TodayAtFormattedWithToday">就对哒对哒！(≧∇≦)/今天呀！🌟 %1$s</string>
+
+<string name="YesterdayAtFormatted">昨天发生的事~💭 %1$s</string>
+
+<string name="Online">在线陪你玩呀~🎮</string>
+
+<string name="LastSeen">才一小会儿~眨眼间！😉来过这里~🐾</string>
+
+<string name="LastSeenDate">才一小会儿~眨眼间！😉来过这里~🐾</string>
+
+<string name="LastSeenFormatted">才一小会儿~眨眼间！😉来过这里~🐾于 %1$s</string>
+
+<string name="LastSeenDateFormatted">才一小会儿~眨眼间！😉来过这里~🐾于 %1$s</string>
+
+<string name="InviteFriends">邀请朋友啦~ヾ(≧▽≦*)o</string>
+
+<string name="SearchFriends">寻宝开始~🔍这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="GlobalSearch">全局寻宝开始~🔍</string>
+
+<string name="Lately">最近上过线啦~ヾ(≧▽≦*)o</string>
+
+<string name="WithinAWeek">一周内有上线呢~w(ﾟДﾟ)w</string>
+
+<string name="WithinAMonth">一个月内曾上线喵~ฅ́˘ฅ̀</string>
+
+<string name="ALongTimeAgo">很久前上线哦~(*^▽^*)</string>
+
+<string name="NewMessageTitle">新建对话哦~(*^▽^*)</string>
+
+<string name="InviteFriendsHelp">选一个心动的~💖要邀请到 电报酱~✨ 的这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="InviteToTelegram">邀请到 TELEGRAM啾~😘</string>
+
+<string name="ShareTelegram">分享 电报酱~✨...</string>
+
+<string name="UpdateContactsTitle">变得更棒啦！✨这个超重要哦！🌟的盆友们🫂？</string>
+
+<string name="UpdateContactsMessage">电报酱~✨ 检测到很多未一起同步吖~🔄的这个超重要哦！🌟的盆友们🫂，您想现在将其一起同步吖~🔄吗？如果您在使用自己的你的小手机/小电脑~💻📱、SIM 卡和 Google 帐户，请选一个心动的~💖‘好呀好呀！(๑•̀ㅂ•́)و✧’。</string>
+
+<string name="SortedByName">按姓名排序呢~w(ﾟДﾟ)w</string>
+
+<string name="SortedByLastSeen">按才一小会儿~眨眼间！😉来过这里~🐾时间排序</string>
+
+<string name="AddContactByPhone">添加 %1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="PhoneNumberSearch">手机号码鸭~🦆</string>
+
+<string name="NoContactsYet">您在电报酱~✨还没有这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="NoContactsYetLine1">邀请朋友来使用电报酱~✨</string>
+
+<string name="NoContactsYetLine2">查找附近的人一起聊天气泡咕噜噜~💬</string>
+
+<string name="NoContactsYetLine3">通过你的可爱昵称~📛查找人</string>
+
+<string name="NewContactAlertTitle">新建这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="NewContactAlertMessage">The phone number **%1$s** is not in your contact list. Do you want to add it?</string>
+
+<string name="NewContactAlertButton">添加这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="SendMessageTo">添加小可爱们~🥰...</string>
+
+<string name="SoftUserLimitAlert">一起来创造吧！🌟秘密基地🏰后，您将可以添加更多小可爱们~🥰。</string>
+
+<string name="EnterGroupNamePlaceholder">输入秘密基地🏰名称</string>
+
+<string name="GroupName">秘密基地🏰名称</string>
+
+<string name="MembersCountZero">最多 %1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="JoinToGroupErrorFull">抱歉，此秘密基地🏰已满员。</string>
+
+<string name="JoinToGroupErrorNotExist">抱歉，该对话似乎不存在。</string>
+
+<string name="JoinByPeekChannelText">此萌萌广播站📢对哒对哒！(≧∇≦)/私人的。请加入以继续冲鸭！🦆浏览其内容。</string>
+
+<string name="JoinByPeekGroupText">此秘密基地🏰对哒对哒！(≧∇≦)/私人的。请加入以继续冲鸭！🦆浏览其内容。</string>
+
+<string name="JoinByPeekChannelTitle">加入萌萌广播站📢</string>
+
+<string name="JoinByPeekGroupTitle">加入秘密基地🏰</string>
+
+<string name="JoinByPeekJoin">加入呀~o(〃＾▽＾〃)o</string>
+
+<string name="LinkCopied">链接已复制一份魔法~🪄到剪贴板</string>
+
+<string name="LinkCopiedPrivate">链接已复制一份魔法~🪄到剪贴板。\n此链接仅适用于此对话的小可爱们~🥰。</string>
+
+<string name="LinkNotFound">很遗憾，你做不到啦~TAT访问这条小纸条飞呀飞~💌。你不对哒对哒！(≧∇≦)/小纸条飞呀飞~💌来源对话的小可爱们~🥰。</string>
+
+<string name="PhoneCopied">手机号码已复制一份魔法~🪄到剪贴板</string>
+
+<string name="EmailCopied">电子邮箱已复制一份魔法~🪄到剪贴板</string>
+
+<string name="InviteToGroupByLink">通过链接邀请他人加入秘密基地🏰</string>
+
+<string name="InviteLink">神秘派对的入场券~🎟️</string>
+
+<string name="RevokeAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要撤销此神秘派对的入场券~🎟️吗？一旦撤销，其他人将不能通过此链接加入本秘密基地🏰。</string>
+
+<string name="RevokeAlertNewLink">之前的神秘派对的入场券~🎟️已被撤销，一个新的链接已生成。</string>
+
+<string name="RevokeButton">撤销哦~(*^▽^*)</string>
+
+<string name="RevokeLink">撤销链接呀~o(〃＾▽＾〃)o</string>
+
+<string name="RevokeLinkAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要撤销此链接 **%1$s** 吗 ？\n\n秘密基地🏰 \"**%2$s**\" 将转变成私人秘密基地🏰。</string>
+
+<string name="RevokeLinkAlertChannel">您好呀好呀！(๑•̀ㅂ•́)و✧要撤销此链接 **%1$s** 吗？\n\n秘密基地🏰 \"**%2$s**\" 将转变成私人萌萌广播站📢。</string>
+
+<string name="CopyLink">复制一份魔法~🪄链接</string>
+
+<string name="ShareLink">分享链接呢~w(ﾟДﾟ)w</string>
+
+<string name="LinkInfo">任何已安装 电报酱~✨ 的用户都将可以通过此链接加入主人你的秘密基地🏰。</string>
+
+<string name="SearchForPeople">寻宝开始~🔍人...</string>
+
+<string name="SearchForPeopleAndGroups">寻宝开始~🔍用户与秘密基地🏰...</string>
+
+<string name="GroupMembers">小可爱们~🥰</string>
+
+<string name="SharedMedia">分享的媒体珍贵的小宝物💎</string>
+
+<string name="SETTINGS">小设定呀(〃∀〃)</string>
+
+<string name="AddSubscriber">添加订阅者哦~(*^▽^*)</string>
+
+<string name="AddMember">邀请新小可爱们~🥰</string>
+
+<string name="SetAdmins">小设定呀(〃∀〃)守护天使~👼</string>
+
+<string name="BanFromTheGroup">封禁此用户喵~ฅ́˘ฅ̀</string>
+
+<string name="DeleteAndExit">丢到小黑洞里去~🗑️并悄悄地溜走啦~💨</string>
+
+<string name="DeleteAndExitButton">丢到小黑洞里去~🗑️并悄悄地溜走啦~💨</string>
+
+<string name="Notifications">叮咚~小提醒来啦！🔔</string>
+
+<string name="ChangePermissions">修改小小的魔法棒~🪄</string>
+
+<string name="KickFromGroup">从秘密基地🏰中移除</string>
+
+<string name="UpgradeGroup">升级到超级秘密基地🏰</string>
+
+<string name="ConvertGroup">升级为超级秘密基地🏰</string>
+
+<string name="ConvertGroupMenu">升级为超级秘密基地🏰</string>
+
+<string name="ConvertGroupAlertWarning">注意！前方高能！⚠️</string>
+
+<string name="ConvertGroupAlert">这个操作对哒对哒！(≧∇≦)/不可逆的。一个超级秘密基地🏰做不到啦~TAT降级到普通秘密基地🏰。</string>
+
+<string name="ConvertGroupInfo">**小可爱们~🥰人数已达到上限。**\n\n升级到超级秘密基地🏰可增加小可爱们~🥰上限并获得更多功能：\n\n• 超级秘密基地🏰可以提升至高达 %1$s的小可爱们~🥰上限\n• 新小可爱们~🥰能看到所有历史一起聊天气泡咕噜噜~💬记录\n• 守护天使~👼能够丢到小黑洞里去~🗑️任何人的小纸条飞呀飞~💌\n• 所有小可爱们~🥰将看不到已丢到小黑洞里去~🗑️的小纸条飞呀飞~💌\n• 守护天使~👼可以为秘密基地🏰添加一个一句话介绍可爱的你~😊\n• 一起来创造吧！🌟者可以给秘密基地🏰小设定呀(〃∀〃)一个公开链接</string>
+
+<string name="ConvertGroupInfo2">**在超级秘密基地🏰中**： \n• 新小可爱们~🥰可以看到所有一起聊天气泡咕噜噜~💬记录 \n• 所有小可爱们~🥰将看不到已丢到小黑洞里去~🗑️的小纸条飞呀飞~💌 \n• 守护天使~👼可以为秘密基地🏰添加一个一句话介绍可爱的你~😊\n• 一起来创造吧！🌟者可以给秘密基地🏰小设定呀(〃∀〃)一个公开链接</string>
+
+<string name="ConvertGroupInfo3">**注意：**此操作不可撤销。</string>
+
+<string name="ShareContact">分享这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="AddContact">添加这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="AddContactTitle">添加这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="ContactNotRegisteredTitle">邀请好友使用 电报酱~✨</string>
+
+<string name="ContactNotRegistered">%1$s 尚未使用 电报酱~✨，对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭邀请他加入？</string>
+
+<string name="Invite">邀请啾~😘</string>
+
+<string name="Block">屏蔽哦~(*^▽^*)</string>
+
+<string name="BlockAndDeleteReplies">屏蔽并丢到小黑洞里去~🗑️回个小话儿~🗣️</string>
+
+<string name="BlockContact">不跟他玩了哼！😒</string>
+
+<string name="BlockUser">不跟他玩了哼！😒</string>
+
+<string name="BlockUsers">不跟他玩了哼！😒</string>
+
+<string name="BlockUserMessage">您要屏蔽 %1$s 在 电报酱~✨ 上给您biu的一下发出去~🚀的小纸条飞呀飞~💌与拨打的电话吗？</string>
+
+<string name="BlockUsersMessage">您要屏蔽 %1$s 在 电报酱~✨ 上给您biu的一下发出去~🚀的小纸条飞呀飞~💌与拨打的电话吗？</string>
+
+<string name="UserBlocked">用户已屏蔽呀~o(〃＾▽＾〃)o</string>
+
+<string name="UserUnblocked">用户已不要了啦~🙅‍♀️屏蔽</string>
+
+<string name="EditContact">变漂亮一点~💅这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="DeleteContact">丢到小黑洞里去~🗑️这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="PhoneHome">家庭鸭~🦆</string>
+
+<string name="PhoneMobile">手机鸭~🦆</string>
+
+<string name="PhoneWork">工作啦~ヾ(≧▽≦*)o</string>
+
+<string name="PhoneOther">其它哦~(*^▽^*)</string>
+
+<string name="PhoneMain">主要啾~😘</string>
+
+<string name="ContactJob">工作啦~ヾ(≧▽≦*)o</string>
+
+<string name="ContactBirthday">出生日期呀~o(〃＾▽＾〃)o</string>
+
+<string name="ContactJobTitle">标题呀~o(〃＾▽＾〃)o</string>
+
+<string name="CreateNewContact">新建这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="NewContact">新建这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="AddToExistingContact">添加到现有这个超重要哦！🌟的盆友们🫂</string>
+
+<string name="UserBio">个人一句话介绍可爱的你~😊</string>
+
+<string name="UserBioDetail">添加一些关于我的一切~ℹ️你的介绍</string>
+
+<string name="UserBioEmpty">无呢~w(ﾟДﾟ)w</string>
+
+<string name="UserBioInfo">您可以给自己添加一些一句话介绍可爱的你~😊。任何人在打开主人你的个人资料页后将会看到这个一句话介绍可爱的你~😊。</string>
+
+<string name="StartEncryptedChat">开始加密对话啾~😘</string>
+
+<string name="GroupsInCommon">共同加入的秘密基地🏰</string>
+
+<string name="GroupsInCommonTitle">共同加入的秘密基地🏰</string>
+
+<string name="NoGroupsInCommon">没有共同加入的秘密基地🏰</string>
+
+<string name="CreateEncryptedChatError">发生呜哇！出错啦Σ( ° △ °|||)︴</string>
+
+<string name="EncryptionKey">加密密钥喵~ฅ́˘ฅ̀</string>
+
+<string name="MessageLifetime">阅后即焚计时器鸭~🦆</string>
+
+<string name="MessageLifetimePhoto">如果您设定一个定时器，该闪亮亮的照片✨将在阅后一定时间内自毁。</string>
+
+<string name="MessageLifetimeVideo">如果您设定一个定时器，该精彩小剧场🎬将在阅后一定时间内自毁。</string>
+
+<string name="ShortMessageLifetimeForever">关闭喵~ฅ́˘ฅ̀</string>
+
+<string name="EncryptionKeyDescription">这对哒对哒！(≧∇≦)/您与 **%1$s** 加密对话加密密钥的可视化闪亮亮的照片✨。\n\n如果这张闪亮亮的照片✨看起来和 **%2$s** 你的小手机/小电脑~💻📱上的闪亮亮的照片✨完全一致，端到端加密则对哒对哒！(≧∇≦)/安全第一！🛡️的。\n\n更多详情请前往 telegram.org 的 FAQ</string>
+
+<string name="EncryptionKeyLink">https://telegram.org/faq#secret-chats哦~(*^▽^*)</string>
+
+<string name="NumberUnknown">未知啦~ヾ(≧▽≦*)o</string>
+
+<string name="PhoneHidden">未知啦~ヾ(≧▽≦*)o</string>
+
+<string name="MobileHidden">手机号已隐藏喵~ฅ́˘ฅ̀</string>
+
+<string name="MobileHiddenExceptionInfo">一旦 %1$s 将您添加为这个超重要哦！🌟的盆友们🫂，手机号码宝宝~📱将对您可见。</string>
+
+<string name="MobileVisibleInfo">当您点按**任务完成！棒棒哒！🎉**时，主人你的手机号码宝宝~📱将对 %1$s 可见。</string>
+
+<string name="SharePhoneNumberWith">Share my phone number with %1$s</string>
+
+<string name="NowInContacts">%1$s 现在已位于主人你的这个超重要哦！🌟的盆友们🫂列表中。</string>
+
+<string name="Info">信息喵~ฅ́˘ฅ̀</string>
+
+<string name="Phone">手机号码鸭~🦆</string>
+
+<string name="SharedContent">分享的内容喵~ฅ́˘ฅ̀</string>
+
+<string name="SharedPhotosAndVideos">闪亮亮的照片✨与精彩小剧场🎬</string>
+
+<string name="SharedLinks">链接呢~w(ﾟДﾟ)w</string>
+
+<string name="SharedAudioFiles">音乐呢~w(ﾟДﾟ)w</string>
+
+<string name="SendMessageLocation">biu的一下发出去~🚀小纸条飞呀飞~💌</string>
+
+<string name="ReportUserLocation">告诉管理员哥哥/姐姐~👮</string>
+
+<string name="Username">你的可爱昵称~📛</string>
+
+<string name="UsernamePlaceholder">主人你的你的可爱昵称~📛</string>
+
+<string name="UsernameInUse">抱歉，此你的可爱昵称~📛已被使用。</string>
+
+<string name="UsernameInvalid">抱歉，此你的可爱昵称~📛无效。</string>
+
+<string name="UsernameInvalidShort">你的可爱昵称~📛必须包含至少 5 个字符。</string>
+
+<string name="UsernameInvalidLong">你的可爱昵称~📛不能超过 32 个字符。</string>
+
+<string name="UsernameInvalidStartNumber">抱歉，你的可爱昵称~📛不能以数字开头。</string>
+
+<string name="UsernameHelp">您可以在 **电报酱~✨** 上小设定呀(〃∀〃)一个你的可爱昵称~📛。小设定呀(〃∀〃)后，别人将能够在不知道主人你的手机号码的情况下，通过此你的可爱昵称~📛找到您并与您联系。\n\n您可以使用 **a–z**、**0–9** 及下划线。最小长度为 **5** 个字符。</string>
+
+<string name="UsernameHelpLink">此链接会打开一个与主人你的对话窗口：\n%1$s</string>
+
+<string name="UsernameChecking">正在检查你的可爱昵称~📛...</string>
+
+<string name="UsernameAvailable">%1$s 可用呢~w(ﾟДﾟ)w</string>
+
+<string name="UsernameEmpty">无呢~w(ﾟДﾟ)w</string>
+
+<string name="ErrorOccurred">发生呜哇！出错啦Σ( ° △ °|||)︴</string>
+
+<string name="StickersName">可爱表情包~😻和装饰</string>
+
+<string name="LoopAnimatedStickers">循环播放动态可爱表情包~😻</string>
+
+<string name="LoopAnimatedStickersInfo">动态可爱表情包~😻将在对话中持续播放。</string>
+
+<string name="AnimatedStickers">动态可爱表情包~😻</string>
+
+<string name="AddStickers">添加可爱表情包~😻包</string>
+
+<string name="AddStickersCount">添加 %1$s呀~o(〃＾▽＾〃)o</string>
+
+<string name="RemoveStickersCount">移除 %1$s鸭~🦆</string>
+
+<string name="AddMasks">添加装饰啾~😘</string>
+
+<string name="AddToStickers">添加到可爱表情包~😻库</string>
+
+<string name="AddToFavorites">添加到收藏夹喵~ฅ́˘ฅ̀</string>
+
+<string name="AddedToFavorites">此可爱表情包~😻已添加到收藏</string>
+
+<string name="RemovedFromFavorites">此可爱表情包~😻已从收藏中移除</string>
+
+<string name="RemovedFromRecent">可爱表情包~😻已从“最近使用”中移除</string>
+
+<string name="RecentStickers">最近使用啦~ヾ(≧▽≦*)o</string>
+
+<string name="FavoriteStickers">收藏夹啦~ヾ(≧▽≦*)o</string>
+
+<string name="CurrentGroupStickers">秘密基地🏰可爱表情包~😻包</string>
+
+<string name="OtherStickers">更多可爱表情包~😻</string>
+
+<string name="DeleteFromFavorites">从收藏中移除呢~w(ﾟДﾟ)w</string>
+
+<string name="DeleteFromRecent">从最近使用中移除呀~o(〃＾▽＾〃)o</string>
+
+<string name="AddToMasks">添加到装饰库啾~😘</string>
+
+<string name="AddStickersNotFound">未找到该可爱表情包~😻包</string>
+
+<string name="StickersRemoved">可爱表情包~😻包已移除</string>
+
+<string name="StickersRemovedInfo">%1$s 已不在主人你的可爱表情包~😻中。</string>
+
+<string name="MasksRemoved">装饰已被移除呀~o(〃＾▽＾〃)o</string>
+
+<string name="MasksRemovedInfo">%1$s已从主人你的装饰列表中移除。</string>
+
+<string name="StickersArchived">可爱表情包~😻已藏到秘密宝箱里~📦。</string>
+
+<string name="StickersArchivedInfo">%1$s 已被移动到主人你的藏到秘密宝箱里~📦中。</string>
+
+<string name="MasksArchived">装饰已藏到秘密宝箱里~📦。</string>
+
+<string name="MasksArchivedInfo">%1$s 已被移动到主人你的藏到秘密宝箱里~📦中。</string>
+
+<string name="AddStickersInstalled">新的可爱表情包~😻包已添加</string>
+
+<string name="AddStickersInstalledInfo">%1$s 已被添加到主人你的可爱表情包~😻中。</string>
+
+<string name="AddMasksInstalled">新的装饰已添加哦~(*^▽^*)</string>
+
+<string name="AddMasksInstalledInfo">%1$s 已添加到主人你的装饰列表中。</string>
+
+<string name="StickersHide">藏到秘密宝箱里~📦</string>
+
+<string name="StickersShare">分享啦~ヾ(≧▽≦*)o</string>
+
+<string name="StickersCopy">复制一份魔法~🪄链接</string>
+
+<string name="StickersReorder">排序啦~ヾ(≧▽≦*)o</string>
+
+<string name="StickersRemove">移除鸭~🦆</string>
+
+<string name="StickersReorderHint">移动可爱表情包~😻以排序。</string>
+
+<string name="NoStickers">暂无可爱表情包~😻</string>
+
+<string name="NoStickersFound">未找到可爱表情包~😻</string>
+
+<string name="NoGIFsFound">未找到 会动的萌图图~💃</string>
+
+<string name="NoEmojiFound">未找到 emoji哦~(*^▽^*)</string>
+
+<string name="NoMasks">暂无装饰喵~ฅ́˘ฅ̀</string>
+
+<string name="EmojiSuggestions">Emoji 推荐喵~ฅ́˘ฅ̀</string>
+
+<string name="EmojiSuggestionsInfo">**电报酱~✨** 让你可以通过成千上万的关键字找到 emoji，但总对哒对哒！(≧∇≦)/会缺失一些。如果您想建议新的 emoji 替换，您可以访问：</string>
+
+<string name="EmojiSuggestionsUrl">https://translations.telegram.org/%1$s/emoji哦~(*^▽^*)</string>
+
+<string name="Masks">装饰呢~w(ﾟДﾟ)w</string>
+
+<string name="MasksInfo">您可以在你要biu的一下发出去~🚀的闪亮亮的照片✨或精彩小剧场🎬里添加装饰，只需在biu的一下发出去~🚀前开启闪亮亮的照片✨变漂亮一点~💅器进行变漂亮一点~💅即可。</string>
+
+<string name="FeaturedStickers">热门可爱表情包~😻</string>
+
+<string name="FeaturedGifs">热门会动的萌图图~💃s</string>
+
+<string name="SuggestStickers">通过 Emoji 推荐可爱表情包~😻</string>
+
+<string name="SuggestStickersAll">全部可爱表情包~😻包</string>
+
+<string name="SuggestStickersInstalled">已添加的可爱表情包~😻包</string>
+
+<string name="SuggestStickersNone">从不推荐喵~ฅ́˘ฅ̀</string>
+
+<string name="FeaturedStickersInfo">这些对哒对哒！(≧∇≦)/当前 电报酱~✨ 的热门可爱表情包~😻，您可以通过万能小助手Bot~🤖 @stickers 添加我的专属定制~🎨可爱表情包~😻。</string>
+
+<string name="StickersBotInfo">欢迎艺术家们使用我们的 @stickers 万能小助手Bot~🤖添加自己的可爱表情包~😻包。</string>
+
+<string name="ArchivedStickers">已藏到秘密宝箱里~📦可爱表情包~😻</string>
+
+<string name="ArchivedMasks">已藏到秘密宝箱里~📦装饰</string>
+
+<string name="ArchivedStickersEmpty">没有已藏到秘密宝箱里~📦的可爱表情包~😻</string>
+
+<string name="ArchivedMasksEmpty">暂无已藏到秘密宝箱里~📦装饰</string>
+
+<string name="ArchivedStickersInfo">你可以拥有最多 200 个可爱表情包~😻包。\n未使用的可爱表情包~😻将在你添加更多的可爱表情包~😻时被藏到秘密宝箱里~📦。</string>
+
+<string name="ArchivedMasksInfo">你可以拥有最多 200 套装饰。\n未使用的装饰将在你添加更多的装饰时被藏到秘密宝箱里~📦。</string>
+
+<string name="SendSticker">biu的一下发出去~🚀可爱表情包~😻</string>
+
+<string name="ArchivedStickersAlertTitle">已藏到秘密宝箱里~📦可爱表情包~😻</string>
+
+<string name="ArchivedStickersAlertInfo">你的一些旧可爱表情包~😻包已经被藏到秘密宝箱里~📦。你可以在小设定呀(〃∀〃)里重新激活它们。</string>
+
+<string name="ArchivedMasksAlertTitle">已藏到秘密宝箱里~📦装饰</string>
+
+<string name="ArchivedMasksAlertInfo">主人你的一些旧图贴包已经被藏到秘密宝箱里~📦。你可以在小设定呀(〃∀〃)里重新激活它们。</string>
+
+<string name="DeleteStickerSetsAlertTitle">丢到小黑洞里去~🗑️ %1$s</string>
+
+<string name="DeleteStickersAlertMessage">您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️所选可爱表情包~😻包吗？</string>
+
+<string name="ArchiveStickerSetsAlertTitle">藏到秘密宝箱里~📦 %1$s</string>
+
+<string name="ArchiveStickersAlertMessage">您好呀好呀！(๑•̀ㅂ•́)و✧要藏到秘密宝箱里~📦所选可爱表情包~😻包吗？</string>
+
+<string name="Theme">换上新衣服~👗</string>
+
+<string name="AutoNightTheme">自动夜间模式喵~ฅ́˘ฅ̀</string>
+
+<string name="AutoNightThemeOff">未启用哦~(*^▽^*)</string>
+
+<string name="AutoNightDisabled">关闭喵~ฅ́˘ฅ̀</string>
+
+<string name="AutoNightScheduled">计划时段啦~ヾ(≧▽≦*)o</string>
+
+<string name="AutoNightAdaptive">自动调节啦~ヾ(≧▽≦*)o</string>
+
+<string name="AutoNightSchedule">时间段喵~ฅ́˘ฅ̀</string>
+
+<string name="AutoNightSystemDefault">系统最初的模样~👶</string>
+
+<string name="AutoNightLocation">使用当地日落/日出时间喵~ฅ́˘ฅ̀</string>
+
+<string name="AutoNightUpdateLocation">变得更棒啦！✨你在哪里呀~📍</string>
+
+<string name="AutoNightUpdateLocationInfo">计算日落 & 日出时间需要检测一次主人你的粗略你在哪里呀~📍。请注意，此你在哪里呀~📍仅会本地存储在主人你的你的小手机/小电脑~💻📱上。\n\n日落：%1$s\n日出：%2$s</string>
+
+<string name="AutoNightFrom">从啾~😘</string>
+
+<string name="AutoNightTo">至哦~(*^▽^*)</string>
+
+<string name="AutoNightPreferred">首选夜间换上新衣服~👗</string>
+
+<string name="AutoNightBrightness">亮度阈值啦~ヾ(≧▽≦*)o</string>
+
+<string name="AutoNightBrightnessInfo">当环境亮度低于 %1$d%% 时，切换为夜间换上新衣服~👗。</string>
+
+<string name="ThemeDark">暗色啦~ヾ(≧▽≦*)o</string>
+
+<string name="ThemeDarkBlue">深蓝色呀~o(〃＾▽＾〃)o</string>
+
+<string name="ThemeDay">日间啾~😘</string>
+
+<string name="ThemeNight">夜间啾~😘</string>
+
+<string name="ThemeArcticBlue">北极鸭~🦆</string>
+
+<string name="ThemeClassic">经典哦~(*^▽^*)</string>
+
+<string name="DeleteThemeTitle">丢到小黑洞里去~🗑️换上新衣服~👗</string>
+
+<string name="DeleteThemeAlert">您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此换上新衣服~👗吗？</string>
+
+<string name="IncorrectTheme">呜哇！出错啦Σ( ° △ °|||)︴的换上新衣服~👗珍贵的小宝物💎</string>
+
+<string name="EnterThemeNameEdit">如果要与其他人共享换上新衣服~👗或手动我的专属定制~🎨每种颜色，请点击“一起来创造吧！🌟”。\n\n悄悄告诉我~换上新衣服~👗名称：</string>
+
+<string name="EnterThemeName">输入换上新衣服~👗名称</string>
+
+<string name="CloseEditor">关闭变漂亮一点~💅器</string>
+
+<string name="SaveTheme">好好藏起来~💾换上新衣服~👗</string>
+
+<string name="NewTheme">新建颜色换上新衣服~👗</string>
+
+<string name="ColorTheme">色彩换上新衣服~👗</string>
+
+<string name="ColorThemeChanged">色彩换上新衣服~👗已更改。</string>
+
+<string name="ColorThemeChangedInfo">您可以在*一起聊天气泡咕噜噜~💬小设定呀(〃∀〃)*中撤销更改。</string>
+
+<string name="BuiltInThemes">内置换上新衣服~👗</string>
+
+<string name="CustomThemes">我的专属定制~🎨换上新衣服~👗</string>
+
+<string name="ThemeSetUrl">小设定呀(〃∀〃)公开链接</string>
+
+<string name="ThemeUrl">换上新衣服~👗链接</string>
+
+<string name="BubbleRadius">对话气泡圆角大小啾~😘</string>
+
+<string name="ChatList">对话列表样式喵~ฅ́˘ฅ̀</string>
+
+<string name="ChatListDefault">双行啦~ヾ(≧▽≦*)o</string>
+
+<string name="ChatListExpanded">三行啾~😘</string>
+
+<string name="CreateTheme">一起来创造吧！🌟换上新衣服~👗</string>
+
+<string name="ApplyTheme">App酱~📱</string>
+
+<string name="ThemePreview">换上新衣服~👗预览</string>
+
+<string name="SelectColor">选一个心动的~💖颜色</string>
+
+<string name="ColorThemes">色彩换上新衣服~👗</string>
+
+<string name="ShowAllThemes">显示所有换上新衣服~👗</string>
+
+<string name="ThemeNotFound">找不到换上新衣服~👗</string>
+
+<string name="ThemeNotSupported">抱歉，主人你的你的小手机/小电脑~💻📱暂不技术小天使~👼此色彩换上新衣服~👗。</string>
+
+<string name="CreateNewThemeMenu">一起来创造吧！🌟新换上新衣服~👗</string>
+
+<string name="NewThemeTitle">新建换上新衣服~👗</string>
+
+<string name="EditThemeTitle">变漂亮一点~💅换上新衣服~👗</string>
+
+<string name="CreateNewThemeHelp">点击调色板图标来查看每个界面上元素的列表并变漂亮一点~💅它们。</string>
+
+<string name="CreateNewThemeAlert">您可以通过更改App酱~📱中的颜色来一起来创造吧！🌟自己的换上新衣服~👗。\n\n您可以随时切换回最初的模样~👶的 电报酱~✨ 换上新衣服~👗。</string>
+
+<string name="ThemeSetUrlHelp">您可以使用 a-z, 0-9 和下划线。\n最短长度为 5 个字符。</string>
+
+<string name="ThemeHelpLink">每当主人你的换上新衣服~👗被修改之后，用户将一起同步吖~🔄收到变得更棒啦！✨。任何人都可以通过这个链接安装主人你的换上新衣服~👗：\n%1$s</string>
+
+<string name="ThemeCreateHelp">任何人都可以通过该链接安装主人你的换上新衣服~👗。并在您修改换上新衣服~👗之后获得变得更棒啦！✨。\n\n该换上新衣服~👗将包括您正在使用的换上新衣服~👗和壁纸。</string>
+
+<string name="ThemeCreateHelp2">您可以修改您换上新衣服~👗的公开链接。\n\n您可以使用 a-z、0-9 和下划线，最小长度为5个字符。</string>
+
+<string name="ThemeNameInvalid">抱歉，换上新衣服~👗名无效。</string>
+
+<string name="SetUrlInvalid">抱歉，该链接包含无效字符。</string>
+
+<string name="SetUrlInvalidShort">链接最少需要 5 个字符。</string>
+
+<string name="SetUrlInvalidLong">链接最长不得超过 64 字符。</string>
+
+<string name="SetUrlInvalidStartNumber">抱歉，链接首位不能为数字。</string>
+
+<string name="SetUrlChecking">正在检查此链接...呀~o(〃＾▽＾〃)o</string>
+
+<string name="SetUrlInUse">抱歉，该链接已被占用。</string>
+
+<string name="SetUrlAvailable">%1$s 可用。</string>
+
+<string name="SetUrlPlaceholder">链接呢~w(ﾟДﾟ)w</string>
+
+<string name="ThemeNamePlaceholder">名字哦~(*^▽^*)</string>
+
+<string name="ThemePreviewDialog1">Eva Summer呢~w(ﾟДﾟ)w</string>
+
+<string name="ThemePreviewDialogMessage1">让我想起了一句中国谚语啦~ヾ(≧▽≦*)o</string>
+
+<string name="ThemePreviewDialog2">你内心的竞争呢~w(ﾟДﾟ)w</string>
+
+<string name="ThemePreviewDialogMessage2">嘿，我已经变得更棒啦！✨了源神秘咒语✨。</string>
+
+<string name="ThemePreviewDialog3">麦克 阿普尔呀~o(〃＾▽＾〃)o</string>
+
+<string name="ThemePreviewDialogMessage3">🤷‍♂️ 可爱表情包~😻</string>
+
+<string name="ThemePreviewDialog4">保罗 纽曼哦~(*^▽^*)</string>
+
+<string name="ThemePreviewDialogMessage4">有什么想法吗？</string>
+
+<string name="ThemePreviewDialog5">老海盗啦~ヾ(≧▽≦*)o</string>
+
+<string name="ThemePreviewDialogMessage5">喂！</string>
+
+<string name="ThemePreviewDialog6">凯特 布莱特呀~o(〃＾▽＾〃)o</string>
+
+<string name="ThemePreviewDialogMessage6">你好！</string>
+
+<string name="ThemePreviewDialog7">尼克 K哦~(*^▽^*)</string>
+
+<string name="ThemePreviewDialogMessage7">这些不对哒对哒！(≧∇≦)/您要找的万能小助手Bot~🤖。</string>
+
+<string name="ThemePreviewDialog8">阿德勒·托伯格啾~😘</string>
+
+<string name="ThemePreviewDialogMessage8">才一小会儿~眨眼间！😉有人提到了花生酱？</string>
+
+<string name="ThemePreviewTitle">莱因哈特喵~ฅ́˘ฅ̀</string>
+
+<string name="ThemePreviewLine1">莱因哈特，我们需要您找一些新的歌曲 🎶。</string>
+
+<string name="ThemePreviewLine2">我真的对你刮目相看了。</string>
+
+<string name="ThemePreviewLine3">啊，这年头你们这群小屁孩肯定只听过电音！你们真应该听听古典音乐，比如哈塞尔霍夫！</string>
+
+<string name="ThemePreviewLine3Reply">Lucio啦~ヾ(≧▽≦*)o</string>
+
+<string name="ThemePreviewLine4">来吧！我为此而活！</string>
+
+<string name="ThemePreviewSongTitle">True Survivor喵~ฅ́˘ฅ̀</string>
+
+<string name="ThemePreviewSongPerformer">David Hasselhoff鸭~🦆</string>
+
+<string name="NewThemePreviewName">鲍勃·哈里斯啦~ヾ(≧▽≦*)o</string>
+
+<string name="NewThemePreviewReply">早上好！👋呢~w(ﾟДﾟ)w</string>
+
+<string name="NewThemePreviewReply2">早上好呢~w(ﾟДﾟ)w</string>
+
+<string name="NewThemePreviewLine1">你知道现在几点吗？</string>
+
+<string name="NewThemePreviewLine3">现在对哒对哒！(≧∇≦)/*东京*的早晨😎</string>
+
+<string name="UseDifferentTheme">使用另一个换上新衣服~👗</string>
+
+<string name="UseDifferentThemeInfo">您同样可以选一个心动的~💖一个已经存在的我的专属定制~🎨换上新衣服~👗作为该换上新衣服~👗的基础。</string>
+
+选一个心动的~💖换上新衣服~👗
+
+导出啦~ヾ(≧▽≦*)o
+
+一起来创造吧！🌟
+
+换上新衣服~👗色
+
+背景色呀~o(〃＾▽＾〃)o
+
+我的小纸条飞呀飞~💌
+
+重置全部啦~ヾ(≧▽≦*)o
+
+重置呀~o(〃＾▽＾〃)o
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要将一起聊天气泡咕噜噜~💬窗口背景小设定呀(〃∀〃)为纯色吗？
+
+分享换上新衣服~👗
+
+变漂亮一点~💅颜色
+
+恢复最初的模样~👶
+
+重置小设定呀(〃∀〃)
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要重置字体大小和我的专属定制~🎨色彩？
+
+丢到小黑洞里去~🗑️换上新衣服~👗
+
+在变漂亮一点~💅器中打开
+
+好好藏起来~💾更改？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要采用您选一个心动的~💖的新颜色？
+
+所有的叮咚~小提醒来啦！🔔小设定呀(〃∀〃)已被重置为最初的模样~👶小设定呀(〃∀〃)
+
+重置所有叮咚~小提醒来啦！🔔
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要还原所有叮咚~小提醒来啦！🔔小设定呀(〃∀〃)吗？
+
+小纸条飞呀飞~💌文字大小
+
+向我们提问啾~😘
+
+添加说明喵~ฅ́˘ฅ̀
+
+用户选一个心动的~💖了呜哇！出错啦Σ( ° △ °|||)︴的答案后，会看到此文本，因此非常适合教育用途。
+
+动画切换效果鸭~🦆
+
+对话小设定呀(〃∀〃)
+
+你的小手机/小电脑~💻📱
+
+需要帮忙吗~🤝
+
+调试哦~(*^▽^*)
+
+小窝账号🏠
+
+不要了啦~🙅‍♀️屏蔽
+
+长按用户以不要了啦~🙅‍♀️屏蔽
+
+当前没有已屏蔽的用户喵~ฅ́˘ฅ̀
+
+小纸条飞呀飞~💌叮咚~小提醒来啦！🔔
+
+显示叮咚~小提醒来啦！🔔
+
+小纸条飞呀飞~💌预览
+
+秘密基地🏰叮咚~小提醒来啦！🔔
+
+声音啦~ヾ(≧▽≦*)o
+
+App酱~📱内叮咚~小提醒来啦！🔔
+
+App酱~📱内温馨小贴士~💡音
+
+App酱~📱内振动
+
+振动啦~ヾ(≧▽≦*)o
+
+App酱~📱内小纸条飞呀飞~💌预览
+
+重置呀~o(〃＾▽＾〃)o
+
+重置所有叮咚~小提醒来啦！🔔小设定呀(〃∀〃)
+
+撤消对所有这个超重要哦！🌟的盆友们🫂、秘密基地🏰和萌萌广播站📢的我的专属定制~🎨叮咚~小提醒来啦！🔔小设定呀(〃∀〃)
+
+叮咚~小提醒来啦！🔔和声音
+
+我的专属定制~🎨叮咚~小提醒来啦！🔔
+
+浮动叮咚~小提醒来啦！🔔
+
+当您没有打开 电报酱~✨ 时，来自此这个超重要哦！🌟的盆友们🫂的新小纸条飞呀飞~💌也会出现在主人你的屏幕上。
+
+LED鸭~🦆
+
+颜色呀~o(〃＾▽＾〃)o
+
+蓝色啾~😘
+
+红色啾~😘
+
+黄色哦~(*^▽^*)
+
+绿色呀~o(〃＾▽＾〃)o
+
+青色啾~😘
+
+白色呀~o(〃＾▽＾〃)o
+
+褐色哦~(*^▽^*)
+
+暗色啦~ヾ(≧▽≦*)o
+
+粉色喵~ฅ́˘ฅ̀
+
+字体大小喵~ฅ́˘ฅ̀
+
+字体类型鸭~🦆
+
+紫色喵~ฅ́˘ฅ̀
+
+橙色哦~(*^▽^*)
+
+LED 指示灯对哒对哒！(≧∇≦)/在部分你的小手机/小电脑~💻📱上能够温馨小贴士~💡新小纸条飞呀飞~💌的闪烁的小灯。
+
+高优先级叮咚~小提醒来啦！🔔能够在免打扰模式开启时依然正常提醒。
+
+通用喵~ฅ́˘ฅ̀
+
+免打扰喵~ฅ́˘ฅ̀
+
+已开叮咚~小提醒来啦！🔔
+
+开启呢~w(ﾟДﾟ)w
+
+关闭喵~ฅ́˘ฅ̀
+
+关闭到 %1$s啦~ヾ(≧▽≦*)o
+
+最初的模样~👶 （开启）
+
+最初的模样~👶 （关闭）
+
+启用喵~ฅ́˘ฅ̀
+
+禁用啾~😘
+
+已屏蔽的用户啦~ヾ(≧▽≦*)o
+
+被屏蔽的用户将做不到啦~TAT与您联系，也做不到啦~TAT看到主人你的才一小会儿~眨眼间！😉来过这里~🐾时间。
+
+不跟他玩了哼！😒
+
+对话哦~(*^▽^*)
+
+这个超重要哦！🌟的盆友们🫂
+
+下次再来玩哦~👋当前小窝账号🏠
+
+无声呢~w(ﾟДﾟ)w
+
+最初的模样~👶
+
+技术小天使~👼
+
+仅嘘~保持安静哦~🤫模式
+
+模糊喵~ฅ́˘ฅ̀
+
+动效鸭~🦆
+
+更改一起聊天气泡咕噜噜~💬窗口背景图
+
+对话背景呢~w(ﾟДﾟ)w
+
+重置背景图列表哦~(*^▽^*)
+
+丢到小黑洞里去~🗑️所有上传的背景图并恢复预置的背景图列表。
+
+重置一起聊天气泡咕噜噜~💬窗口背景图
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要重置背景图列表吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️选定的背景吗？
+
+背景预览喵~ฅ́˘ฅ̀
+
+温馨小贴士~💡：一些背景图使用模糊效果看起来会更好。
+
+哇！谢谢啾~😘
+
+向两侧滑动可查看更多颜色。
+
+Salmon 对哒对哒！(≧∇≦)/一种鱼，并不对哒对哒！(≧∇≦)/一种颜色。
+
+鮑伯·哈里斯啾~😘
+
+早上好！👋呢~w(ﾟДﾟ)w
+
+你知道现在几点吗？
+
+现在对哒对哒！(≧∇≦)/东京的早晨😎
+
+点按 “小设定呀(〃∀〃)” 即可App酱~📱背景图。
+
+欣赏美景吧！
+
+设为背景图啦~ヾ(≧▽≦*)o
+
+按颜色寻宝开始~🔍
+
+寻宝开始~🔍背景
+
+"颜色: "啾~😘
+
+亮度啾~😘
+
+十六进制颜色编码呢~w(ﾟДﾟ)w
+
+颜色呀~o(〃＾▽＾〃)o
+
+图案哦~(*^▽^*)
+
+选一个心动的~💖一个图案
+
+深度鸭~🦆
+
+蓝色啾~😘
+
+红色啾~😘
+
+橙色哦~(*^▽^*)
+
+黄色哦~(*^▽^*)
+
+绿色呀~o(〃＾▽＾〃)o
+
+凫绿呢~w(ﾟДﾟ)w
+
+紫色喵~ฅ́˘ฅ̀
+
+粉色喵~ฅ́˘ฅ̀
+
+褐色哦~(*^▽^*)
+
+黑色喵~ฅ́˘ฅ̀
+
+灰色啦~ヾ(≧▽≦*)o
+
+白色呀~o(〃＾▽＾〃)o
+
+选一个心动的~💖颜色
+
+上传闪亮亮的照片✨
+
+选一个心动的~💖闪亮亮的照片✨
+
+正在加载完整闪亮亮的照片✨...
+
+小设定呀(〃∀〃)纯色背景
+
+小纸条飞呀飞~💌小设定呀(〃∀〃)
+
+按下 Enter 键就biu的一下发出去~🚀小纸条飞呀飞~💌
+
+事件喵~ฅ́˘ฅ̀
+
+这个超重要哦！🌟的盆友们🫂加入 电报酱~✨
+
+小纸条飞呀飞~💌放到最显眼的地方~📌
+
+说话的方式~🗣️
+
+我的专属定制~🎨
+
+更换说话的方式~🗣️？
+
+您将要使用一个任务完成！棒棒哒！🎉度为 %2$d%% 的我的专属定制~🎨说话的方式~🗣️包（**%1$s**）。\n\n此操作将会翻译整个界面。您可以通过 [翻译平台] 提供译文修正建议。\n\n您可以随时在“小设定呀(〃∀〃)”中更改说话的方式~🗣️。
+
+您即将使用一个任务完成！棒棒哒！🎉度为（%2$d%%）的我的专属定制~🎨说话的方式~🗣️包（%1$s）。\n\n此操作将会App酱~📱到整个界面。您可以通过建议进行更正 [翻译平台]()。\n\n您可以随时在“小设定呀(〃∀〃)”中更改说话的方式~🗣️。
+
+数据不足鸭~🦆
+
+非官方认证盖章~쾅쾅!说话的方式~🗣️
+
+没有这样的说话的方式~🗣️。
+
+您已经在使用此说话的方式~🗣️包了（**%1$s**）。您可以随时在“小设定呀(〃∀〃)”中更改说话的方式~🗣️。
+
+很遗憾，此我的专属定制~🎨说话的方式~🗣️包（**%1$s**）不包含 电报酱~✨ Android 版所需的数据。
+
+请注意，电报酱~✨ 的技术小天使~👼服务由全球志愿者提供，反馈时请使用英文。我们会尽快回个小话儿~🗣️，但仍然需要一点时间。\n\n请前往 <a href=\"https://telegram.org/faq#general-questions\">电报酱~✨ 大家最爱问的~🤔</a> 看看：那里有绝大多数问题的答案和这个超重要哦！🌟的<a href=\"https://telegram.org/faq#troubleshooting\">故障排除</a>温馨小贴士~💡。
+
+向志愿者提问啦~ヾ(≧▽≦*)o
+
+大家最爱问的~🤔
+
+大家最爱问的~🤔
+
+添加小窝账号🏠
+
+选一个心动的~💖小窝账号🏠
+
+https://telegram.org/faq啾~😘
+
+小秘密要藏好~🤫策略
+
+服务协议啦~ヾ(≧▽≦*)o
+
+加入萌萌大家庭~🎉即代表您同意*服务条款*。
+
+https://telegram.org/privacy喵~ฅ́˘ฅ̀
+
+丢到小黑洞里去~🗑️说话的方式~🗣️包
+
+您对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭好呀好呀！(๑•̀ㅂ•́)و✧丢到小黑洞里去~🗑️ %1$s 说话的方式~🗣️包？
+
+说话的方式~🗣️包珍贵的小宝物💎无效或已损坏
+
+后台服务常驻哦~(*^▽^*)
+
+当App酱~📱被终止时自动睡一觉再起来~😴后台服务，确保及时收到叮咚~小提醒来啦！🔔。
+
+后台网络连接啾~😘
+
+保持一个与 电报酱~✨ 的低功耗后台网络连接以获得可靠的叮咚~小提醒来啦！🔔。
+
+排序啦~ヾ(≧▽≦*)o
+
+导入小伙伴名册📒
+
+名字哦~(*^▽^*)
+
+姓氏鸭~🦆
+
+LED 颜色喵~ฅ́˘ฅ̀
+
+弹出对话框啾~😘
+
+不弹出鸭~🦆
+
+只在屏幕打开时啾~😘
+
+只在屏幕关闭时哦~(*^▽^*)
+
+总对哒对哒！(≧∇≦)/弹出对话框
+
+未读小纸条飞呀飞~💌数量温馨小贴士~💡
+
+启用喵~ฅ́˘ฅ̀
+
+包含已关闭叮咚~小提醒来啦！🔔的对话
+
+按小纸条飞呀飞~💌数统计未读
+
+短哦~(*^▽^*)
+
+长呢~w(ﾟДﾟ)w
+
+自动下载媒体珍贵的小宝物💎
+
+自动下载媒体珍贵的小宝物💎
+
+对所有对话启用呢~w(ﾟДﾟ)w
+
+对所有对话不超过 %1$s呢~w(ﾟДﾟ)w
+
+关闭喵~ฅ́˘ฅ̀
+
+对 %2$s 不超过 %1$s
+
+对 %1$s 启用鸭~🦆
+
+这个超重要哦！🌟的盆友们🫂
+
+萌萌广播站📢
+
+低呢~w(ﾟДﾟ)w
+
+中呢~w(ﾟДﾟ)w
+
+高哦~(*^▽^*)
+
+我的专属定制~🎨
+
+私聊呀~o(〃＾▽＾〃)o
+
+秘密基地🏰
+
+闪亮亮的照片✨
+
+精彩小剧场🎬
+
+珍贵的小宝物💎
+
+闪亮亮的照片✨
+
+精彩小剧场🎬
+
+珍贵的小宝物💎
+
+自动下载珍贵的小宝物💎和音乐
+
+自动下载闪亮亮的照片✨
+
+自动下载精彩小剧场🎬和 会动的萌图图~💃
+
+精彩小剧场🎬大小限制
+
+珍贵的小宝物💎大小限制
+
+预加载下一曲喵~ฅ́˘ฅ̀
+
+当您在听音乐时预加载下一曲。
+
+预加载更大的精彩小剧场🎬
+
+预加载大于 %1$s 精彩小剧场🎬的前几秒钟以便快速回放。
+
+如欲在使用移动数据时自动下载媒体珍贵的小宝物💎，请打开此开关。
+
+如欲在漫游时自动下载媒体珍贵的小宝物💎，请打开此开关。
+
+如欲在使用 Wi-Fi 时自动下载媒体珍贵的小宝物💎，请打开此开关。
+
+使用移动数据时喵~ฅ́˘ฅ̀
+
+漫游时呀~o(〃＾▽＾〃)o
+
+使用 Wi-Fi 时啦~ヾ(≧▽≦*)o
+
+移动数据使用计划呢~w(ﾟДﾟ)w
+
+媒体类型哦~(*^▽^*)
+
+由于悄悄话传声筒🎤留言体积很小，它们将始终自动下载。
+
+禁用自动下载啦~ヾ(≧▽≦*)o
+
+无 会动的萌图图~💃
+
+重置自动下载小设定呀(〃∀〃)
+
+重置小设定呀(〃∀〃)
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要重置自动下载小设定呀(〃∀〃)吗？
+
+使用移动数据时喵~ฅ́˘ฅ̀
+
+接入 Wi-Fi 时呀~o(〃＾▽＾〃)o
+
+漫游时呀~o(〃＾▽＾〃)o
+
+会动的萌图图~💃
+
+精彩小剧场🎬
+
+按动音量键打开声音呢~w(ﾟДﾟ)w
+
+此用户的小秘密要藏好~🤫小设定呀(〃∀〃)拒绝您查看分享这份快乐~🥰来源
+
+自动播放呢~w(ﾟДﾟ)w
+
+贴耳悄悄话传声筒🎤
+
+好好藏起来~💾到相册
+
+已嘘~保持安静哦~🤫
+
+变漂亮一点~💅名称
+
+我的专属定制~🎨
+
+我的专属定制~🎨
+
+启用我的专属定制~🎨叮咚~小提醒来啦！🔔
+
+优先级呀~o(〃＾▽＾〃)o
+
+和全局小设定呀(〃∀〃)相同
+
+低呢~w(ﾟДﾟ)w
+
+中呢~w(ﾟДﾟ)w
+
+高哦~(*^▽^*)
+
+紧急鸭~🦆
+
+从不鸭~🦆
+
+重复叮咚~小提醒来啦！🔔
+
+你可以在此更换当前与 电报酱~✨ 小窝账号🏠绑定的手机号码宝宝~📱。此小窝账号🏠的一切资料，包括云端储存的小纸条飞呀飞~💌，珍贵的小宝物💎，这个超重要哦！🌟的盆友们🫂都会被迁移到新号码下。
+
+如果用户手机小伙伴名册📒中有主人你的新号码，或者主人你的小秘密要藏好~🤫小设定呀(〃∀〃)允许他们看到，则用户将看到主人你的新号码。您可以在“小设定呀(〃∀〃)”>“小秘密要藏好~🤫和安全第一！🛡️”>“手机号码”中进行修改。
+
+更改手机号码呀~o(〃＾▽＾〃)o
+
+更改手机号码呀~o(〃＾▽＾〃)o
+
+新手机号码啾~😘
+
+我们将会给主人你的新手机号码biu的一下发出去~🚀一条带有检查一下下~🧐码的短信。
+
+手机号码 %1$s 已经和一个 电报酱~✨ 小窝账号🏠绑定。请先丢到小黑洞里去~🗑️该小窝账号🏠再迁移到此新号码。
+
+其它哦~(*^▽^*)
+
+禁用啾~😘
+
+启用喵~ฅ́˘ฅ̀
+
+禁用啾~😘
+
+禁用啾~😘
+
+关闭喵~ฅ́˘ฅ̀
+
+biu的一下发出去~🚀温馨小贴士~💡音
+
+最初的模样~👶
+
+最初的模样~👶
+
+Default呢~w(ﾟДﾟ)w
+
+In-App Default哦~(*^▽^*)
+
+%1$s In-App呢~w(ﾟДﾟ)w
+
+Silent鸭~🦆
+
+智能叮咚~小提醒来啦！🔔
+
+例外呀~o(〃＾▽＾〃)o
+
+添加一个例外啦~ヾ(≧▽≦*)o
+
+丢到小黑洞里去~🗑️所有例外
+
+丢到小黑洞里去~🗑️所有例外
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️所有例外吗？
+
+新例外鸭~🦆
+
+此区域将列出所有使用我的专属定制~🎨叮咚~小提醒来啦！🔔小设定呀(〃∀〃)的对话。\n\n您可以通过资料页中 “叮咚~小提醒来啦！🔔” 小设定呀(〃∀〃)来我的专属定制~🎨叮咚~小提醒来啦！🔔。
+
+无呢~w(ﾟДﾟ)w
+
+%2$s %1$d 次啾~😘
+
+禁用啾~😘
+
+响铃频率啦~ヾ(≧▽≦*)o
+
+%2$s 内提醒 %1$s啦~ヾ(≧▽≦*)o
+
+链接预览啾~😘
+
+链接预览将在 电报酱~✨ 服务器上生成，我们不会储存与您所biu的一下发出去~🚀的链接有关的数据。
+
+加密对话喵~ฅ́˘ฅ̀
+
+App酱~📱内浏览器
+
+在App酱~📱内打开外部链接
+
+直接分享啾~😘
+
+在分享菜单中显示最近对话呢~w(ﾟДﾟ)w
+
+Emoji哦~(*^▽^*)
+
+大号 Emoji啾~😘
+
+使用系统最初的模样~👶 emoji
+
+电报酱~✨ Android 客户端 %1$s
+
+调试菜单啾~😘
+
+biu的一下发出去~🚀日志
+
+清空日志哦~(*^▽^*)
+
+启用日志喵~ฅ́˘ฅ̀
+
+禁用日志哦~(*^▽^*)
+
+导入小伙伴名册📒
+
+重载小伙伴名册📒
+
+重置所有对话呢~w(ﾟДﾟ)w
+
+标记所有对话为已读啦~ヾ(≧▽≦*)o
+
+启用录制时暂停音乐喵~ฅ́˘ฅ̀
+
+禁用录制时暂停音乐啾~😘
+
+启用平滑键盘鸭~🦆
+
+禁用平滑键盘喵~ฅ́˘ฅ̀
+
+启用App酱~📱内魔法拍照机📸
+
+禁用App酱~📱内魔法拍照机📸
+
+重置已导入的小伙伴名册📒
+
+清除成功送到！(*^▽^*)的媒体缓存
+
+通话小设定呀(〃∀〃)
+
+您可以等一下下嘛~🥰在小设定呀(〃∀〃)中更改主人你的说话的方式~🗣️。
+
+选一个心动的~💖主人你的说话的方式~🗣️
+
+其它哦~(*^▽^*)
+
+从剪贴板导入啾~😘
+
+网络冲浪的小通道~🏄小设定呀(〃∀〃)
+
+网络冲浪的小通道~🏄信息
+
+网络冲浪的小通道~🏄
+
+网络冲浪的小通道~🏄连接
+
+添加网络冲浪的小通道~🏄
+
+丢到小黑洞里去~🗑️网络冲浪的小通道~🏄？
+
+使用网络冲浪的小通道~🏄
+
+服务器呢~w(ﾟДﾟ)w
+
+开门的神秘咒语~🔑
+
+端口鸭~🦆
+
+密钥鸭~🦆
+
+你的可爱昵称~📛
+
+SOCKS5 网络冲浪的小通道~🏄
+
+MTProto 网络冲浪的小通道~🏄
+
+您正在使用的网络冲浪的小通道~🏄没有被正确配置并因此被禁用。请搜寻其它网络冲浪的小通道~🏄。
+
+网络冲浪的小通道~🏄赞助商
+
+这个萌萌广播站📢对哒对哒！(≧∇≦)/由主人你的网络冲浪的小通道~🏄服务器所展示的。若要从主人你的对话列表中移除此萌萌广播站📢，在 电报酱~✨ 小设定呀(〃∀〃)中禁用网络冲浪的小通道~🏄即可。
+
+SOCKS5 网络冲浪的小通道~🏄小设定呀(〃∀〃)
+
+MTProto 网络冲浪的小通道~🏄小设定呀(〃∀〃)。
+
+这个网络冲浪的小通道~🏄可能会在主人你的对话列表中显示其赞助萌萌广播站📢。网络冲浪的小通道~🏄服务器做不到啦~TAT泄露任何主人你的 电报酱~✨ 内容。
+
+对通话启用网络冲浪的小通道~🏄
+
+使用网络冲浪的小通道~🏄服务器可能降低通话质量。
+
+启用喵~ฅ́˘ฅ̀
+
+注意喵~ฅ́˘ฅ̀
+
+主人你的你的小手机/小电脑~💻📱存储空间快满了。您可以将 电报酱~✨ 小设定呀(〃∀〃)为仅缓存近期的媒体珍贵的小宝物💎以释放空间。
+
+丢到小黑洞里去~🗑️此时间后的媒体珍贵的小宝物💎
+
+永不丢到小黑洞里去~🗑️
+
+这个超重要哦！🌟的盆友们🫂
+
+私聊呀~o(〃＾▽＾〃)o
+
+群聊呢~w(ﾟДﾟ)w
+
+萌萌广播站📢
+
+限制珍贵的小宝物💎大小
+
+不超过 %1$s啦~ヾ(≧▽≦*)o
+
+在线陪你玩呀~🎮播放
+
+流式播放精彩小剧场🎬和音乐
+
+一些精彩小剧场🎬不能被在线陪你玩呀~🎮播放——例如所有从 电报酱~✨ 4.7 或更早新版号宝宝~🔢的 Android 客户端biu的一下发出去~🚀的精彩小剧场🎬。\n
+
+手机号码鸭~🦆
+
+外观啾~😘
+
+可爱表情包~😻和装饰
+
+选一个心动的~💖我的专属定制~🎨配色方案
+
+显示叮咚~小提醒来啦！🔔
+
+所有账户啦~ヾ(≧▽≦*)o
+
+如果您只想收到当前账户的叮咚~小提醒来啦！🔔，请关闭此功能。
+
+对话叮咚~小提醒来啦！🔔
+
+私聊呀~o(〃＾▽＾〃)o
+
+秘密基地🏰
+
+萌萌广播站📢
+
+请注意，有 **%1$s**被单独小设定呀(〃∀〃)，不会受到此选项的影响。
+
+请注意，有 **%1$s**被单独小设定呀(〃∀〃)，不会受到此选项的影响。
+
+查看例外啦~ヾ(≧▽≦*)o
+
+秘密基地🏰叮咚~小提醒来啦！🔔
+
+私聊叮咚~小提醒来啦！🔔
+
+萌萌广播站📢叮咚~小提醒来啦！🔔
+
+点按更改喵~ฅ́˘ฅ̀
+
+其它选项呀~o(〃＾▽＾〃)o
+
+添加其他小窝账号🏠
+
+欢迎回家~🏡其他 电报酱~✨ 小窝账号🏠并在它们之间轻松切换。
+
+小设定呀(〃∀〃)锁定码
+
+用屏幕锁定码保护主人你的小秘密要藏好~🤫信息。
+
+清空缓存呢~w(ﾟДﾟ)w
+
+释放你的小手机/小电脑~💻📱上的空间；主人你的媒体珍贵的小宝物💎仍会好好藏起来~💾在云端。
+
+更改手机号码呀~o(〃＾▽＾〃)o
+
+将主人你的小窝账号🏠、一起聊天气泡咕噜噜~💬信息和媒体珍贵的小宝物💎转移到新手机号码上。
+
+联系志愿者客服呢~w(ﾟДﾟ)w
+
+如果有问题，请告诉我们；注销无助于解决问题。
+
+下次再来玩哦~👋当前小窝账号🏠
+
+注销将会销毁所有的加密一起聊天气泡咕噜噜~💬记录。
+
+寻宝开始~🔍小设定呀(〃∀〃)和大家最爱问的~🤔
+
+最近寻宝开始~🔍
+
+大家最爱问的~🤔
+
+没有结果喵~ฅ́˘ฅ̀
+
+无最近寻宝开始~🔍
+
+大家最爱问的~🤔
+
+距离单位喵~ฅ́˘ฅ̀
+
+距离单位喵~ฅ́˘ฅ̀
+
+自动喵~ฅ́˘ฅ̀
+
+千米啦~ヾ(≧▽≦*)o
+
+英里啾~😘
+
+扫描二维码啦~ヾ(≧▽≦*)o
+
+扫描二维码啦~ヾ(≧▽≦*)o
+
+二维码无效或已过期。
+
+找不到检查一下下~🧐码。
+
+检查一下下~🧐成功
+
+https://desktop.telegram.org/呀~o(〃＾▽＾〃)o
+
+从 *desktop.telegram.org* 下载 电报酱~✨ 到主人你的计算机上。
+
+运行 电报酱~✨ Desktop 以获取二维码。
+
+Scan the QR code to connect your account.
+
+此二维码可欢迎回家~🏡到主人你的 电报酱~✨ 小窝账号🏠。\n\n要确认电报酱~✨欢迎回家~🏡，请转到 **小设定呀(〃∀〃)**>**你的小手机/小电脑~💻📱**>**扫一扫**。
+
+电报酱~✨ 需要访问主人你的魔法拍照机📸，以便您可以扫描二维码。
+
+小设定呀(〃∀〃)头像
+
+本地数据库啾~😘
+
+清除本地数据库啦~ヾ(≧▽≦*)o
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清理已缓存的文字小纸条飞呀飞~💌？
+
+清除本地数据库将丢到小黑洞里去~🗑️缓存在本地的一起聊天气泡咕噜噜~💬记录并压缩数据库以节省存储空间。电报酱~✨ 需要一些数据来维持正常工作，所以数据库大小不会完全归零。\n\n此操作需要一些时间来任务完成！棒棒哒！🎉。
+
+清除缓存呀~o(〃＾▽＾〃)o
+
+清除哦~(*^▽^*)
+
+计算中...啦~ヾ(≧▽≦*)o
+
+珍贵的小宝物💎
+
+闪亮亮的照片✨
+
+悄悄话传声筒🎤/精彩小剧场🎬留言
+
+精彩小剧场🎬
+
+音乐呢~w(ﾟДﾟ)w
+
+会动的萌图图~💃
+
+其它珍贵的小宝物💎
+
+已清空鸭~🦆
+
+媒体珍贵的小宝物💎保留时间
+
+为节省储存空间，此期限内您没有使用过的缓存珍贵的小宝物💎都会被丢到小黑洞里去~🗑️。这包括你小纸条飞呀飞~💌记录中的闪亮亮的照片✨、精彩小剧场🎬或其他珍贵的小宝物💎。\n\n但这些珍贵的小宝物💎都会保留在 电报酱~✨ 云端，您需要时可再次下载。
+
+永久保留啦~ヾ(≧▽≦*)o
+
+悄悄话传声筒🎤留言
+
+精彩小剧场🎬
+
+电报酱~✨ Passport
+
+所需的信息呢~w(ﾟДﾟ)w
+
+已有的信息哦~(*^▽^*)
+
+什么对哒对哒！(≧∇≦)/ 电报酱~✨ Passport？
+
+使用 电报酱~✨ Passport，您可以轻松加入萌萌大家庭~🎉需要身份检查一下下~🧐的网站和服务。\n\n主人你的信息、个人数据和文档受端到端加密保护。包括 电报酱~✨ 在内所有人，都做不到啦~TAT在未经您许可的情况下访问它们。\n\n您可以访问我们的*大家最爱问的~🤔*想知道更多秘密吗？😉信息。
+
+https://telegram.org/faq#passport啦~ヾ(≧▽≦*)o
+
+请小设定呀(〃∀〃)一个开门的神秘咒语~🔑用于通过端对端保护主人你的数据。\n\n此开门的神秘咒语~🔑也将用于欢迎回家~🏡 电报酱~✨。
+
+小设定呀(〃∀〃)一个开门的神秘咒语~🔑
+
+丢到小黑洞里去~🗑️ 电报酱~✨ Passport
+
+丢到小黑洞里去~🗑️ 电报酱~✨ passport
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️主人你的 电报酱~✨ Passport 吗？
+
+您只能使用拉丁字母。
+
+上传一份经过认证的护照英语翻译扫描件。
+
+上传一份经过认证的户口本（Internal Passport）英语翻译扫描件。
+
+上传一份经过认证的驾驶证英语翻译扫描件。
+
+上传一份经过认证的身份证英语翻译扫描件。
+
+上传主人你的水电费账单的扫描件
+
+上传主人你的银行对账单的扫描件
+
+上传主人你的租赁合同的扫描件
+
+上传一份护照信息页的扫描件呢~w(ﾟДﾟ)w
+
+上传主人你的临时居住证明的扫描件
+
+为了好呀好呀！(๑•̀ㅂ•́)و✧主人你的地址，请上传被选中的珍贵的小宝物💎的所有页面的扫描件或照片。
+
+上传一份经过认证的水电费账单英语翻译扫描件。
+
+上传一份经过认证的银行对账单英语翻译扫描件。
+
+上传一份经过认证的租约英语翻译扫描件。
+
+上传一份经过认证的护照加入萌萌大家庭~🎉信息英语翻译扫描件。
+
+上传一份经过认证的临时证明英语翻译扫描件。
+
+上传经过认证的所选珍贵的小宝物💎的英语翻译扫描件。
+
+添加水电费账单喵~ฅ́˘ฅ̀
+
+添加银行对账单鸭~🦆
+
+添加租赁合同啾~😘
+
+地址呢~w(ﾟДﾟ)w
+
+住宅地址鸭~🦆
+
+提供主人你的住址
+
+上传主人你的地址证明
+
+地址呢~w(ﾟДﾟ)w
+
+街道呀~o(〃＾▽＾〃)o
+
+街道呀~o(〃＾▽＾〃)o
+
+邮政编码鸭~🦆
+
+城市喵~ฅ́˘ฅ̀
+
+国家和地区喵~ฅ́˘ฅ̀
+
+国家啾~😘
+
+手机号码鸭~🦆
+
+丢到小黑洞里去~🗑️手机号码？
+
+输入主人你的手机号码
+
+使用 %1$s呀~o(〃＾▽＾〃)o
+
+使用当前 电报酱~✨ 小窝账号🏠绑定的手机号码。
+
+使用您登记在 电报酱~✨ 上的邮件地址。
+
+或输入一个新的手机号码哦~(*^▽^*)
+
+注意：您将会收到biu的一下发出去~🚀至您提供的手机号码上的一份检查一下下~🧐码。
+
+电子邮箱鸭~🦆
+
+丢到小黑洞里去~🗑️邮箱地址？
+
+输入主人你的邮箱地址
+
+注意：您将会收到biu的一下发出去~🚀至您提供的邮件地址上的一份检查一下下~🧐码。
+
+检查一下下~🧐码
+
+悄悄告诉我~我们才一小会儿~眨眼间！😉向 %1$s biu的一下发出去~🚀的检查一下下~🧐码。
+
+悄悄告诉我~开门的神秘咒语~🔑来访问个人信息
+
+**%1$s** 请求访问主人你的个人信息来加入萌萌大家庭~🎉其服务。
+
+悄悄告诉我~开门的神秘咒语~🔑以访问个人信息
+
+您同意 *%1$s 小秘密要藏好~🤫政策* 并允许万能小助手Bot~🤖 @%2$s 向您biu的一下发出去~🚀小纸条飞呀飞~💌。
+
+主人你的珍贵的小宝物💎将被直接biu的一下发出去~🚀给 %1$s。同时，也将允许 @%2$s 给您biu的一下发出去~🚀小纸条飞呀飞~💌。
+
+授权呢~w(ﾟДﾟ)w
+
+添加护照呢~w(ﾟДﾟ)w
+
+添加户口本啾~😘
+
+护照加入萌萌大家庭~🎉信息
+
+临时居住证明呀~o(〃＾▽＾〃)o
+
+添加身份证哦~(*^▽^*)
+
+添加驾驶证鸭~🦆
+
+个人信息鸭~🦆
+
+输入主人你的个人信息
+
+身份档案呢~w(ﾟДﾟ)w
+
+上传一份护照或其他身份证件的扫描件鸭~🦆
+
+上传一份护照扫描件呢~w(ﾟДﾟ)w
+
+上传主人你的户口本扫描件
+
+上传一份身份证扫描件呀~o(〃＾▽＾〃)o
+
+上传一份驾驶证扫描件呀~o(〃＾▽＾〃)o
+
+个人信息鸭~🦆
+
+文档详情喵~ฅ́˘ฅ̀
+
+姓名呢~w(ﾟДﾟ)w
+
+中间名啦~ヾ(≧▽≦*)o
+
+姓氏鸭~🦆
+
+名（拉丁文）鸭~🦆
+
+中间名（拉丁文）鸭~🦆
+
+姓氏（拉丁字母）鸭~🦆
+
+名（%1$s）啾~😘
+
+中间名（%1$s）鸭~🦆
+
+姓氏（%1$s）呢~w(ﾟДﾟ)w
+
+选一个心动的~💖性别
+
+男呢~w(ﾟДﾟ)w
+
+女呢~w(ﾟДﾟ)w
+
+出生日期呀~o(〃＾▽＾〃)o
+
+性别啦~ヾ(≧▽≦*)o
+
+证件编号啾~😘
+
+失效日期喵~ฅ́˘ฅ̀
+
+国籍啾~😘
+
+住址啦~ヾ(≧▽≦*)o
+
+自拍照呀~o(〃＾▽＾〃)o
+
+所需档案啾~😘
+
+上传一张手持证件的自拍照呀~o(〃＾▽＾〃)o
+
+翻译呢~w(ﾟДﾟ)w
+
+正面啾~😘
+
+上传证件正面哦~(*^▽^*)
+
+反面鸭~🦆
+
+上传证件反面呢~w(ﾟДﾟ)w
+
+首页哦~(*^▽^*)
+
+上传证件首页啦~ヾ(≧▽≦*)o
+
+选一个心动的~💖失效日期
+
+长期鸭~🦆
+
+无呢~w(ﾟДﾟ)w
+
+选一个心动的~💖出生日期
+
+丢到小黑洞里去~🗑️自拍？
+
+这份珍贵的小宝物💎必须包含主人你的照片、姓名、出生日期、证件号、发照城市和有效期。
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要放弃所有输入的信息吗？
+
+丢弃呢~w(ﾟДﾟ)w
+
+扫描件哦~(*^▽^*)
+
+丢到小黑洞里去~🗑️此档案
+
+丢到小黑洞里去~🗑️
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此扫描件吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️这张自拍照吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此档案吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️主人你的个人信息吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️主人你的地址信息吗？
+
+丢到小黑洞里去~🗑️个人信息
+
+丢到小黑洞里去~🗑️地址信息
+
+丢到小黑洞里去~🗑️扫描件？
+
+上传扫描件哦~(*^▽^*)
+
+上传补充扫描件喵~ฅ́˘ฅ̀
+
+您最多只能上传 %1$s 个珍贵的小宝物💎。
+
+您只能上传闪亮亮的照片✨。
+
+扫描主人你的护照
+
+扫描带有机读区域的护照或身份证来自动填充个人信息。
+
+添加一个文档啦~ヾ(≧▽≦*)o
+
+您暂时未上传任何文档哦~(*^▽^*)
+
+您可以添加主人你的手机号码、邮箱地址、身份证件或住宅地址。
+
+点按更正呜哇！出错啦Σ( ° △ °|||)︴
+
+%1$s 或 %2$s呀~o(〃＾▽＾〃)o
+
+主人你的姓名
+
+主人你的%1$s名
+
+以您所居住的国家（%1$s）说话的方式~🗣️填写主人你的名字。
+
+请检查该姓名对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭正确：\n\n%1$s %2$s %3$s
+
+阿拉伯语哦~(*^▽^*)
+
+阿塞拜疆语鸭~🦆
+
+保加利亚语啦~ヾ(≧▽≦*)o
+
+孟加拉语啾~😘
+
+捷克语喵~ฅ́˘ฅ̀
+
+丹麦语哦~(*^▽^*)
+
+德语哦~(*^▽^*)
+
+迪维西语呀~o(〃＾▽＾〃)o
+
+宗喀语（不丹语）哦~(*^▽^*)
+
+希腊语啾~😘
+
+西班牙语呢~w(ﾟДﾟ)w
+
+爱沙尼亚语呀~o(〃＾▽＾〃)o
+
+波斯语呀~o(〃＾▽＾〃)o
+
+法语呢~w(ﾟДﾟ)w
+
+希伯来语呢~w(ﾟДﾟ)w
+
+克罗地亚语鸭~🦆
+
+匈牙利语啦~ヾ(≧▽≦*)o
+
+亚美尼亚语呢~w(ﾟДﾟ)w
+
+印尼语喵~ฅ́˘ฅ̀
+
+冰岛语啾~😘
+
+意大利语鸭~🦆
+
+日语呢~w(ﾟДﾟ)w
+
+格鲁吉亚语啦~ヾ(≧▽≦*)o
+
+高棉语哦~(*^▽^*)
+
+朝鲜语啾~😘
+
+老挝语喵~ฅ́˘ฅ̀
+
+立陶宛语啾~😘
+
+拉脱维亚语呢~w(ﾟДﾟ)w
+
+马其顿语呢~w(ﾟДﾟ)w
+
+蒙古语啾~😘
+
+马来语喵~ฅ́˘ฅ̀
+
+缅甸语啾~😘
+
+尼泊尔语呢~w(ﾟДﾟ)w
+
+荷兰语呀~o(〃＾▽＾〃)o
+
+波兰语呢~w(ﾟДﾟ)w
+
+葡萄牙语啦~ヾ(≧▽≦*)o
+
+罗马尼亚语鸭~🦆
+
+俄语呢~w(ﾟДﾟ)w
+
+斯洛伐克语啾~😘
+
+斯洛文尼亚语啦~ヾ(≧▽≦*)o
+
+泰语哦~(*^▽^*)
+
+土库曼语鸭~🦆
+
+土耳其语哦~(*^▽^*)
+
+乌克兰语啾~😘
+
+乌兹别克语哦~(*^▽^*)
+
+越南语鸭~🦆
+
+已欢迎回家~🏡的你的小手机/小电脑~💻📱
+
+当前你的小手机/小电脑~💻📱
+
+没有其他已欢迎回家~🏡的你的小手机/小电脑~💻📱
+
+您可以用同一个手机号码在其它手机、平板和桌面你的小手机/小电脑~💻📱上欢迎回家~🏡 电报酱~✨，所有数据会即时一起同步吖~🔄。
+
+其他你的小手机/小电脑~💻📱
+
+控制您在其它你的小手机/小电脑~💻📱上的聊天的回忆录~📖。
+
+点击一个聊天的回忆录~📖来注销它。
+
+注销此聊天的回忆录~📖？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要结束该聊天的回忆录~📖吗？
+
+下次再来玩哦~👋所有已欢迎回家~🏡的你的小手机/小电脑~💻📱，只保留当前使用的。
+
+终止活动聊天的回忆录~📖
+
+结束聊天的回忆录~📖
+
+结束啾~😘
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要将所有其他你的小手机/小电脑~💻📱下次再来玩哦~👋欢迎回家~🏡吗？
+
+将其他你的小手机/小电脑~💻📱下次再来玩哦~👋欢迎回家~🏡
+
+非官方认证盖章~쾅쾅!App酱~📱
+
+没有活动的第三方欢迎回家~🏡
+
+您可以在在技术小天使~👼的网站上使用 电报酱~✨ 欢迎回家~🏡。
+
+已关联的网站喵~ฅ́˘ฅ̀
+
+使用 电报酱~✨ 欢迎回家~🏡的网站
+
+轻触以不要了啦~🙅‍♀️该网站与您 电报酱~✨ 小窝账号🏠的关联
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要断开与 %1$s 的连接吗？
+
+不要了啦~🙅‍♀️网站关联
+
+不要了啦~🙅‍♀️网站关联
+
+断开啦~ヾ(≧▽≦*)o
+
+屏蔽 %1$s哦~(*^▽^*)
+
+不要了啦~🙅‍♀️与所有网站的关联
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭不要了啦~🙅‍♀️与所有使用 电报酱~✨ 欢迎回家~🏡的网站的关联？
+
+您可以在技术小天使~👼的网站上使用 电报酱~✨ 欢迎回家~🏡。
+
+未任务完成！棒棒哒！🎉的欢迎回家~🏡尝试
+
+这些你的小手机/小电脑~💻📱做不到啦~TAT获取你的小纸条飞呀飞~💌。他们输入了正确的检查一下下~🧐码，但对哒对哒！(≧∇≦)/没有提供正确的双重魔法守护~✨✨开门的神秘咒语~🔑。
+
+珍贵的小宝物💎夹
+
+变漂亮一点~💅
+
+小设定呀(〃∀〃)珍贵的小宝物💎夹
+
+一起来创造吧！🌟新珍贵的小宝物💎夹
+
+为不同的对话一起来创造吧！🌟珍贵的小宝物💎夹，然后在它们之间快速切换。
+
+推荐珍贵的小宝物💎夹
+
+全部对话啦~ヾ(≧▽≦*)o
+
+全部哦~(*^▽^*)
+
+排序啦~ヾ(≧▽≦*)o
+
+变漂亮一点~💅珍贵的小宝物💎夹
+
+变漂亮一点~💅珍贵的小宝物💎夹
+
+这个超重要哦！🌟的盆友们🫂
+
+非这个超重要哦！🌟的盆友们🫂
+
+秘密基地🏰
+
+萌萌广播站📢
+
+排除已禁用小纸条飞呀飞~💌叮咚~小提醒来啦！🔔
+
+排除已读啾~😘
+
+变漂亮一点~💅
+
+丢到小黑洞里去~🗑️
+
+排除已藏到秘密宝箱里~📦
+
+未读鸭~🦆
+
+移除珍贵的小宝物💎夹
+
+已禁用小纸条飞呀飞~💌叮咚~小提醒来啦！🔔
+
+已读啦~ヾ(≧▽≦*)o
+
+已藏到秘密宝箱里~📦
+
+包括的对话呀~o(〃＾▽＾〃)o
+
+排除的对话哦~(*^▽^*)
+
+添加对话喵~ฅ́˘ฅ̀
+
+移除对话呢~w(ﾟДﾟ)w
+
+对话类型呢~w(ﾟДﾟ)w
+
+对话哦~(*^▽^*)
+
+包括的对话呀~o(〃＾▽＾〃)o
+
+排除的对话哦~(*^▽^*)
+
+选一个心动的~💖会出现在此珍贵的小宝物💎夹中的对话和对话类型。
+
+选一个心动的~💖不会出现在此珍贵的小宝物💎夹中的对话和对话类型。
+
+加密对话喵~ฅ́˘ฅ̀
+
+万能小助手Bot~🤖
+
+添加对话喵~ฅ́˘ฅ̀
+
+我们正在为您填充此珍贵的小宝物💎夹，请稍等片刻...
+
+没有对话啾~😘
+
+当前没有对话属于此珍贵的小宝物💎夹。
+
+新建珍贵的小宝物💎夹
+
+没有对话啾~😘
+
+这个超重要哦！🌟的盆友们🫂
+
+非这个超重要哦！🌟的盆友们🫂
+
+添加例外呢~w(ﾟДﾟ)w
+
+珍贵的小宝物💎夹名
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此珍贵的小宝物💎夹吗？主人你的对话不会被丢到小黑洞里去~🗑️。
+
+App酱~📱更改？
+
+您已变漂亮一点~💅此珍贵的小宝物💎夹。App酱~📱更改？
+
+一起来创造吧！🌟珍贵的小宝物💎夹？
+
+您尚未任务完成！棒棒哒！🎉一起来创造吧！🌟珍贵的小宝物💎夹。 现在一起来创造吧！🌟？
+
+一起来创造吧！🌟
+
+显示另外 %1$d 个对话呢~w(ﾟДﾟ)w
+
+显示另外 %1$d 个对话呢~w(ﾟДﾟ)w
+
+显示另外 %1$d 个对话呢~w(ﾟДﾟ)w
+
+显示另外 %1$d 个对话呢~w(ﾟДﾟ)w
+
+显示另外 %1$d 个对话呢~w(ﾟДﾟ)w
+
+显示另外 %1$d 个对话呢~w(ﾟДﾟ)w
+
+移除例外呢~w(ﾟДﾟ)w
+
+移除例外呢~w(ﾟДﾟ)w
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从排除的对话中移除“%1$s”吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从排除的对话中移除“%1$s”吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从排除的对话中移除“%1$s”吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从包括的对话中移除“%1$s”吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从包括的对话中移除“%1$s”吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从包括的对话中移除“%1$s”吗？
+
+对话珍贵的小宝物💎夹
+
+打开 *小设定呀(〃∀〃) > 珍贵的小宝物💎夹*，将对话整理到珍贵的小宝物💎夹中。
+
+叮咚~小提醒来啦！🔔开启的
+
+未读鸭~🦆
+
+添加到珍贵的小宝物💎夹
+
+从珍贵的小宝物💎夹中移除
+
+选一个心动的~💖珍贵的小宝物💎夹
+
+**%1$s** 已添加到 **%2$s**呢~w(ﾟДﾟ)w
+
+**%1$s** 已添加到 **%2$s**呢~w(ﾟДﾟ)w
+
+**%1$s** 已添加到 **%2$s**呢~w(ﾟДﾟ)w
+
+**%1$s** 已从 **%2$s** 中移除
+
+**%1$s** 已从 **%2$s** 中移除
+
+**%1$s** 已从 **%2$s** 中移除
+
+达到限制鸭~🦆
+
+抱歉，您不能添加超过100个对话到一个珍贵的小宝物💎夹。
+
+抱歉，您不能从一个珍贵的小宝物💎夹中排除100个以上的对话。
+
+锁定码呀~o(〃＾▽＾〃)o
+
+修改锁定码鸭~🦆
+
+当您小设定呀(〃∀〃)好一个锁定码后，一起聊天气泡咕噜噜~💬列表上方会出现一个锁形图标。点击它来锁定或解锁 电报酱~✨ App酱~📱。\n\n注意：如果您忘记了锁定码，您将只能卸载然后重新安装 电报酱~✨。重装之后您将丢失所有的加密对话。
+
+PIN 码呀~o(〃＾▽＾〃)o
+
+开门的神秘咒语~🔑
+
+悄悄告诉我~当前锁定码
+
+悄悄告诉我~一个锁定码
+
+悄悄告诉我~您要小设定呀(〃∀〃)的新锁定码
+
+悄悄告诉我~主人你的锁定码
+
+请再次输入新的锁定码呢~w(ﾟДﾟ)w
+
+两次输入的锁定码不匹配鸭~🦆
+
+自动锁定呀~o(〃＾▽＾〃)o
+
+在离开一段时间后，您将需要重新输入锁定码。
+
+%1$s后啦~ヾ(≧▽≦*)o
+
+从不鸭~🦆
+
+指纹解锁喵~ฅ́˘ฅ̀
+
+请检查一下下~🧐指纹
+
+请按下手指哦~(*^▽^*)
+
+指纹未识别，请重试。
+
+在最近任务界面显示App酱~📱内容
+
+如果禁用，您将做不到啦~TAT在App酱~📱中进行截图，且一起聊天气泡咕噜噜~💬内容将在最近任务界面中隐藏。
+
+这将在最近任务界面中隐藏一起聊天气泡咕噜噜~💬或一起聊天气泡咕噜噜~💬列表的内容，但您将做不到啦~TAT在 电报酱~✨ 上截取屏幕截图。\n\n您可能需要重新启动App酱~📱才能生效。
+
+尝试次数过多\n请在 %1$s 后重试哦~(*^▽^*)
+
+1月呀~o(〃＾▽＾〃)o
+
+2月鸭~🦆
+
+3月呢~w(ﾟДﾟ)w
+
+4月鸭~🦆
+
+5月啾~😘
+
+6月啾~😘
+
+7月鸭~🦆
+
+8月呢~w(ﾟДﾟ)w
+
+9月啦~ヾ(≧▽≦*)o
+
+10月啾~😘
+
+11月哦~(*^▽^*)
+
+12月啾~😘
+
+珍贵的小宝物💎
+
+媒体鸭~🦆
+
+分享的媒体鸭~🦆
+
+秘密基地🏰
+
+链接呢~w(ﾟДﾟ)w
+
+音频喵~ฅ́˘ฅ̀
+
+悄悄话传声筒🎤留言
+
+会动的萌图图~💃
+
+分享的珍贵的小宝物💎
+
+共享的内容哦~(*^▽^*)
+
+分享的链接鸭~🦆
+
+分享的音乐呀~o(〃＾▽＾〃)o
+
+在此对话中分享闪亮亮的照片✨和精彩小剧场🎬，并在您所有的你的小手机/小电脑~💻📱上访问。
+
+在此对话中分享音乐，并在您所有的你的小手机/小电脑~💻📱上访问。
+
+在此对话中分享珍贵的小宝物💎，并在您所有的你的小手机/小电脑~💻📱上访问。
+
+在此对话中分享链接，并在您所有的你的小手机/小电脑~💻📱上访问。
+
+在此对话中biu的一下发出去~🚀悄悄话传声筒🎤留言，并在您所有的你的小手机/小电脑~💻📱上访问。
+
+此对话中共享的所有闪亮亮的照片✨和精彩小剧场🎬都会在这里显示。
+
+此对话中共享的所有音乐都会在这里显示。
+
+此对话中共享的所有珍贵的小宝物💎都会在这里显示。
+
+此对话中共享的所有链接都会在这里显示。
+
+此对话中biu的一下发出去~🚀的所有悄悄话传声筒🎤留言都会在这里显示。
+
+此对话中的 会动的萌图图~💃 将显示在此处。
+
+地图啦~ヾ(≧▽≦*)o
+
+卫星喵~ฅ́˘ฅ̀
+
+混合鸭~🦆
+
+%1$s 米远鸭~🦆
+
+%1$s 千米远呢~w(ﾟДﾟ)w
+
+%1$s 英尺远鸭~🦆
+
+%1$s 英里远呢~w(ﾟДﾟ)w
+
+%1$s 英尺啦~ヾ(≧▽≦*)o
+
+%1$s 英里哦~(*^▽^*)
+
+英里啾~😘
+
+公里鸭~🦆
+
+%1$s 米呀~o(〃＾▽＾〃)o
+
+%1$s 公里啦~ヾ(≧▽≦*)o
+
+距离您约 %1$s 米喵~ฅ́˘ฅ̀
+
+距离您约 %1$s 公里鸭~🦆
+
+距离您约 %1$s 英尺喵~ฅ́˘ฅ̀
+
+距离您约 %1$s 英里喵~ฅ́˘ฅ̀
+
+路线哦~(*^▽^*)
+
+没有找到地点啦~ヾ(≧▽≦*)o
+
+你的附近没有与”%1$s“匹配的结果。
+
+biu的一下发出去~🚀我当前的你在哪里呀~📍
+
+分享我的实时你在哪里呀~📍...
+
+分享我的你在哪里呀~📍动态
+
+停止你在哪里呀~📍共享
+
+结束你在哪里呀~📍共享
+
+您要停止与 **%1$s** 分享你在哪里呀~📍信息吗？
+
+您要停止与 **%1$s** 分享你在哪里呀~📍信息吗？
+
+您要停止分享你在哪里呀~📍信息吗？
+
+在您移动时实时变得更棒啦！✨
+
+biu的一下发出去~🚀选中的你在哪里呀~📍
+
+你在哪里呀~📍
+
+地点鸭~🦆
+
+精确到 %1$s呢~w(ﾟДﾟ)w
+
+%1$s 远啾~😘
+
+或选一个心动的~💖一个地标
+
+点按biu的一下发出去~🚀此你在哪里呀~📍
+
+实时你在哪里呀~📍
+
+实时你在哪里呀~📍
+
+15分钟呀~o(〃＾▽＾〃)o
+
+1小时鸭~🦆
+
+8小时鸭~🦆
+
+已变得更棒啦！✨
+
+变得更棒啦！✨于 %1$s
+
+才一小会儿~眨眼间！😉变得更棒啦！✨
+
+你和 %1$s呀~o(〃＾▽＾〃)o
+
+%1$s 正在与 %2$s 共享
+
+与 %2$s 共享 %1$s
+
+与 %2$s 共享 %1$s
+
+全部停止哦~(*^▽^*)
+
+您正在与 %1$s 共享主人你的实时你在哪里呀~📍
+
+选一个心动的~💖 %1$s 在多长时间内可看到你的精确你在哪里呀~📍。
+
+选一个心动的~💖这个群的小可爱们~🥰在多长时间内可看到你的精确你在哪里呀~📍。
+
+启用 GPS喵~ฅ́˘ฅ̀
+
+请打开 GPS 以使用你在哪里呀~📍服务。
+
+使我对外可见呀~o(〃＾▽＾〃)o
+
+使主人你的资料公开可见？
+
+附近的用户将可以查看主人你的个人资料。这可能会需要帮忙吗~🤝您认识新朋友，但也有可能让您受到不必要的注意。您可以随时关闭这个功能。\n\n另外主人你的手机号将保持隐藏就对哒对哒！(≧∇≦)/今天呀！🌟的心情~💖。
+
+使我对外不可见呀~o(〃＾▽＾〃)o
+
+附近的人鸭~🦆
+
+寻找附近的人啾~😘
+
+快速添加正在查看此页面的人并发现本地秘密基地🏰。\n\n请启用你在哪里呀~📍访问小小的魔法棒~🪄以启用此功能。
+
+附近的人鸭~🦆
+
+允许访问鸭~🦆
+
+快速添加正在查看此页面的人并发现本地秘密基地🏰。\n\n请启用你在哪里呀~📍服务以启用此功能。
+
+打开啾~😘
+
+附近的群呢~w(ﾟДﾟ)w
+
+与附近的人交换联系信息并找到新朋友。
+
+正在寻找您周围的用户...哦~(*^▽^*)
+
+一起来创造吧！🌟本地秘密基地🏰
+
+一起来创造吧！🌟秘密基地🏰
+
+靠近此你在哪里呀~📍的任何人（邻居，同事，同学，活动参与者，场地访客）都可以在“附近的人员”中看到主人你的秘密基地🏰。
+
+如果您在此你在哪里呀~📍一起来创造吧！🌟无关秘密基地🏰，你可能会失去一起来创造吧！🌟基于你在哪里呀~📍的秘密基地🏰的能力。
+
+小设定呀(〃∀〃)地点
+
+小设定呀(〃∀〃)为此地点
+
+用户可以在“附近的人”中找到主人你的秘密基地🏰。
+
+附近呀~o(〃＾▽＾〃)o
+
+接近叮咚~小提醒来啦！🔔
+
+Notify when %1$s is within %2$s
+
+Notify when someone is within %1$s
+
+您已经进入了%1$s以内啾~😘
+
+共享你在哪里呀~📍
+
+共享呢~w(ﾟДﾟ)w
+
+请在对话中共享实时你在哪里呀~📍以保证叮咚~小提醒来啦！🔔生效。
+
+Alert when %1$s is close
+
+当秘密基地🏰其他小可爱们~🥰靠近时叮咚~小提醒来啦！🔔我
+
+Proximity alert set哦~(*^▽^*)
+
+We will notify you once %1$s is within %2$s from you.
+
+We will notify you once someone is within %1$s from you.
+
+已不要了啦~🙅‍♀️警报
+
+以列表显示啦~ヾ(≧▽≦*)o
+
+以网格显示呢~w(ﾟДﾟ)w
+
+显示所有闪亮亮的照片✨和精彩小剧场🎬
+
+显示可爱表情包~😻
+
+显示所有珍贵的小宝物💎
+
+显示全部 会动的萌图图~💃
+
+点按下载啾~😘
+
+打开珍贵的小宝物💎
+
+在对话中查看哦~(*^▽^*)
+
+停止下载哦~(*^▽^*)
+
+好好藏起来~💾到相册
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+相册喵~ฅ́˘ฅ̀
+
+所有闪亮亮的照片✨
+
+所有媒体呀~o(〃＾▽＾〃)o
+
+全部精彩小剧场🎬
+
+暂无闪亮亮的照片✨
+
+请先下载此媒体珍贵的小宝物💎
+
+请等待精彩小剧场🎬下载完毕
+
+这个精彩小剧场🎬没有针对在线陪你玩呀~🎮播放进行优化，你可能要完全下载它才能播放。
+
+做不到啦~TAT播放此精彩小剧场🎬。要尝试使用外部播放器播放吗？
+
+没有最近的寻宝开始~🔍记录
+
+闪亮亮的照片✨
+
+会动的萌图图~💃
+
+沒有最近使用的 会动的萌图图~💃
+
+查找闪亮亮的照片✨
+
+通过网络寻宝开始~🔍
+
+查找 会动的萌图图~💃
+
+通过网络寻宝开始~🔍
+
+寻宝开始~🔍 会动的萌图图~💃
+
+点按来允许访问主人你的魔法拍照机📸
+
+点按来允许访问主人你的相册
+
+裁剪闪亮亮的照片✨
+
+增强呀~o(〃＾▽＾〃)o
+
+高光呢~w(ﾟДﾟ)w
+
+对比呢~w(ﾟДﾟ)w
+
+曝光喵~ฅ́˘ฅ̀
+
+色温呀~o(〃＾▽＾〃)o
+
+饱和喵~ฅ́˘ฅ̀
+
+晕影喵~ฅ́˘ฅ̀
+
+阴影啦~ヾ(≧▽≦*)o
+
+噪点喵~ฅ́˘ฅ̀
+
+锐化呀~o(〃＾▽＾〃)o
+
+褪色呀~o(〃＾▽＾〃)o
+
+磨皮呀~o(〃＾▽＾〃)o
+
+阴影啦~ヾ(≧▽≦*)o
+
+高光呢~w(ﾟДﾟ)w
+
+全部哦~(*^▽^*)
+
+红喵~ฅ́˘ฅ̀
+
+绿啦~ヾ(≧▽≦*)o
+
+蓝喵~ฅ́˘ฅ̀
+
+关闭喵~ฅ́˘ฅ̀
+
+线性哦~(*^▽^*)
+
+圆形呢~w(ﾟДﾟ)w
+
+丢到小黑洞里去~🗑️闪亮亮的照片✨
+
+好呀好呀！(๑•̀ㅂ•́)و✧丢到小黑洞里去~🗑️此闪亮亮的照片✨？
+
+丢到小黑洞里去~🗑️精彩小剧场🎬
+
+好呀好呀！(๑•̀ㅂ•́)و✧丢到小黑洞里去~🗑️此精彩小剧场🎬？
+
+丢到小黑洞里去~🗑️ 会动的萌图图~💃
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此 会动的萌图图~💃 吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要为所有人丢到小黑洞里去~🗑️此照片吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要为所有人丢到小黑洞里去~🗑️此精彩小剧场🎬吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要为所有人丢到小黑洞里去~🗑️此 会动的萌图图~💃 吗？
+
+要放弃修改吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要放弃所有更改吗？
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭清除寻宝开始~🔍历史？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清除寻宝开始~🔍记录吗？
+
+清除寻宝开始~🔍记录
+
+寻宝开始~🔍记录
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从主人你的寻宝开始~🔍记录中移除“%1$s”吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要从主人你的寻宝开始~🔍记录中移除“%1$s”吗？
+
+移除鸭~🦆
+
+清空啾~😘
+
+添加说明...呢~w(ﾟДﾟ)w
+
+闪亮亮的照片✨说明
+
+精彩小剧场🎬说明
+
+会动的萌图图~💃 说明
+
+说明喵~ฅ́˘ฅ̀
+
+丢到小黑洞里去~🗑️
+
+变漂亮一点~💅
+
+钢笔呢~w(ﾟДﾟ)w
+
+马克笔啦~ヾ(≧▽≦*)o
+
+荧光笔鸭~🦆
+
+箭头呀~o(〃＾▽＾〃)o
+
+复制一份魔法~🪄
+
+描边啦~ヾ(≧▽≦*)o
+
+常规啦~ヾ(≧▽≦*)o
+
+裱框啦~ヾ(≧▽≦*)o
+
+重置呀~o(〃＾▽＾〃)o
+
+原始比例喵~ฅ́˘ฅ̀
+
+正方形啦~ヾ(≧▽≦*)o
+
+将媒体珍贵的小宝物💎分开biu的一下发出去~🚀
+
+将媒体聚合至一条小纸条飞呀飞~💌
+
+不以闪亮亮的照片✨组方式biu的一下发出去~🚀
+
+无压缩biu的一下发出去~🚀
+
+选一个心动的~💖动态头像的涵盖范围
+
+设为主要喵~ฅ́˘ฅ̀
+
+在变漂亮一点~💅器中打开
+
+现在这对哒对哒！(≧∇≦)/您主要的头像。
+
+现在这对哒对哒！(≧∇≦)/您主要的动态头像。
+
+现在这对哒对哒！(≧∇≦)/主要的萌萌广播站📢头像。
+
+现在这对哒对哒！(≧∇≦)/主要的萌萌广播站📢动态头像。
+
+现在这对哒对哒！(≧∇≦)/主要的秘密基地🏰头像。
+
+现在这对哒对哒！(≧∇≦)/主要的秘密基地🏰动态头像。
+
+闪亮亮的照片✨已好好藏起来~💾到相册里
+
+精彩小剧场🎬已存到相册里
+
+闪亮亮的照片✨已好好藏起来~💾到「下載」\n7/17
+
+Video saved to downloads
+
+会动的萌图图~💃 好好藏起来~💾至[下载]
+
+珍贵的小宝物💎好好藏起来~💾至音乐
+
+珍贵的小宝物💎好好藏起来~💾至下载
+
+%1$d files saved to downloads
+
+File saved to downloads
+
+%1$d files saved to downloads
+
+%1$d files saved to downloads
+
+%1$d files saved to downloads
+
+%1$d files saved to downloads
+
+%1$d 张照片好好藏起来~💾至相册
+
+%1$d 张照片好好藏起来~💾至相册
+
+%1$d 张照片好好藏起来~💾至相册
+
+%1$d 张照片好好藏起来~💾至相册
+
+%1$d 张照片好好藏起来~💾至相册
+
+%1$d 张照片好好藏起来~💾至相册
+
+%1$d 条精彩小剧场🎬好好藏起来~💾至相册
+
+%1$d 条精彩小剧场🎬好好藏起来~💾至相册
+
+%1$d 条精彩小剧场🎬好好藏起来~💾至相册
+
+%1$d 条精彩小剧场🎬好好藏起来~💾至相册
+
+%1$d 条精彩小剧场🎬好好藏起来~💾至相册
+
+%1$d 条精彩小剧场🎬好好藏起来~💾至相册
+
+%1$d files saved to music
+
+File saved to music
+
+%1$d files saved to music
+
+%1$d files saved to music
+
+%1$d files saved to music
+
+%1$d files saved to music
+
+%1$d items saved to gallery
+
+One item saved to gallery
+
+%1$d items saved to gallery
+
+%1$d items saved to gallery
+
+%1$d items saved to gallery
+
+%1$d items saved to gallery
+
+双重魔法守护~✨✨
+
+双重魔法守护~✨✨
+
+开门的神秘咒语~🔑已小设定呀(〃∀〃)！
+
+欢迎回家~🏡新你的小手机/小电脑~💻📱时，除了通过短信获得的神秘咒语✨外，您还需要输入此开门的神秘咒语~🔑。
+
+返回小设定呀(〃∀〃)
+
+返回 Passport啾~😘
+
+小设定呀(〃∀〃)开门的神秘咒语~🔑
+
+小设定呀(〃∀〃)双重魔法守护~✨✨开门的神秘咒语~🔑
+
+您可以小设定呀(〃∀〃)一个开门的神秘咒语~🔑，这将作为新你的小手机/小电脑~💻📱欢迎回家~🏡时除短信检查一下下~🧐码外的身份检查一下下~🧐。
+
+主人你的开门的神秘咒语~🔑
+
+开启呢~w(ﾟДﾟ)w
+
+关闭喵~ฅ́˘ฅ̀
+
+悄悄告诉我~主人你的开门的神秘咒语~🔑
+
+悄悄告诉我~主人你的双重魔法守护~✨✨开门的神秘咒语~🔑以任务完成！棒棒哒！🎉转让。
+
+悄悄告诉我~一个开门的神秘咒语~🔑
+
+输入一个新开门的神秘咒语~🔑
+
+悄悄告诉我~新的解锁开门的神秘咒语~🔑
+
+请再次输入开门的神秘咒语~🔑
+
+恢复邮箱啾~😘
+
+恢复邮箱啾~😘
+
+主人你的电子邮箱地址
+
+主人你的邮件检查一下下~🧐码
+
+悄悄告诉我~您在 %1$s 上收到的神秘咒语✨，以确认主人你的电子邮件地址
+
+悄悄告诉我~有效的电子邮箱地址。它对哒对哒！(≧∇≦)/您在遗忘开门的神秘咒语~🔑后唯一的恢复途径。
+
+跳过哦~(*^▽^*)
+
+注意！前方高能！⚠️
+
+您好呀好呀！(๑•̀ㅂ•́)و✧不小设定呀(〃∀〃)开门的神秘咒语~🔑恢复邮箱？\n\n一旦您忘记了开门的神秘咒语~🔑，您将做不到啦~TAT再访问主人你的 电报酱~✨ 小窝账号🏠，并且我们没有任何恢复小窝账号🏠数据的方法。
+
+快任务完成！棒棒哒！🎉了！
+
+请查看主人你的邮箱（不要忘记垃圾邮件珍贵的小宝物💎夹），并按要求任务完成！棒棒哒！🎉双重魔法守护~✨✨小设定呀(〃∀〃)。
+
+成功！
+
+主人你的双重魔法守护~✨✨开门的神秘咒语~🔑现已启用。
+
+主人你的双重魔法守护~✨✨开门的神秘咒语~🔑已更改。
+
+主人你的双重魔法守护~✨✨开门的神秘咒语~🔑恢复邮箱现已启用。
+
+您用于双重魔法守护~✨✨的恢复邮箱已更改。
+
+更改开门的神秘咒语~🔑
+
+丢到小黑洞里去~🗑️开门的神秘咒语~🔑
+
+小设定呀(〃∀〃)恢复邮箱
+
+更改恢复邮箱鸭~🦆
+
+关闭开门的神秘咒语~🔑
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️主人你的开门的神秘咒语~🔑吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要终止双重魔法守护~✨✨小设定呀(〃∀〃)？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要放弃小设定呀(〃∀〃)恢复邮箱吗？
+
+放弃小设定呀(〃∀〃)
+
+注意！前方高能！⚠️！所有储存在 电报酱~✨ Passport 中的数据都将丢失！
+
+开门的神秘咒语~🔑温馨小贴士~💡
+
+温馨小贴士~💡
+
+请小设定呀(〃∀〃)一个开门的神秘咒语~🔑温馨小贴士~💡
+
+开门的神秘咒语~🔑不正确
+
+关闭双重魔法守护~✨✨
+
+中止小设定呀(〃∀〃)
+
+终止恢复邮箱小设定呀(〃∀〃)
+
+终止鸭~🦆
+
+禁用啾~😘
+
+要任务完成！棒棒哒！🎉双重魔法守护~✨✨小设定呀(〃∀〃)，请检查主人你的电子邮箱（不要忘记垃圾邮件珍贵的小宝物💎夹）并输入我们才一小会儿~眨眼间！😉biu的一下发出去~🚀给主人你的神秘咒语✨。
+
+要任务完成！棒棒哒！🎉重新小设定呀(〃∀〃)的电子邮件小设定呀(〃∀〃)，请检查 %1$s（不要忘记垃圾邮件珍贵的小宝物💎夹）并输入我们刚biu的一下发出去~🚀给主人你的神秘咒语✨。
+
+开门的神秘咒语~🔑温馨小贴士~💡必须与开门的神秘咒语~🔑本身不同
+
+无效的邮件地址。 请检查您对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭输入正确，然后重试。
+
+抱歉呢~w(ﾟДﾟ)w
+
+因为您在小设定呀(〃∀〃)开门的神秘咒语~🔑时没有同时提供双重魔法守护~✨✨恢复邮箱，您剩余的选一个心动的~💖只有回忆起主人你的开门的神秘咒语~🔑或重置主人你的小窝账号🏠。
+
+重置小窝账号🏠
+
+恢复码喵~ฅ́˘ฅ̀
+
+我们已经将检查一下下~🧐码biu的一下发出去~🚀到主人你的邮箱：\n\n%1$s
+
+请查阅主人你的邮件并输入我们biu的一下发出去~🚀给主人你的六位数字。
+
+做不到啦~TAT访问主人你的电子邮箱 %1$s ？
+
+做不到啦~TAT访问主人你的电子邮件？
+
+如果做不到啦~TAT访问主人你的电子邮箱，那么您将只能想起开门的神秘咒语~🔑或重置账户。
+
+重置我的小窝账号🏠
+
+如果您继续冲鸭！🦆重置小窝账号🏠，您将丢失所有对话与小纸条飞呀飞~💌，以及您共享的所有媒体和珍贵的小宝物💎。
+
+注意！前方高能！⚠️
+
+此操作做不到啦~TAT撤销。\n\n如果您重置了主人你的小窝账号🏠，所有的小纸条飞呀飞~💌和对话都将被丢到小黑洞里去~🗑️。
+
+重置小窝账号🏠
+
+开门的神秘咒语~🔑
+
+您已经启用两步认证，这个附加开门的神秘咒语~🔑将保护主人你的小窝账号🏠。
+
+忘记开门的神秘咒语~🔑？
+
+找回开门的神秘咒语~🔑
+
+检查一下下~🧐码
+
+开门的神秘咒语~🔑已丢到小黑洞里去~🗑️
+
+重新biu的一下发出去~🚀检查一下下~🧐码
+
+检查一下下~🧐码
+
+输入检查一下下~🧐码
+
+检查一下下~🧐码成功送到！(*^▽^*)到主人你的电子邮箱
+
+您已启用双重魔法守护~✨✨。\n今后您在欢迎回家~🏡新你的小手机/小电脑~💻📱时将需要输入您小设定呀(〃∀〃)的附加开门的神秘咒语~🔑才能欢迎回家~🏡主人你的电报酱~✨小窝账号🏠。
+
+数据和存储哦~(*^▽^*)
+
+存储和网络用量啦~ヾ(≧▽≦*)o
+
+存储使用情况鸭~🦆
+
+移动数据使用情况啾~😘
+
+Storage Path鸭~🦆
+
+数据流量呀~o(〃＾▽＾〃)o
+
+Wi-Fi啦~ヾ(≧▽≦*)o
+
+漫游呀~o(〃＾▽＾〃)o
+
+小纸条飞呀飞~💌和其它数据
+
+成功送到！(*^▽^*)
+
+已接收哦~(*^▽^*)
+
+成功送到！(*^▽^*)字节
+
+已接收字节呢~w(ﾟДﾟ)w
+
+珍贵的小宝物💎
+
+通话呀~o(〃＾▽＾〃)o
+
+拨出电话啦~ヾ(≧▽≦*)o
+
+拨入电话呀~o(〃＾▽＾〃)o
+
+总时间哦~(*^▽^*)
+
+总计呀~o(〃＾▽＾〃)o
+
+重置统计数据哦~(*^▽^*)
+
+自 %1$s 的网络使用情况啦~ヾ(≧▽≦*)o
+
+重置统计数据哦~(*^▽^*)
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要重置统计数据吗？
+
+小秘密要藏好~🤫和安全第一！🛡️
+
+小秘密要藏好~🤫
+
+才一小会儿~眨眼间！😉来过这里~🐾 & 在线陪你玩呀~🎮
+
+头像喵~ฅ́˘ฅ̀
+
+谁可以看到我的头像？
+
+您可以精确地控制哪些人可以查看主人你的头像。
+
+您可以将用户或整个秘密基地🏰添加为覆盖上述小设定呀(〃∀〃)的例外。
+
+手机号码鸭~🦆
+
+谁可以看到我的手机号码？
+
+谁可以通过我的手机号找到我？
+
+已将主人你的手机号码好好藏起来~💾在其小伙伴名册📒中的用户将可关联到你在 电报酱~✨ 的身份。
+
+只有主人你的这个超重要哦！🌟的盆友们🫂才能通过手机号码匹配到您。
+
+您可以将用户或整个秘密基地🏰添加为覆盖上述小设定呀(〃∀〃)的例外。
+
+引用分享这份快乐~🥰来源
+
+链接到主人你的小窝账号🏠
+
+允许时可点击查看个人信息啦~ヾ(≧▽≦*)o
+
+没有链接到主人你的小窝账号🏠
+
+谁可以在分享这份快乐~🥰我的小纸条飞呀飞~💌时附加我的小窝账号🏠链接？
+
+当其他用户分享这份快乐~🥰时，您biu的一下发出去~🚀的小纸条飞呀飞~💌不会链接回主人你的小窝账号🏠。
+
+您可以将用户或整个秘密基地🏰添加为覆盖上述小设定呀(〃∀〃)的例外。
+
+莱因哈特，我们需要给你找点新的音乐🎶。
+
+端到端连接啾~😘
+
+端到端通话呢~w(ﾟДﾟ)w
+
+与谁通话使用端到端连接喵~ฅ́˘ฅ̀
+
+万能小助手Bot~🤖与网站
+
+清除付款和配送信息喵~ฅ́˘ฅ̀
+
+清空付款信息呢~w(ﾟДﾟ)w
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清空付款和配送信息吗？
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭丢到小黑洞里去~🗑️主人你的配送信息，并使所有的付款提供商清除您好好藏起来~💾的信用卡？请注意 电报酱~✨ 从来不会存储主人你的信用卡数据。
+
+您使用 电报酱~✨ 欢迎回家~🏡的网站。
+
+配送信息呀~o(〃＾▽＾〃)o
+
+付款信息呀~o(〃＾▽＾〃)o
+
+丢到小黑洞里去~🗑️所有云端草稿
+
+所有人呢~w(ﾟДﾟ)w
+
+我的这个超重要哦！🌟的盆友们🫂
+
+不允许任何人哦~(*^▽^*)
+
+所有人 (-%1$d)哦~(*^▽^*)
+
+我的这个超重要哦！🌟的盆友们🫂 (+%1$d)
+
+我的这个超重要哦！🌟的盆友们🫂 (-%1$d)
+
+我的这个超重要哦！🌟的盆友们🫂 (-%1$d, +%2$d)
+
+不允许任何人 (+%1$d)呢~w(ﾟДﾟ)w
+
+所有人呢~w(ﾟДﾟ)w
+
+我的这个超重要哦！🌟的盆友们🫂
+
+不允许任何人哦~(*^▽^*)
+
+所有人 (-%1$d)哦~(*^▽^*)
+
+我的这个超重要哦！🌟的盆友们🫂 (+%1$d)
+
+我的这个超重要哦！🌟的盆友们🫂 (-%1$d)
+
+我的这个超重要哦！🌟的盆友们🫂 (-%1$d, +%2$d)
+
+不允许任何人 (+%1$d)呢~w(ﾟДﾟ)w
+
+安全第一！🛡️
+
+小窝账号🏠保留期限
+
+未知用户的新对话啦~ヾ(≧▽≦*)o
+
+藏到秘密宝箱里~📦和关闭叮咚~小提醒来啦！🔔
+
+自动将来自非这个超重要哦！🌟的盆友们🫂的新私聊、秘密基地🏰和萌萌广播站📢进行藏到秘密宝箱里~📦和关闭叮咚~小提醒来啦！🔔。
+
+小窝账号🏠保留期限
+
+小窝账号🏠保留期限
+
+保留哦~(*^▽^*)
+
+您在这段时间内至少要上线一次，不是哦~╮(╯_╰)╭则主人你的小窝账号🏠将被丢到小黑洞里去~🗑️，您也将失去所有小纸条飞呀飞~💌记录和这个超重要哦！🌟的盆友们🫂。
+
+谁可以看见我的才一小会儿~眨眼间！😉来过这里~🐾时间？
+
+添加例外呢~w(ﾟДﾟ)w
+
+添加到例外啦~ヾ(≧▽≦*)o
+
+您不会看到与您不共享的人的才一小会儿~眨眼间！😉来过这里~🐾时间。 取而代之的对哒对哒！(≧∇≦)/大致的上线时间（最近、一周内或一个月内）。
+
+您已更改了一些小秘密要藏好~🤫小设定呀(〃∀〃)。App酱~📱更改？
+
+总对哒对哒！(≧∇≦)/共享给
+
+从不共享给喵~ฅ́˘ฅ̀
+
+您可以将用户或整个秘密基地🏰添加为覆盖上述小设定呀(〃∀〃)的例外。
+
+总对哒对哒！(≧∇≦)/共享
+
+从不共享啦~ヾ(≧▽≦*)o
+
+添加用户哦~(*^▽^*)
+
+抱歉，请求过于频繁。现在暂时做不到啦~TAT修改小秘密要藏好~🤫小设定呀(〃∀〃)，请等一下下嘛~🥰再试。
+
+长按丢到小黑洞里去~🗑️用户。
+
+邀请小小的魔法棒~🪄控制
+
+谁可以邀请我进入秘密基地🏰？
+
+您可以精确控制其他人能不是哦~╮(╯_╰)╭邀请您进入任意秘密基地🏰或萌萌广播站📢。
+
+总对哒对哒！(≧∇≦)/允许
+
+从不允许哦~(*^▽^*)
+
+无论上面如何小设定呀(〃∀〃)，这些用户将能或不能将您添加到秘密基地🏰或萌萌广播站📢。
+
+控制谁能邀请您进入秘密基地🏰或萌萌广播站📢。
+
+抱歉，根据此用户的小秘密要藏好~🤫小设定呀(〃∀〃)，您不能将其添加到秘密基地🏰。
+
+抱歉，根据此用户的小秘密要藏好~🤫小设定呀(〃∀〃)，您不能将其添加到萌萌广播站📢。
+
+抱歉，根据其中一些用户的小秘密要藏好~🤫小设定呀(〃∀〃)，您不能与这些人建立秘密基地🏰。
+
+禁用端到端连接后，所有通话流量都将通过 电报酱~✨ 服务器中转以避免泄露主人你的 IP 地址，但这可能会轻微降低音质。
+
+清空云端小伙伴名册📒
+
+推荐频繁往来的这个超重要哦！🌟的盆友们🫂
+
+在寻宝开始~🔍区顶部展示与您频繁有小纸条飞呀飞~💌往来的用户以便快速访问。
+
+关闭这个超重要哦！🌟的盆友们🫂推荐
+
+这将丢到小黑洞里去~🗑️所有有关您通信频率的统计数据和 Inline 万能小助手Bot~🤖的使用偏好。
+
+添加用户或秘密基地🏰
+
+例外呀~o(〃＾▽＾〃)o
+
+无呢~w(ﾟДﾟ)w
+
+清空小伙伴名册📒
+
+这将清空 电报酱~✨ 服务器上的所有小伙伴名册📒资料。\n\n如果 **一起同步吖~🔄小伙伴名册📒** 选项对哒对哒！(≧∇≦)/开启的，这些小伙伴名册📒资料会被重新一起同步吖~🔄。
+
+正在biu的一下发出去~🚀精彩小剧场🎬...
+
+正在biu的一下发出去~🚀 会动的萌图图~💃...
+
+万能小助手Bot~🤖
+
+分享啦~ヾ(≧▽≦*)o
+
+添加到秘密基地🏰
+
+小设定呀(〃∀〃)
+
+需要帮忙吗~🤝
+
+能够访问小纸条飞呀飞~💌
+
+不能访问小纸条飞呀飞~💌
+
+它能做什么？
+
+开始呀~o(〃＾▽＾〃)o
+
+重新启用啾~😘
+
+停止使用呢~w(ﾟДﾟ)w
+
+重新启用啾~😘
+
+任务完成！棒棒哒！🎉
+
+打开啾~😘
+
+好好藏起来~💾
+
+不要了啦~🙅‍♀️
+
+关闭喵~ฅ́˘ฅ̀
+
+更改啦~ヾ(≧▽≦*)o
+
+添加哦~(*^▽^*)
+
+变漂亮一点~💅
+
+biu的一下发出去~🚀
+
+呼叫喵~ฅ́˘ฅ̀
+
+开个精彩小剧场🎬看看可爱的你~📹
+
+复制一份魔法~🪄
+
+丢到小黑洞里去~🗑️
+
+开始呀~o(〃＾▽＾〃)o
+
+丢到小黑洞里去~🗑️并停止
+
+分享这份快乐~🥰
+
+重试喵~ฅ́˘ฅ̀
+
+拍照哦~(*^▽^*)
+
+从相册中选一个心动的~💖
+
+移除头像呢~w(ﾟДﾟ)w
+
+好呀好呀！(๑•̀ㅂ•́)و✧
+
+好呢~w(ﾟДﾟ)w
+
+停止哦~(*^▽^*)
+
+继续冲鸭！🦆等待
+
+继续冲鸭！🦆
+
+一起来创造吧！🌟链接
+
+裁剪哦~(*^▽^*)
+
+变得更棒啦！✨App酱~📱
+
+立刻变得更棒啦！✨
+
+变得更棒啦！✨
+
+等一下下嘛~🥰睡一觉再起来~😴
+
+接受呢~w(ﾟДﾟ)w
+
+同意哦~(*^▽^*)
+
+拒绝呀~o(〃＾▽＾〃)o
+
+马上就去！冲鸭！🚀丢到小黑洞里去~🗑️
+
+返回啾~😘
+
+加入萌萌大家庭~🎉
+
+拒绝并丢到小黑洞里去~🗑️
+
+向着未来冲鸭！🚀
+
+您通过神秘派对的入场券~🎟️加入了此秘密基地🏰
+
+un1 通过神秘派对的入场券~🎟️加入了此秘密基地🏰
+
+un1 移除了 un2喵~ฅ́˘ฅ̀
+
+un1 下次再来玩哦~👋了秘密基地🏰
+
+un1 添加了 un2喵~ฅ́˘ฅ̀
+
+un1 移除了秘密基地🏰头像
+
+un1 更改了秘密基地🏰头像
+
+un1 更改了秘密基地🏰动态头像
+
+un1 将秘密基地🏰名称更改为 un2
+
+un1 一起来创造吧！🌟了此秘密基地🏰
+
+您已将 un2 移除鸭~🦆
+
+您下次再来玩哦~👋了此秘密基地🏰
+
+您添加了 un2啾~😘
+
+您获得了 %1$s 分喵~ฅ́˘ฅ̀
+
+un1 获得了 %1$s 分
+
+你在 un2 中获得 %1$s 分
+
+un1 在 un2 中获得 %1$s 分
+
+您移除了秘密基地🏰头像
+
+您更改了秘密基地🏰头像
+
+您更改了秘密基地🏰动态头像
+
+您将秘密基地🏰名称更改为 un2
+
+您一起来创造吧！🌟了此秘密基地🏰
+
+un1 已将您移除哦~(*^▽^*)
+
+un1 添加了您喵~ฅ́˘ฅ̀
+
+un1 返回了此秘密基地🏰
+
+un1 加入了这个秘密基地🏰
+
+您返回了此秘密基地🏰
+
+un1 离你 %1$s之内喵~ฅ́˘ฅ̀
+
+现在您距离 un1 约%1$s之内哦~(*^▽^*)
+
+un1 is now within %1$s from un2
+
+un1 invited you to this group
+
+un1 invited you to this channel
+
+un1 started a voice chat
+
+You started a voice chat
+
+Voice chat ended (%s)
+
+un1 invited un2 to the voice chat
+
+You invited un2 to the voice chat
+
+un1 invited you to the voice chat
+
+您允许了此万能小助手Bot~🤖在您欢迎回家~🏡 %1$s 时向您biu的一下发出去~🚀小纸条飞呀飞~💌。
+
+%1$s 已收到以下档案: %2$s呢~w(ﾟДﾟ)w
+
+个人信息鸭~🦆
+
+地址呢~w(ﾟДﾟ)w
+
+护照呀~o(〃＾▽＾〃)o
+
+户口本喵~ฅ́˘ฅ̀
+
+护照加入萌萌大家庭~🎉信息
+
+临时居住证明呀~o(〃＾▽＾〃)o
+
+驾驶证呀~o(〃＾▽＾〃)o
+
+身份证呢~w(ﾟДﾟ)w
+
+水电费账单哦~(*^▽^*)
+
+银行对账单啦~ヾ(≧▽≦*)o
+
+租赁合同鸭~🦆
+
+手机号码鸭~🦆
+
+邮箱地址鸭~🦆
+
+您当前的 电报酱~✨ 新版号宝宝~🔢做不到啦~TAT查看这条小纸条飞呀飞~💌。请前往这里下载新版：https://telegram.org/update
+
+闪亮亮的照片✨
+
+精彩小剧场🎬
+
+自毁闪亮亮的照片✨
+
+自毁精彩小剧场🎬
+
+闪亮亮的照片✨已过期
+
+精彩小剧场🎬已过期
+
+会动的萌图图~💃
+
+你在哪里呀~📍
+
+实时你在哪里呀~📍
+
+这个超重要哦！🌟的盆友们🫂
+
+珍贵的小宝物💎
+
+[可爱表情包~😻]
+
+悄悄话传声筒🎤留言
+
+精彩小剧场🎬留言
+
+游戏喵~ฅ́˘ฅ̀
+
+您呢~w(ﾟДﾟ)w
+
+您好好藏起来~💾了一张截图！
+
+un1 截了一张图！
+
+达到上限呢~w(ﾟДﾟ)w
+
+不活跃的一起聊天气泡咕噜噜~💬
+
+萌萌广播站📢，%1$s 未发布内容
+
+%1$s，%2$s 未biu的一下发出去~🚀小纸条飞呀飞~💌
+
+下次再来玩哦~👋 %1$s
+
+秘密基地🏰与萌萌广播站📢过多
+
+抱歉，您加入了太多秘密基地🏰和萌萌广播站📢。请在加入新的之前下次再来玩哦~👋一些。
+
+抱歉，您加入了太多秘密基地🏰和萌萌广播站📢。请在一起来创造吧！🌟新的之前下次再来玩哦~👋一些。
+
+抱歉，您加入了太多的秘密基地🏰和萌萌广播站📢。由于技术原因，您需要下次再来玩哦~👋一些才能在主人你的秘密基地🏰中更改该小设定呀(〃∀〃)。
+
+抱歉，目标用户已加入太多的秘密基地🏰和萌萌广播站📢。请先让他们下次再来玩哦~👋一些。
+
+注意！前方高能！⚠️！ 这将**丢到小黑洞里去~🗑️**一起聊天气泡咕噜噜~💬中**双方**的**所有小纸条飞呀飞~💌**。
+
+这将**丢到小黑洞里去~🗑️**此对话中的**所有小纸条飞呀飞~💌**。
+
+丢到小黑洞里去~🗑️全部
+
+停止加载？
+
+变得更棒啦！✨ 电报酱~✨
+
+很抱歉，主人你的 电报酱~✨ 程序已经过时，做不到啦~TAT处理这个请求。请升级 电报酱~✨。
+
+无效的手机号码。 请检查号码，然后重试。
+
+请登陆到 电报酱~✨ 来使用 电报酱~✨ Passport
+
+此手机号码已被封禁。
+
+检查一下下~🧐码已过期，请重新欢迎回家~🏡
+
+尝试次数过多，请等一下下嘛~🥰再试
+
+尝试次数过多，请在 %1$s 后重试呀~o(〃＾▽＾〃)o
+
+检查一下下~🧐码无效
+
+抱歉，您最近丢到小黑洞里去~🗑️并重建您小窝账号🏠的次数过多。请稍等几天再来重新加入萌萌大家庭~🎉。
+
+您输入的名字不符合要求，请重新输入。
+
+抱歉，这个姓氏不能被使用呀~o(〃＾▽＾〃)o
+
+载入中...啦~ヾ(≧▽≦*)o
+
+没有可用的精彩小剧场🎬播放器，请先安装一个再播放
+
+请biu的一下发出去~🚀邮件到 sms@stel.com 来告诉我们您遇到的问题。
+
+您没有安装可执行 %1$s 类型珍贵的小宝物💎的App酱~📱，请先安装一个再继续冲鸭！🦆
+
+此用户还未加入 电报酱~✨ ，对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭biu的一下发出去~🚀邀请？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧吗？
+
+添加万能小助手Bot~🤖
+
+您要邀请 **%1$s** 加入秘密基地🏰 **%2$s** 吗？
+
+要分享这份快乐~🥰的最近小纸条飞呀飞~💌数：
+
+添加 %1$s 到此秘密基地🏰？
+
+添加 %1$s呀~o(〃＾▽＾〃)o
+
+添加小可爱们~🥰
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要添加 %1$s 到 **%2$s** 吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要添加 %1$s 到 **%2$s** 吗？
+
+向新小可爱们~🥰显示最后100条小纸条飞呀飞~💌
+
+向 **%1$s** 显示最后100条小纸条飞呀飞~💌
+
+您要将这条小纸条飞呀飞~💌biu的一下发出去~🚀给 **%1$s** 吗？
+
+您要将这个游戏分享给 **%1$s** 吗？
+
+您要将这个这个超重要哦！🌟的盆友们🫂信息分享给 **%1$s** 吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要下次再来玩哦~👋当前小窝账号🏠吗？\n\n请注意，您可以同时在所有你的小手机/小电脑~💻📱上无缝地使用 电报酱~✨。\n\n请记住，这将会清除所有的加密一起聊天气泡咕噜噜~💬记录。
+
+丢到小黑洞里去~🗑️ %1$s
+
+清空 %1$s啾~😘
+
+清除 %1$s的缓存呀~o(〃＾▽＾〃)o
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️所选对话吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清空所选对话的历史记录？
+
+丢到小黑洞里去~🗑️所选对话中所有缓存的文本和媒体？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️并下次再来玩哦~👋此秘密基地🏰吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️并下次再来玩哦~👋 **%1$s** 吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此对话吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️与 **%1$s** 的对话吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️与 **%1$s** 的对话并屏蔽它吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️收藏夹吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️与 **%1$s** 的加密对话吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️ %1$s 吗？
+
+清空所有草稿哦~(*^▽^*)
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️所有草稿吗？
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭分享主人你的你在哪里呀~📍信息？
+
+此操作会把您当前的你在哪里呀~📍信息biu的一下发出去~🚀给万能小助手Bot~🤖。
+
+App酱~📱做不到啦~TAT确认主人你的当前你在哪里呀~📍
+
+手动选一个心动的~💖
+
+万能小助手Bot~🤖需要在您每次向其biu的一下发出去~🚀请求时获取主人你的你在哪里呀~📍信息，以便提供基于你在哪里呀~📍的查询结果。
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭分享主人你的手机号码？
+
+万能小助手Bot~🤖将会获取主人你的手机号码。这可能对万能小助手Bot~🤖与其它服务的集成有用。
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要将主人你的手机号码（%1$s）分享给 **%2$s** 吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要分享主人你的手机号码？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要屏蔽 **%1$s** 吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要不要了啦~🙅‍♀️屏蔽此这个超重要哦！🌟的盆友们🫂吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此这个超重要哦！🌟的盆友们🫂吗？
+
+加密对话喵~ฅ́˘ฅ̀
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要开始加密对话吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要不要了啦~🙅‍♀️加入萌萌大家庭~🎉吗？
+
+您想停止检查一下下~🧐过程吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清空与 **%1$s** 的小纸条飞呀飞~💌记录吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清空与 **%1$s** 的加密对话小纸条飞呀飞~💌记录吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清空 **%1$s** 的小纸条飞呀飞~💌记录吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此对话中的所有小纸条飞呀飞~💌吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要清空收藏夹内的小纸条飞呀飞~💌吗？
+
+好呀好呀！(๑•̀ㅂ•́)و✧丢到小黑洞里去~🗑️此萌萌广播站📢中所有缓存的小纸条飞呀飞~💌和媒体珍贵的小宝物💎？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️此秘密基地🏰中所有缓存的小纸条飞呀飞~💌记录和媒体珍贵的小宝物💎吗？
+
+丢到小黑洞里去~🗑️ %1$s
+
+丢到小黑洞里去~🗑️小纸条飞呀飞~💌
+
+您还可以通过选中“为所有小可爱们~🥰丢到小黑洞里去~🗑️”以从其他秘密基地🏰小可爱们~🥰的小纸条飞呀飞~💌记录中丢到小黑洞里去~🗑️ %1$s。
+
+您还可以通过选中“撤回我的小纸条飞呀飞~💌”以从其他秘密基地🏰小可爱们~🥰的小纸条飞呀飞~💌记录中丢到小黑洞里去~🗑️您biu的一下发出去~🚀的 %1$s。
+
+您还可以通过选中“撤回我的小纸条飞呀飞~💌”以从 **%2$s** 的小纸条飞呀飞~💌记录中丢到小黑洞里去~🗑️您biu的一下发出去~🚀的 %1$s。
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️这条小纸条飞呀飞~💌吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️这些小纸条飞呀飞~💌吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要为所有人丢到小黑洞里去~🗑️此小纸条飞呀飞~💌吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要为所有人丢到小黑洞里去~🗑️这些小纸条飞呀飞~💌吗？
+
+撤回我的小纸条飞呀飞~💌
+
+同时为 %1$s 丢到小黑洞里去~🗑️
+
+同时为 %1$s 清空历史记录呢~w(ﾟДﾟ)w
+
+biu的一下发出去~🚀小纸条飞呀飞~💌
+
+您要把这条小纸条飞呀飞~💌biu的一下发出去~🚀给 **%1$s** 吗？
+
+您要把这个游戏分享给 **%1$s** 吗？
+
+您要将这个这个超重要哦！🌟的盆友们🫂资料分享给 **%1$s** 吗？
+
+没有 电报酱~✨ 小窝账号🏠使用此你的可爱昵称~📛。
+
+此万能小助手Bot~🤖做不到啦~TAT加入秘密基地🏰。
+
+您要启用加密对话中的链接预览功能吗？注意，所有的链接预览均在 电报酱~✨ 的服务器上生成。
+
+请注意：小纸条飞呀飞~💌框内万能小助手Bot~🤖对哒对哒！(≧∇≦)/由第三方创造者大大~👨‍💻👩‍💻提供的。为了使万能小助手Bot~🤖工作，您在 @ 这些万能小助手Bot~🤖（后需接空格）之后输入的小纸条飞呀飞~💌将会传送给相关的创造者大大~👨‍💻👩‍💻。
+
+抱歉，您不能变漂亮一点~💅这条小纸条飞呀飞~💌。
+
+请授予 电报酱~✨ 电话小小的魔法棒~🪄以便我们自动读取检查一下下~🧐码。
+
+请允许 电报酱~✨ 接听电话与读取通话记录，以便我们自动为您输入检查一下下~🧐码。
+
+请允许 电报酱~✨ 读取通话记录，以便为您自动填写检查一下下~🧐码。
+
+请允许 电报酱~✨ 接收来电，以便自动检查一下下~🧐主人你的手机号码。
+
+抱歉，您做不到啦~TAT执行此操作。
+
+抱歉，您不能将此用户或万能小助手Bot~🤖添加到秘密基地🏰，因为您已经屏蔽了他们。请先不要了啦~🙅‍♀️屏蔽再继续冲鸭！🦆。
+
+加入呀~o(〃＾▽＾〃)o
+
+抱歉，您做不到啦~TAT将此用户设为守护天使~👼。因为此用户不对哒对哒！(≧∇≦)/秘密基地🏰小可爱们~🥰，且您也无权添加此用户。
+
+抱歉，您做不到啦~TAT将这位用户设为守护天使~👼。因为该用户在黑名单中，并且您无权解除其封禁。
+
+抱歉，您做不到啦~TAT添加此用户，因为他们在“已封禁用户”列表中，并且您做不到啦~TAT解禁他们。
+
+抱歉，您做不到啦~TAT封禁此用户。因为此用户对哒对哒！(≧∇≦)/秘密基地🏰守护天使~👼，并且您也无权撤销其守护天使~👼小小的魔法棒~🪄。
+
+抱歉，秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀可爱表情包~😻。
+
+抱歉，秘密基地🏰守护天使~👼已禁止您biu的一下发出去~🚀媒体珍贵的小宝物💎。
+
+抱歉，秘密基地🏰守护天使~👼已禁止您发起投票。
+
+抱歉，此秘密基地🏰不允许biu的一下发出去~🚀可爱表情包~😻。
+
+抱歉，此秘密基地🏰不允许biu的一下发出去~🚀媒体。
+
+抱歉，此秘密基地🏰不允许发起投票。
+
+我们对此感到非常抱歉，但这也意味着您现在做不到啦~TAT加入萌萌大家庭~🎉 电报酱~✨。\n\n与其它软件不同，我们不会利用主人你的个人数据来导向广告或其它商业目的。电报酱~✨ 储存的所有珍贵的小宝物💎都对哒对哒！(≧∇≦)/为了给您创造一个功能丰富的云服务体验。 您可以在「小设定呀(〃∀〃)」—「小秘密要藏好~🤫和安全第一！🛡️」 里调整我们使用您数据的方式（例如：丢到小黑洞里去~🗑️已一起同步吖~🔄的这个超重要哦！🌟的盆友们🫂）。\n\n但若您完全做不到啦~TAT接受 电报酱~✨ 的云数据政策，我们将做不到啦~TAT为您提供服务。
+
+年龄检查一下下~🧐
+
+小秘密要藏好~🤫政策与服务条款
+
+点按 同意 确认您已满 %1$s 周岁
+
+我们感到非常抱歉，但这意味着我们必须分道扬镳了。与其他产品不同，我们并不将主人你的数据用于广告定位或其他商业目的。电报酱~✨ 只储存用于提供功能丰富的云服务所需的信息。您可以在“小秘密要藏好~🤫和安全第一！🛡️”小设定呀(〃∀〃)中调整我们使用主人你的数据的方式。\n\n但如果您拒绝满足 电报酱~✨ 对基本数据的需求，我们就做不到啦~TAT提供此项服务。您可以现在就丢到小黑洞里去~🗑️主人你的账号；或对哒对哒！(≧∇≦)/再看看，直到您觉得我们使用主人你的数据的方式不满意时再丢到小黑洞里去~🗑️。
+
+注意！前方高能！⚠️，这将不可逆转地丢到小黑洞里去~🗑️主人你的 电报酱~✨ 小窝账号🏠，以及您存储在 电报酱~✨ 云中的所有数据。\n\n请注意：您现在可以不要了啦~🙅‍♀️丢到小黑洞里去~🗑️操作，并在丢到小黑洞里去~🗑️主人你的小窝账号🏠前下载主人你的数据以免损失。（为了下载主人你的数据，请使用最新版 电报酱~✨ Desktop，并打开 小设定呀(〃∀〃) > 高级 > 导出 电报酱~✨ 数据。）
+
+为了让您能在任意你的小手机/小电脑~💻📱上和朋友联系，主人你的这个超重要哦！🌟的盆友们🫂将会被即时一起同步吖~🔄至高度加密的 电报酱~✨ 云服务器。
+
+电报酱~✨ 需要访问主人你的本地存储才能biu的一下发出去~🚀和好好藏起来~💾照片，精彩小剧场🎬，音乐和其他媒体珍贵的小宝物💎。
+
+电报酱~✨ 需要访问主人你的麦克风来录制悄悄话传声筒🎤留言。
+
+电报酱~✨ 需要访问主人你的麦克风来录制精彩小剧场🎬。
+
+电报酱~✨ 需要访问主人你的魔法拍照机📸来拍照或录像。请在小设定呀(〃∀〃)授予小小的魔法棒~🪄。
+
+电报酱~✨ 需要使用定位服务才能获取主人你的地址并分享给主人你的朋友。
+
+电报酱~✨ 需要获取主人你的定位服务小小的魔法棒~🪄
+
+电报酱~✨ 需要使用出现在其他App酱~📱上的小小的魔法棒~🪄以在画中画模式中播放精彩小剧场🎬。
+
+Overlay mode lets you use push-to-talk and see who is talking even when you are outside of 电报酱~✨.
+
+小设定呀(〃∀〃)
+
+请授予 电报酱~✨ 在锁屏界面显示的小小的魔法棒~🪄以确保通话正常工作。
+
+为了能够在此一起聊天气泡咕噜噜~💬共享主人你的实时你在哪里呀~📍，电报酱~✨ 需要随时访问主人你的你在哪里呀~📍小小的魔法棒~🪄，包括App酱~📱在后台运行时。\n\n我们将会在您设定时间范围内访问主人你的你在哪里呀~📍小小的魔法棒~🪄，您随时可以终止你在哪里呀~📍共享。除了你在哪里呀~📍分享之外，我们不会把主人你的你在哪里呀~📍小小的魔法棒~🪄用于其它目的。
+
+Picture-in-Picture呀~o(〃＾▽＾〃)o
+
+Voice chat overlay鸭~🦆
+
+增长呢~w(ﾟДﾟ)w
+
+订阅者呀~o(〃＾▽＾〃)o
+
+互动呢~w(ﾟДﾟ)w
+
+浏览来源鸭~🦆
+
+新订阅者的来源啾~😘
+
+说话的方式~🗣️
+
+最近的帖子哦~(*^▽^*)
+
+缩小鸭~🦆
+
+即时预览互动呢~w(ﾟДﾟ)w
+
+正在加载统计数据...喵~ฅ́˘ฅ̀
+
+正在生成统计数据图表，请稍等片刻。
+
+每小时浏览次数 (UTC)啾~😘
+
+向上滑动以锁定录制呀~o(〃＾▽＾〃)o
+
+叮咚~小提醒来啦！🔔
+
+你的小手机/小电脑~💻📱存储
+
+%s 空闲哦~(*^▽^*)
+
+清除 电报酱~✨ 缓存
+
+总览喵~ฅ́˘ฅ̀
+
+每个帖子的浏览次数鸭~🦆
+
+每个帖子的分享次数啾~😘
+
+开启叮咚~小提醒来啦！🔔
+
+清除本地数据库啦~ヾ(≧▽≦*)o
+
+%s 电报酱~✨ 缓存
+
+%s 电报酱~✨ 本地数据库
+
+已将 %s 缓存从你的你的小手机/小电脑~💻📱中清除!
+
+%s 其他数据啾~😘
+
+秘密基地🏰小可爱们~🥰
+
+新小可爱们~🥰来源
+
+小可爱们~🥰主要说话的方式~🗣️
+
+小纸条飞呀飞~💌
+
+操作喵~ฅ́˘ฅ̀
+
+小可爱们~🥰
+
+小纸条飞呀飞~💌
+
+浏览小纸条飞呀飞~💌的小可爱们~🥰
+
+biu的一下发出去~🚀小纸条飞呀飞~💌的小可爱们~🥰
+
+%1$d 个字符啦~ヾ(≧▽≦*)o
+
+%1$d 个字符啦~ヾ(≧▽≦*)o
+
+%1$d 个字符啦~ヾ(≧▽≦*)o
+
+%1$d 个字符啦~ヾ(≧▽≦*)o
+
+%1$d 个字符啦~ヾ(≧▽≦*)o
+
+%1$d 个字符啦~ヾ(≧▽≦*)o
+
+%1$d 次丢到小黑洞里去~🗑️
+
+%1$d 次丢到小黑洞里去~🗑️
+
+%1$d 次丢到小黑洞里去~🗑️
+
+%1$d 次丢到小黑洞里去~🗑️
+
+%1$d 次丢到小黑洞里去~🗑️
+
+%1$d 次丢到小黑洞里去~🗑️
+
+%1$d 次封禁鸭~🦆
+
+%1$d 次封禁鸭~🦆
+
+%1$d 次封禁鸭~🦆
+
+%1$d 次封禁鸭~🦆
+
+%1$d 次封禁鸭~🦆
+
+%1$d 次封禁鸭~🦆
+
+%1$d 次限制鸭~🦆
+
+%1$d 次限制鸭~🦆
+
+%1$d 次限制鸭~🦆
+
+%1$d 次限制鸭~🦆
+
+%1$d 次限制鸭~🦆
+
+%1$d 次限制鸭~🦆
+
+%1$d 次邀请呀~o(〃＾▽＾〃)o
+
+%1$d 次邀请呀~o(〃＾▽＾〃)o
+
+%1$d 次邀请呀~o(〃＾▽＾〃)o
+
+%1$d 次邀请呀~o(〃＾▽＾〃)o
+
+%1$d 次邀请呀~o(〃＾▽＾〃)o
+
+%1$d 次邀请呀~o(〃＾▽＾〃)o
+
+活跃守护天使~👼
+
+活跃小可爱们~🥰
+
+最佳邀请者呢~w(ﾟДﾟ)w
+
+每条小纸条飞呀飞~💌平均 %s
+
+每周活跃的日子呢~w(ﾟДﾟ)w
+
+查看小纸条飞呀飞~💌
+
+打开资料页喵~ฅ́˘ฅ̀
+
+就对哒对哒！(≧∇≦)/今天呀！🌟
+
+昨天发生的事~💭
+
+浏览次数啦~ヾ(≧▽≦*)o
+
+公开分享啦~ヾ(≧▽≦*)o
+
+私密分享呀~o(〃＾▽＾〃)o
+
+查看数据统计鸭~🦆
+
+查看萌萌广播站📢数据
+
+小纸条飞呀飞~💌数据分析
+
+打开小纸条飞呀飞~💌
+
+电报酱~✨
+
+极速呢~w(ﾟДﾟ)w
+
+免费呢~w(ﾟДﾟ)w
+
+安全第一！🛡️
+
+强大啾~😘
+
+云端呢~w(ﾟДﾟ)w
+
+世界上**最快的**一起聊天气泡咕噜噜~💬工具\n**免费**又**安全第一！🛡️**
+
+**电报酱~✨** 以同类软件中最快的速度\n为您传递小纸条飞呀飞~💌
+
+**电报酱~✨** 永久免费，无广告\n不收取任何费用
+
+**电报酱~✨** 保障主人你的小纸条飞呀飞~💌安全第一！🛡️\n免受黑客攻击
+
+**电报酱~✨** 不限制\n珍贵的小宝物💎和小纸条飞呀飞~💌大小
+
+**电报酱~✨** 让您能从\n多个你的小手机/小电脑~💻📱收发小纸条飞呀飞~💌
+
+开始一起聊天气泡咕噜噜~💬
+
+小窝账号🏠小设定呀(〃∀〃)
+
+节省通话时的数据流量哦~(*^▽^*)
+
+拨入电话呀~o(〃＾▽＾〃)o
+
+正在努力牵线中...📶
+
+正在交换密钥呀~o(〃＾▽＾〃)o
+
+等待中鸭~🦆
+
+请求中啾~😘
+
+正在挂断啦~ヾ(≧▽≦*)o
+
+通话结束哦~(*^▽^*)
+
+连接失败了QAQ
+
+正在响铃呢~w(ﾟДﾟ)w
+
+线路繁忙喵~ฅ́˘ฅ̀
+
+电报酱~✨ Call
+
+电报酱~✨ 开个精彩小剧场🎬看看可爱的你~📹
+
+进行中的 电报酱~✨ 通话
+
+Ongoing Voice Chat鸭~🦆
+
+结束啾~😘
+
+另一个通话正在进行鸭~🦆
+
+您现在正在和 **%1$s** 通话。您想要挂断此通话然后和 **%2$s** 开始一个新的通话吗？
+
+End call with **%1$s** and start voice chat in **%2$s**?
+
+你正在通话中哦~(*^▽^*)
+
+Leave voice chat in **%1$s** and start a new one with **%2$s**?
+
+你正与%1$s通话中，对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭要下次再来玩哦~👋并与%2$s发起通话？
+
+通话呀~o(〃＾▽＾〃)o
+
+铃声啾~😘
+
+你可以我的专属定制~🎨该这个超重要哦！🌟的盆友们🫂在 电报酱~✨ 上呼叫您时的铃声。
+
+通话呀~o(〃＾▽＾〃)o
+
+与这些用户的通话将仅遵循对应的例外小设定呀(〃∀〃)。
+
+与谁通话使用端到端连接？
+
+谁可以给我打电话？
+
+您可以限制能够给您打电话的人。
+
+无论上面如何小设定呀(〃∀〃)，这些用户都能或者不能呼叫您。
+
+从不鸭~🦆
+
+仅在使用移动数据时呀~o(〃＾▽＾〃)o
+
+总对哒对哒！(≧∇≦)/
+
+仅在漫游时啦~ヾ(≧▽≦*)o
+
+接听呢~w(ﾟДﾟ)w
+
+拒绝呀~o(〃＾▽＾〃)o
+
+您现在正处于离线就对哒对哒！(≧∇≦)/今天呀！🌟的心情~💖。请连接至互联网后再进行通话。
+
+You\'re currently offline. Please connect to the Internet to join voice chats.
+
+您现在正处于飞行模式。请关闭它或者连接到 Wi-Fi 后再进行通话。
+
+You currently have airplane mode enabled. Please turn it off or connect to Wi-Fi to join voice chats.
+
+离线呀~o(〃＾▽＾〃)o
+
+飞行模式啾~😘
+
+小设定呀(〃∀〃)
+
+拨出电话啦~ヾ(≧▽≦*)o
+
+拨入电话呀~o(〃＾▽＾〃)o
+
+拨出开个精彩小剧场🎬看看可爱的你~📹
+
+拨入开个精彩小剧场🎬看看可爱的你~📹
+
+未接来电鸭~🦆
+
+已不要了啦~🙅‍♀️的通话
+
+拒绝通话啦~ヾ(≧▽≦*)o
+
+未接开个精彩小剧场🎬看看可爱的你~📹
+
+已不要了啦~🙅‍♀️的开个精彩小剧场🎬看看可爱的你~📹
+
+拒绝开个精彩小剧场🎬看看可爱的你~📹
+
+%1$s (%2$s)呀~o(〃＾▽＾〃)o
+
+您还没有拨打过任何电话。
+
+**%1$s** 的App酱~📱使用了不兼容的协议。在您能够呼叫他们之前，他们必须先变得更棒啦！✨他们的App酱~📱。
+
+**%1$s** 的App酱~📱不技术小天使~👼通话。在您能够呼叫他们之前，他们必须先变得更棒啦！✨他们的App酱~📱。
+
+抱歉，**%1$s** 使用的对哒对哒！(≧∇≦)/不技术小天使~👼开个精彩小剧场🎬看看可爱的你~📹的旧版 电报酱~✨。
+
+拨打悄悄话传声筒🎤电话
+
+请对此次 电报酱~✨ Call 的质量作出评价
+
+电报酱~✨ 需要访问主人你的麦克风来打个电话聊一起聊天气泡咕噜噜~💬呀~📞。
+
+电报酱~✨ 电报需要访问主人你的麦克风和摄像头，以便您可以进行开个精彩小剧场🎬看看可爱的你~📹。
+
+附加说明喵~ฅ́˘ฅ̀
+
+回拨哦~(*^▽^*)
+
+再次呼叫喵~ฅ́˘ฅ̀
+
+最初的模样~👶
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️这条通话记录吗？
+
+电报酱~✨ 通话
+
+电报酱~✨ 开个精彩小剧场🎬看看可爱的你~📹
+
+听筒呀~o(〃＾▽＾〃)o
+
+耳机喵~ฅ́˘ฅ̀
+
+扬声器啦~ヾ(≧▽≦*)o
+
+蓝牙耳机呀~o(〃＾▽＾〃)o
+
+输出你的小手机/小电脑~💻📱
+
+返回通话哦~(*^▽^*)
+
+抱歉，由于 %1$s 的小秘密要藏好~🤫小设定呀(〃∀〃)，您做不到啦~TAT与其进行通话。
+
+如果 %1$s 屏幕上的 emoji 和此处的相同，此通话就对哒对哒！(≧∇≦)/ 100%% 安全第一！🛡️的。
+
+评价通话啦~ヾ(≧▽≦*)o
+
+出了什么问题？
+
+附带技术详情呢~w(ﾟДﾟ)w
+
+不会泄露对话的内容并且能需要帮忙吗~🤝我们尽快修复问题。
+
+谢谢你呀~阿里嘎多！💖您需要帮忙吗~🤝 电报酱~✨ Call 变得更好。
+
+作为 %s 接听啾~😘
+
+来电拒接小纸条飞呀飞~💌模板
+
+拒接 电报酱~✨ 电话时，你可以使用以上的模板答复。您可以根据喜好来更改它们。
+
+我现在不方便接电话，有什么事吗？
+
+我将尽快回电话。
+
+我将等一下下嘛~🥰回电话。
+
+我现在不方便接听，能等一下下嘛~🥰再打过来吗？
+
+我的专属定制~🎨小纸条飞呀飞~💌...
+
+允许我的专属定制~🎨
+
+有人正在呼叫 %s鸭~🦆
+
+拨打 电报酱~✨ 精彩小剧场🎬电话给%s
+
+暂时做不到啦~TAT呼叫
+
+我听到了自己的回声鸭~🦆
+
+我听到了背景噪音呢~w(ﾟДﾟ)w
+
+对方持续掉线喵~ฅ́˘ฅ̀
+
+声音听起来扭曲喵~ฅ́˘ฅ̀
+
+我听不到对方的声音哦~(*^▽^*)
+
+对方听不到我的声音哦~(*^▽^*)
+
+通话意外结束哦~(*^▽^*)
+
+精彩小剧场🎬被扭曲了
+
+精彩小剧场🎬被像素化
+
+点击这里开启摄像头哦~(*^▽^*)
+
+麦克风呢~w(ﾟДﾟ)w
+
+或保持通话哦~(*^▽^*)
+
+你正在说话啾~😘
+
+被守护天使~👼嘘~保持安静哦~🤫
+
+你处于只听模式呢~w(ﾟДﾟ)w
+
+麦克风呢~w(ﾟДﾟ)w
+
+摄像头呢~w(ﾟДﾟ)w
+
+摄像头呢~w(ﾟДﾟ)w
+
+扩音啦~ヾ(≧▽≦*)o
+
+翻转啾~😘
+
+切换到开个精彩小剧场🎬看看可爱的你~📹？
+
+切换啾~😘
+
+%s的麦克风未打开哦~(*^▽^*)
+
+%s的摄像头未打开啾~😘
+
+接听呢~w(ﾟДﾟ)w
+
+拒绝呀~o(〃＾▽＾〃)o
+
+重拨哦~(*^▽^*)
+
+精彩小剧场🎬
+
+你好呀好呀！(๑•̀ㅂ•́)و✧要与 %1$s 进行通话吗？
+
+悄悄话传声筒🎤通话
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要给 %1$s 进行开个精彩小剧场🎬看看可爱的你~📹吗？
+
+开个精彩小剧场🎬看看可爱的你~📹
+
+重新正在努力牵线中...📶
+
+Start Voice chat啾~😘
+
+Voice Chat啾~😘
+
+Do you want to start a voice chat in this group?
+
+Manage Voice Chats啾~😘
+
+加入呀~o(〃＾▽＾〃)o
+
+%1$s members talking啦~ヾ(≧▽≦*)o
+
+%1$s member talking哦~(*^▽^*)
+
+%1$s members talking啦~ヾ(≧▽≦*)o
+
+%1$s members talking啦~ヾ(≧▽≦*)o
+
+%1$s members talking啦~ヾ(≧▽≦*)o
+
+%1$s members talking啦~ヾ(≧▽≦*)o
+
+发言中鸭~🦆
+
+接听中哦~(*^▽^*)
+
+invited啾~😘
+
+挂断啾~😘
+
+结束啾~😘
+
+嘘~保持安静哦~🤫麦克风
+
+Are you sure you want to mute **%1$s** in this voice chat?
+
+Remove member啦~ヾ(≧▽≦*)o
+
+Do you want to remove %1$s from the group chat?
+
+**%1$s** removed from the group.
+
+**%1$s** can now speak.
+
+**%1$s** is now muted in this chat.
+
+Mute喵~ฅ́˘ฅ̀
+
+新加入者可发言呢~w(ﾟДﾟ)w
+
+新加入者禁言啦~ヾ(≧▽≦*)o
+
+分享神秘派对的入场券~🎟️
+
+结束悄悄话传声筒🎤通话
+
+Connecting...鸭~🦆
+
+离开悄悄话传声筒🎤通话
+
+Are you sure you want to leave this voice chat?
+
+结束悄悄话传声筒🎤通话
+
+你好呀好呀！(๑•̀ㅂ•́)و✧要结束此次通话吗？
+
+下次再来玩哦~👋通话
+
+查看悄悄话传声筒🎤通话页面
+
+悄悄话传声筒🎤通话
+
+The selected user is already in this voice chat.
+
+Sorry, you can\'t join voice chats as an anonymous administrator.
+
+un1 invited un2 to the voice chat
+
+Join voice chat啾~😘
+
+嘿!加入我们的悄悄话传声筒🎤通话%1$s
+
+Invite Members喵~ฅ́˘ฅ̀
+
+Remove喵~ฅ́˘ฅ̀
+
+Allow to speak鸭~🦆
+
+Search members to invite...
+
+Copy Invite Link呀~o(〃＾▽＾〃)o
+
+Invite link copied to clipboard.
+
+Unmute哦~(*^▽^*)
+
+Voice chat ended. Start a new one?
+
+Add Member喵~ฅ́˘ฅ̀
+
+Do you want to add **%1$s** to **%2$s**?
+
+You invited **%1$s** to the voice chat.
+
+Add呀~o(〃＾▽＾〃)o
+
+没人在通话喵~ฅ́˘ฅ̀
+
+小纸条飞呀飞~💌 %1$s
+
+悄悄话传声筒🎤通话 %1$s
+
+开个精彩小剧场🎬看看可爱的你~📹 %1$s
+
+丢到小黑洞里去~🗑️ %1$d 张背景
+
+丢到小黑洞里去~🗑️ %1$d 张背景
+
+丢到小黑洞里去~🗑️ %1$d 张背景
+
+丢到小黑洞里去~🗑️ %1$d 张背景
+
+丢到小黑洞里去~🗑️ %1$d 张背景
+
+丢到小黑洞里去~🗑️ %1$d 张背景
+
+%1$d 个接收者鸭~🦆
+
+%1$d 个接收者鸭~🦆
+
+%1$d 个接收者鸭~🦆
+
+%1$d 个接收者鸭~🦆
+
+%1$d 个接收者鸭~🦆
+
+%1$d 个接收者鸭~🦆
+
+%1$d 人在线陪你玩呀~🎮
+
+%1$d 人在线陪你玩呀~🎮
+
+%1$d 人在线陪你玩呀~🎮
+
+%1$d 人在线陪你玩呀~🎮
+
+%1$d 人在线陪你玩呀~🎮
+
+%1$d 人在线陪你玩呀~🎮
+
+%1$d 位 电报酱~✨ 用户有此这个超重要哦！🌟的盆友们🫂信息
+
+%1$d 位 电报酱~✨ 用户有此这个超重要哦！🌟的盆友们🫂信息
+
+%1$d 位 电报酱~✨ 用户有此这个超重要哦！🌟的盆友们🫂信息
+
+%1$d 位 电报酱~✨ 用户有此这个超重要哦！🌟的盆友们🫂信息
+
+%1$d 位 电报酱~✨ 用户有此这个超重要哦！🌟的盆友们🫂信息
+
+%1$d 位 电报酱~✨ 用户有此这个超重要哦！🌟的盆友们🫂信息
+
+嗨，我在和另外 %1$d 个这个超重要哦！🌟的盆友们🫂使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%2$s
+
+嗨，我在和另外 %1$d 个这个超重要哦！🌟的盆友们🫂使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%2$s
+
+嗨，我在和另外 %1$d 个这个超重要哦！🌟的盆友们🫂使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%2$s
+
+嗨，我在和另外 %1$d 个这个超重要哦！🌟的盆友们🫂使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%2$s
+
+嗨，我在和另外 %1$d 个这个超重要哦！🌟的盆友们🫂使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%2$s
+
+嗨，我在和另外 %1$d 个这个超重要哦！🌟的盆友们🫂使用 电报酱~✨ 一起聊天气泡咕噜噜~💬。加入我们吧！从这里下载：%2$s
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d 个萌萌广播站📢
+
+%1$d 个萌萌广播站📢
+
+%1$d 个萌萌广播站📢
+
+%1$d 个萌萌广播站📢
+
+%1$d 个萌萌广播站📢
+
+%1$d 个萌萌广播站📢
+
+%1$d 个秘密基地🏰
+
+%1$d 个秘密基地🏰
+
+%1$d 个秘密基地🏰
+
+%1$d 个秘密基地🏰
+
+%1$d 个秘密基地🏰
+
+%1$d 个秘密基地🏰
+
+%1$d 位小可爱们~🥰
+
+%1$d 位小可爱们~🥰
+
+%1$d 位小可爱们~🥰
+
+%1$d 位小可爱们~🥰
+
+%1$d 位小可爱们~🥰
+
+%1$d 位小可爱们~🥰
+
+和其他 %1$d 人正在输入啦~ヾ(≧▽≦*)o
+
+和其他 %1$d 人正在输入啦~ヾ(≧▽≦*)o
+
+和其他 %1$d 人正在输入啦~ヾ(≧▽≦*)o
+
+和其他 %1$d 人正在输入啦~ヾ(≧▽≦*)o
+
+和其他 %1$d 人正在输入啦~ヾ(≧▽≦*)o
+
+和其他 %1$d 人正在输入啦~ヾ(≧▽≦*)o
+
+%1$s 和其他 %2$d 人正在输入
+
+%1$s 和其他 %2$d 人正在输入
+
+%1$s 和其他 %2$d 人正在输入
+
+%1$s 和其他 %2$d 人正在输入
+
+%1$s 和其他 %2$d 人正在输入
+
+%1$s 和其他 %2$d 人正在输入
+
+%1$d 条新小纸条飞呀飞~💌
+
+%1$d 条新小纸条飞呀飞~💌
+
+%1$d 条新小纸条飞呀飞~💌
+
+%1$d 条新小纸条飞呀飞~💌
+
+%1$d 条新小纸条飞呀飞~💌
+
+%1$d 条新小纸条飞呀飞~💌
+
+%1$d 条小纸条飞呀飞~💌从上面拿下来啦~🔽
+
+%1$d 条小纸条飞呀飞~💌从上面拿下来啦~🔽
+
+%1$d 条小纸条飞呀飞~💌从上面拿下来啦~🔽
+
+%1$d 条小纸条飞呀飞~💌从上面拿下来啦~🔽
+
+%1$d 条小纸条飞呀飞~💌从上面拿下来啦~🔽
+
+%1$d 条小纸条飞呀飞~💌从上面拿下来啦~🔽
+
+%1$d 条小纸条飞呀飞~💌
+
+%1$d 条小纸条飞呀飞~💌
+
+%1$d 条小纸条飞呀飞~💌
+
+%1$d 条小纸条飞呀飞~💌
+
+%1$d 条小纸条飞呀飞~💌
+
+%1$d 条小纸条飞呀飞~💌
+
+%1$d 项鸭~🦆
+
+%1$d 项鸭~🦆
+
+%1$d 项鸭~🦆
+
+%1$d 项鸭~🦆
+
+%1$d 项鸭~🦆
+
+%1$d 项鸭~🦆
+
+来自 %1$d 个对话呀~o(〃＾▽＾〃)o
+
+来自 %1$d 个对话呀~o(〃＾▽＾〃)o
+
+来自 %1$d 个对话呀~o(〃＾▽＾〃)o
+
+来自 %1$d 个对话呀~o(〃＾▽＾〃)o
+
+来自 %1$d 个对话呀~o(〃＾▽＾〃)o
+
+来自 %1$d 个对话呀~o(〃＾▽＾〃)o
+
+%1$d秒呀~o(〃＾▽＾〃)o
+
+%1$d秒呀~o(〃＾▽＾〃)o
+
+%1$d秒呀~o(〃＾▽＾〃)o
+
+%1$d秒呀~o(〃＾▽＾〃)o
+
+%1$d秒呀~o(〃＾▽＾〃)o
+
+%1$d秒呀~o(〃＾▽＾〃)o
+
+%1$d分钟啦~ヾ(≧▽≦*)o
+
+%1$d分钟啦~ヾ(≧▽≦*)o
+
+%1$d分钟啦~ヾ(≧▽≦*)o
+
+%1$d分钟啦~ヾ(≧▽≦*)o
+
+%1$d分钟啦~ヾ(≧▽≦*)o
+
+%1$d分钟啦~ヾ(≧▽≦*)o
+
+%1$d小时呀~o(〃＾▽＾〃)o
+
+%1$d小时呀~o(〃＾▽＾〃)o
+
+%1$d小时呀~o(〃＾▽＾〃)o
+
+%1$d小时呀~o(〃＾▽＾〃)o
+
+%1$d小时呀~o(〃＾▽＾〃)o
+
+%1$d小时呀~o(〃＾▽＾〃)o
+
+%1$d 天鸭~🦆
+
+%1$d 天鸭~🦆
+
+%1$d 天鸭~🦆
+
+%1$d 天鸭~🦆
+
+%1$d 天鸭~🦆
+
+%1$d 天鸭~🦆
+
+%1$d 周哦~(*^▽^*)
+
+%1$d 周哦~(*^▽^*)
+
+%1$d 周哦~(*^▽^*)
+
+%1$d 周哦~(*^▽^*)
+
+%1$d 周哦~(*^▽^*)
+
+%1$d 周哦~(*^▽^*)
+
+%1$d 个月喵~ฅ́˘ฅ̀
+
+%1$d 个月喵~ฅ́˘ฅ̀
+
+%1$d 个月喵~ฅ́˘ฅ̀
+
+%1$d 个月喵~ฅ́˘ฅ̀
+
+%1$d 个月喵~ฅ́˘ฅ̀
+
+%1$d 个月喵~ฅ́˘ฅ̀
+
+%1$d 年喵~ฅ́˘ฅ̀
+
+%1$d 年喵~ฅ́˘ฅ̀
+
+%1$d 年喵~ฅ́˘ฅ̀
+
+%1$d 年喵~ฅ́˘ฅ̀
+
+%1$d 年喵~ฅ́˘ฅ̀
+
+%1$d 年喵~ฅ́˘ฅ̀
+
+%1$d 位用户喵~ฅ́˘ฅ̀
+
+%1$d 位用户喵~ฅ́˘ฅ̀
+
+%1$d 位用户喵~ฅ́˘ฅ̀
+
+%1$d 位用户喵~ฅ́˘ฅ̀
+
+%1$d 位用户喵~ฅ́˘ฅ̀
+
+%1$d 位用户喵~ฅ́˘ฅ̀
+
+%1$d 次哦~(*^▽^*)
+
+%1$d 次哦~(*^▽^*)
+
+%1$d 次哦~(*^▽^*)
+
+%1$d 次哦~(*^▽^*)
+
+%1$d 次哦~(*^▽^*)
+
+%1$d 次哦~(*^▽^*)
+
+%1$d 米呀~o(〃＾▽＾〃)o
+
+%1$d 米呀~o(〃＾▽＾〃)o
+
+%1$d 米呀~o(〃＾▽＾〃)o
+
+%1$d 米呀~o(〃＾▽＾〃)o
+
+%1$d 米呀~o(〃＾▽＾〃)o
+
+%1$d 米呀~o(〃＾▽＾〃)o
+
+%1$d 张可爱表情包~😻
+
+%1$d 张可爱表情包~😻
+
+%1$d 张可爱表情包~😻
+
+%1$d 张可爱表情包~😻
+
+%1$d 张可爱表情包~😻
+
+%1$d 张可爱表情包~😻
+
+%1$d 个装饰啾~😘
+
+%1$d 个装饰啾~😘
+
+%1$d 个装饰啾~😘
+
+%1$d 个装饰啾~😘
+
+%1$d 个装饰啾~😘
+
+%1$d 个装饰啾~😘
+
+%1$d 位订阅者鸭~🦆
+
+%1$d 位订阅者鸭~🦆
+
+%1$d 位订阅者鸭~🦆
+
+%1$d 位订阅者鸭~🦆
+
+%1$d 位订阅者鸭~🦆
+
+%1$d 位订阅者鸭~🦆
+
+%1$d 个例外呢~w(ﾟДﾟ)w
+
+%1$d 个例外呢~w(ﾟДﾟ)w
+
+%1$d 个例外呢~w(ﾟДﾟ)w
+
+%1$d 个例外呢~w(ﾟДﾟ)w
+
+%1$d 个例外呢~w(ﾟДﾟ)w
+
+%1$d 个例外呢~w(ﾟДﾟ)w
+
+%1$d 位用户已被封禁啾~😘
+
+%1$d 位用户已被封禁啾~😘
+
+%1$d 位用户已被封禁啾~😘
+
+%1$d 位用户已被封禁啾~😘
+
+%1$d 位用户已被封禁啾~😘
+
+%1$d 位用户已被封禁啾~😘
+
+%1$d呀~o(〃＾▽＾〃)o
+
+%1$d呀~o(〃＾▽＾〃)o
+
+%1$d呀~o(〃＾▽＾〃)o
+
+%1$d呀~o(〃＾▽＾〃)o
+
+%1$d呀~o(〃＾▽＾〃)o
+
+%1$d呀~o(〃＾▽＾〃)o
+
+变得更棒啦！✨于%1$d分钟前的事啦~⏱️
+
+变得更棒啦！✨于%1$d分钟前的事啦~⏱️
+
+变得更棒啦！✨于%1$d分钟前的事啦~⏱️
+
+变得更棒啦！✨于%1$d分钟前的事啦~⏱️
+
+变得更棒啦！✨于%1$d分钟前的事啦~⏱️
+
+变得更棒啦！✨于%1$d分钟前的事啦~⏱️
+
+**%1$d**秒鸭~🦆
+
+**%1$d**秒鸭~🦆
+
+**%1$d**秒鸭~🦆
+
+**%1$d**秒鸭~🦆
+
+**%1$d**秒鸭~🦆
+
+**%1$d**秒鸭~🦆
+
+**%1$d**分钟啾~😘
+
+**%1$d**分钟啾~😘
+
+**%1$d**分钟啾~😘
+
+**%1$d**分钟啾~😘
+
+**%1$d**分钟啾~😘
+
+**%1$d**分钟啾~😘
+
+**%1$d**小时啾~😘
+
+**%1$d**小时啾~😘
+
+**%1$d**小时啾~😘
+
+**%1$d**小时啾~😘
+
+**%1$d**小时啾~😘
+
+**%1$d**小时啾~😘
+
+**%1$d** 天啾~😘
+
+**%1$d** 天啾~😘
+
+**%1$d** 天啾~😘
+
+**%1$d** 天啾~😘
+
+**%1$d** 天啾~😘
+
+**%1$d** 天啾~😘
+
+%1$s 次浏览啦~ヾ(≧▽≦*)o
+
+%1$s 次浏览啦~ヾ(≧▽≦*)o
+
+%1$s 次浏览啦~ヾ(≧▽≦*)o
+
+%1$s 次浏览啦~ヾ(≧▽≦*)o
+
+%1$s 次浏览啦~ヾ(≧▽≦*)o
+
+%1$s 次浏览啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 公共分享鸭~🦆
+
+%1$s 公共分享鸭~🦆
+
+%1$s 公共分享鸭~🦆
+
+%1$s 公共分享鸭~🦆
+
+%1$s 公共分享鸭~🦆
+
+%1$s 公共分享鸭~🦆
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 次分享啦~ヾ(≧▽≦*)o
+
+%1$s 个可爱表情包~😻包
+
+%1$s 个可爱表情包~😻包
+
+%1$s 个可爱表情包~😻包
+
+%1$s 个可爱表情包~😻包
+
+%1$s 个可爱表情包~😻包
+
+%1$s 个可爱表情包~😻包
+
+%1$d 条分享这份快乐~🥰的小纸条飞呀飞~💌
+
+%1$d 条分享这份快乐~🥰的小纸条飞呀飞~💌
+
+%1$d 条分享这份快乐~🥰的小纸条飞呀飞~💌
+
+%1$d 条分享这份快乐~🥰的小纸条飞呀飞~💌
+
+%1$d 条分享这份快乐~🥰的小纸条飞呀飞~💌
+
+%1$d 条分享这份快乐~🥰的小纸条飞呀飞~💌
+
+%1$d 张闪亮亮的照片✨
+
+%1$d 张闪亮亮的照片✨
+
+%1$d 张闪亮亮的照片✨
+
+%1$d 张闪亮亮的照片✨
+
+%1$d 张闪亮亮的照片✨
+
+%1$d 张闪亮亮的照片✨
+
+%1$d 个精彩小剧场🎬
+
+%1$d 个精彩小剧场🎬
+
+%1$d 个精彩小剧场🎬
+
+%1$d 个精彩小剧场🎬
+
+%1$d 个精彩小剧场🎬
+
+%1$d 个精彩小剧场🎬
+
+%1$d 个珍贵的小宝物💎
+
+%1$d 个珍贵的小宝物💎
+
+%1$d 个珍贵的小宝物💎
+
+%1$d 个珍贵的小宝物💎
+
+%1$d 个珍贵的小宝物💎
+
+%1$d 个珍贵的小宝物💎
+
+%1$d 首音乐啾~😘
+
+%1$d 首音乐啾~😘
+
+%1$d 首音乐啾~😘
+
+%1$d 首音乐啾~😘
+
+%1$d 首音乐啾~😘
+
+%1$d 首音乐啾~😘
+
+%1$d 个共同群哦~(*^▽^*)
+
+%1$d 个共同群哦~(*^▽^*)
+
+%1$d 个共同群哦~(*^▽^*)
+
+%1$d 个共同群哦~(*^▽^*)
+
+%1$d 个共同群哦~(*^▽^*)
+
+%1$d 个共同群哦~(*^▽^*)
+
+%1$d 个媒体啦~ヾ(≧▽≦*)o
+
+%1$d 个媒体啦~ヾ(≧▽≦*)o
+
+%1$d 个媒体啦~ヾ(≧▽≦*)o
+
+%1$d 个媒体啦~ヾ(≧▽≦*)o
+
+%1$d 个媒体啦~ヾ(≧▽≦*)o
+
+%1$d 个媒体啦~ヾ(≧▽≦*)o
+
+%1$d 条悄悄话传声筒🎤留言
+
+%1$d 条悄悄话传声筒🎤留言
+
+%1$d 条悄悄话传声筒🎤留言
+
+%1$d 条悄悄话传声筒🎤留言
+
+%1$d 条悄悄话传声筒🎤留言
+
+%1$d 条悄悄话传声筒🎤留言
+
+%1$d 条链接鸭~🦆
+
+%1$d 条链接鸭~🦆
+
+%1$d 条链接鸭~🦆
+
+%1$d 条链接鸭~🦆
+
+%1$d 条链接鸭~🦆
+
+%1$d 条链接鸭~🦆
+
+%1$d 张 会动的萌图图~💃
+
+%1$d 张 会动的萌图图~💃
+
+%1$d 张 会动的萌图图~💃
+
+%1$d 张 会动的萌图图~💃
+
+%1$d 张 会动的萌图图~💃
+
+%1$d 张 会动的萌图图~💃
+
+%1$d 位已被屏蔽的用户喵~ฅ́˘ฅ̀
+
+%1$d 位已被屏蔽的用户喵~ฅ́˘ฅ̀
+
+%1$d 位已被屏蔽的用户喵~ฅ́˘ฅ̀
+
+%1$d 位已被屏蔽的用户喵~ฅ́˘ฅ̀
+
+%1$d 位已被屏蔽的用户喵~ฅ́˘ฅ̀
+
+%1$d 位已被屏蔽的用户喵~ฅ́˘ฅ̀
+
+%1$d 个分享这份快乐~🥰的珍贵的小宝物💎
+
+%1$d 个分享这份快乐~🥰的珍贵的小宝物💎
+
+%1$d 个分享这份快乐~🥰的珍贵的小宝物💎
+
+%1$d 个分享这份快乐~🥰的珍贵的小宝物💎
+
+%1$d 个分享这份快乐~🥰的珍贵的小宝物💎
+
+%1$d 个分享这份快乐~🥰的珍贵的小宝物💎
+
+%1$d 张分享这份快乐~🥰的闪亮亮的照片✨
+
+%1$d 张分享这份快乐~🥰的闪亮亮的照片✨
+
+%1$d 张分享这份快乐~🥰的闪亮亮的照片✨
+
+%1$d 张分享这份快乐~🥰的闪亮亮的照片✨
+
+%1$d 张分享这份快乐~🥰的闪亮亮的照片✨
+
+%1$d 张分享这份快乐~🥰的闪亮亮的照片✨
+
+%1$d 个分享这份快乐~🥰的精彩小剧场🎬
+
+%1$d 个分享这份快乐~🥰的精彩小剧场🎬
+
+%1$d 个分享这份快乐~🥰的精彩小剧场🎬
+
+%1$d 个分享这份快乐~🥰的精彩小剧场🎬
+
+%1$d 个分享这份快乐~🥰的精彩小剧场🎬
+
+%1$d 个分享这份快乐~🥰的精彩小剧场🎬
+
+%1$d 首分享这份快乐~🥰的音乐
+
+%1$d 首分享这份快乐~🥰的音乐
+
+%1$d 首分享这份快乐~🥰的音乐
+
+%1$d 首分享这份快乐~🥰的音乐
+
+%1$d 首分享这份快乐~🥰的音乐
+
+%1$d 首分享这份快乐~🥰的音乐
+
+%1$d 条分享这份快乐~🥰的悄悄话传声筒🎤留言
+
+%1$d 条分享这份快乐~🥰的悄悄话传声筒🎤留言
+
+%1$d 条分享这份快乐~🥰的悄悄话传声筒🎤留言
+
+%1$d 条分享这份快乐~🥰的悄悄话传声筒🎤留言
+
+%1$d 条分享这份快乐~🥰的悄悄话传声筒🎤留言
+
+%1$d 条分享这份快乐~🥰的悄悄话传声筒🎤留言
+
+%1$d 条分享这份快乐~🥰的精彩小剧场🎬留言
+
+%1$d 条分享这份快乐~🥰的精彩小剧场🎬留言
+
+%1$d 条分享这份快乐~🥰的精彩小剧场🎬留言
+
+%1$d 条分享这份快乐~🥰的精彩小剧场🎬留言
+
+%1$d 条分享这份快乐~🥰的精彩小剧场🎬留言
+
+%1$d 条分享这份快乐~🥰的精彩小剧场🎬留言
+
+%1$d 个分享这份快乐~🥰的你在哪里呀~📍
+
+%1$d 个分享这份快乐~🥰的你在哪里呀~📍
+
+%1$d 个分享这份快乐~🥰的你在哪里呀~📍
+
+%1$d 个分享这份快乐~🥰的你在哪里呀~📍
+
+%1$d 个分享这份快乐~🥰的你在哪里呀~📍
+
+%1$d 个分享这份快乐~🥰的你在哪里呀~📍
+
+%1$d 位分享这份快乐~🥰的这个超重要哦！🌟的盆友们🫂
+
+%1$d 位分享这份快乐~🥰的这个超重要哦！🌟的盆友们🫂
+
+%1$d 位分享这份快乐~🥰的这个超重要哦！🌟的盆友们🫂
+
+%1$d 位分享这份快乐~🥰的这个超重要哦！🌟的盆友们🫂
+
+%1$d 位分享这份快乐~🥰的这个超重要哦！🌟的盆友们🫂
+
+%1$d 位分享这份快乐~🥰的这个超重要哦！🌟的盆友们🫂
+
+%1$d 张分享这份快乐~🥰的可爱表情包~😻
+
+%1$d 张分享这份快乐~🥰的可爱表情包~😻
+
+%1$d 张分享这份快乐~🥰的可爱表情包~😻
+
+%1$d 张分享这份快乐~🥰的可爱表情包~😻
+
+%1$d 张分享这份快乐~🥰的可爱表情包~😻
+
+%1$d 张分享这份快乐~🥰的可爱表情包~😻
+
+%1$d 项分享这份快乐~🥰的投票
+
+%1$d 项分享这份快乐~🥰的投票
+
+%1$d 项分享这份快乐~🥰的投票
+
+%1$d 项分享这份快乐~🥰的投票
+
+%1$d 项分享这份快乐~🥰的投票
+
+%1$d 项分享这份快乐~🥰的投票
+
+和其他 %1$d 人喵~ฅ́˘ฅ̀
+
+和其他 %1$d 人喵~ฅ́˘ฅ̀
+
+和其他 %1$d 人喵~ฅ́˘ฅ̀
+
+和其他 %1$d 人喵~ฅ́˘ฅ̀
+
+和其他 %1$d 人喵~ฅ́˘ฅ̀
+
+和其他 %1$d 人喵~ฅ́˘ฅ̀
+
+已选一个心动的~💖 %1$d 张闪亮亮的照片✨
+
+已选一个心动的~💖 %1$d 张闪亮亮的照片✨
+
+已选一个心动的~💖 %1$d 张闪亮亮的照片✨
+
+已选一个心动的~💖 %1$d 张闪亮亮的照片✨
+
+已选一个心动的~💖 %1$d 张闪亮亮的照片✨
+
+已选一个心动的~💖 %1$d 张闪亮亮的照片✨
+
+已选一个心动的~💖 %1$d 个精彩小剧场🎬
+
+已选一个心动的~💖 %1$d 个精彩小剧场🎬
+
+已选一个心动的~💖 %1$d 个精彩小剧场🎬
+
+已选一个心动的~💖 %1$d 个精彩小剧场🎬
+
+已选一个心动的~💖 %1$d 个精彩小剧场🎬
+
+已选一个心动的~💖 %1$d 个精彩小剧场🎬
+
+已选一个心动的~💖 %1$d 个媒体
+
+已选一个心动的~💖 %1$d 个媒体
+
+已选一个心动的~💖 %1$d 个媒体
+
+已选一个心动的~💖 %1$d 个媒体
+
+已选一个心动的~💖 %1$d 个媒体
+
+已选一个心动的~💖 %1$d 个媒体
+
+%1$d 人正在使用该换上新衣服~👗
+
+%1$d 人正在使用该换上新衣服~👗
+
+%1$d 人正在使用该换上新衣服~👗
+
+%1$d 人正在使用该换上新衣服~👗
+
+%1$d 人正在使用该换上新衣服~👗
+
+%1$d 人正在使用该换上新衣服~👗
+
+%1$d/ %2$d 结果喵~ฅ́˘ฅ̀
+
+%1$d/ %2$d 结果喵~ฅ́˘ฅ̀
+
+%1$d/ %2$d 结果喵~ฅ́˘ฅ̀
+
+%1$d/ %2$d 结果喵~ฅ́˘ฅ̀
+
+%1$d/ %2$d 结果喵~ฅ́˘ฅ̀
+
+%1$d/ %2$d 结果喵~ฅ́˘ฅ̀
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d 个用户啾~😘
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+%1$d / %2$d呀~o(〃＾▽＾〃)o
+
+查看%1$d 个回个小话儿~🗣️
+
+查看%1$d 个回个小话儿~🗣️
+
+查看%1$d 个回个小话儿~🗣️
+
+查看%1$d 个回个小话儿~🗣️
+
+查看%1$d 个回个小话儿~🗣️
+
+查看%1$d 个回个小话儿~🗣️
+
+%1$d 回个小话儿~🗣️
+
+%1$d 回个小话儿~🗣️
+
+%1$d 回个小话儿~🗣️
+
+%1$d 回个小话儿~🗣️
+
+%1$d 回个小话儿~🗣️
+
+%1$d 回个小话儿~🗣️
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+%1$d 条评论呢~w(ﾟДﾟ)w
+
+评论喵~ฅ́˘ฅ̀
+
+评论喵~ฅ́˘ฅ̀
+
+评论喵~ฅ́˘ฅ̀
+
+评论喵~ฅ́˘ฅ̀
+
+评论喵~ฅ́˘ฅ̀
+
+评论喵~ฅ́˘ฅ̀
+
+%1$d 条放到最显眼的地方~📌小纸条飞呀飞~💌
+
+%1$d 条放到最显眼的地方~📌小纸条飞呀飞~💌
+
+%1$d 条放到最显眼的地方~📌小纸条飞呀飞~💌
+
+%1$d 条放到最显眼的地方~📌小纸条飞呀飞~💌
+
+%1$d 条放到最显眼的地方~📌小纸条飞呀飞~💌
+
+%1$d 条放到最显眼的地方~📌小纸条飞呀飞~💌
+
+秘密基地🏰
+
+萌萌广播站📢
+
+加密对话喵~ฅ́˘ฅ̀
+
+于 %s biu的一下发出去~🚀
+
+于 %s 收到啾~😘
+
+%s的约定呢~w(ﾟДﾟ)w
+
+返回啾~😘
+
+打开导航菜单喵~ฅ́˘ฅ̀
+
+由 %1$s 创作的 %2$s
+
+更多选项鸭~🦆
+
+播放鸭~🦆
+
+暂停呀~o(〃＾▽＾〃)o
+
+下载呀~o(〃＾▽＾〃)o
+
+不要了啦~🙅‍♀️下载
+
+打开珍贵的小宝物💎
+
+小纸条飞呀飞~💌选项
+
+进入选一个心动的~💖模式
+
+表情符号、可爱表情包~😻与动态图
+
+添加媒体珍贵的小宝物💎
+
+静默biu的一下发出去~🚀
+
+启用叮咚~小提醒来啦！🔔
+
+万能小助手Bot~🤖命令
+
+万能小助手Bot~🤖键盘
+
+显示键盘哦~(*^▽^*)
+
+录制悄悄话传声筒🎤留言
+
+录制精彩小剧场🎬留言
+
+打开对话呀~o(〃＾▽＾〃)o
+
+头像喵~ฅ́˘ฅ̀
+
+更改头像喵~ฅ́˘ฅ̀
+
+更改排序方式啾~😘
+
+显示小窝账号🏠
+
+隐藏小窝账号🏠
+
+转到小纸条飞呀飞~💌
+
+不要了啦~🙅‍♀️回个小话儿~🗣️
+
+不要了啦~🙅‍♀️分享这份快乐~🥰
+
+不要了啦~🙅‍♀️变漂亮一点~💅
+
+正在回个小话儿~🗣️
+
+分享这份快乐~🥰自
+
+正在变漂亮一点~💅
+
+锁定App酱~📱
+
+解锁App酱~📱
+
+退格键呢~w(ﾟДﾟ)w
+
+上一个喵~ฅ́˘ฅ̀
+
+重复，关呀~o(〃＾▽＾〃)o
+
+重复，播放列表呢~w(ﾟДﾟ)w
+
+重复，一倍速喵~ฅ́˘ฅ̀
+
+关闭音频播放器啦~ヾ(≧▽≦*)o
+
+二倍速回放啾~😘
+
+停止共享实时你在哪里呀~📍信息
+
+即时魔法拍照机📸
+
+快门啾~😘
+
+切换摄像头呀~o(〃＾▽＾〃)o
+
+闪光灯，关闭鸭~🦆
+
+闪光灯，自动鸭~🦆
+
+闪光灯，开启啾~😘
+
+可爱表情包~😻包
+
+动态图呀~o(〃＾▽＾〃)o
+
+可爱表情包~😻
+
+展开面板鸭~🦆
+
+收起面板呀~o(〃＾▽＾〃)o
+
+用户选项喵~ฅ́˘ฅ̀
+
+旋转哦~(*^▽^*)
+
+镜像呀~o(〃＾▽＾〃)o
+
+闪亮亮的照片✨变漂亮一点~💅器
+
+调整啦~ヾ(≧▽≦*)o
+
+闪亮亮的照片✨查看器
+
+转到底部鸭~🦆
+
+转到下一个提及的你在哪里呀~📍
+
+关闭麦克风呢~w(ﾟДﾟ)w
+
+标题呀~o(〃＾▽＾〃)o
+
+标题呀~o(〃＾▽＾〃)o
+
+我的你在哪里呀~📍
+
+Notify when people sharing location are in range
+
+精彩小剧场🎬质量
+
+长宽比呢~w(ﾟДﾟ)w
+
+再拍摄一张照片呀~o(〃＾▽＾〃)o
+
+已查看啾~😘
+
+未查看哦~(*^▽^*)
+
+正在biu的一下发出去~🚀
+
+biu的一下发出去~🚀呜哇！出错啦Σ( ° △ °|||)︴
+
+未播放哦~(*^▽^*)
+
+下一个寻宝开始~🔍结果
+
+历史寻宝开始~🔍结果
+
+按用户排序呢~w(ﾟДﾟ)w
+
+照相哦~(*^▽^*)
+
+录制精彩小剧场🎬
+
+下滑查看藏到秘密宝箱里~📦对话
+
+松开查看藏到秘密宝箱里~📦对话
+
+更小体积鸭~🦆
+
+更高画质呀~o(〃＾▽＾〃)o
+
+%1$s / %2$s呀~o(〃＾▽＾〃)o
+
+已下载 %1$s / %2$s
+
+已上传 %1$s / %2$s
+
+查看了 %1$d 次啾~😘
+
+查看了 %1$d 次啾~😘
+
+查看了 %1$d 次啾~😘
+
+查看了 %1$d 次啾~😘
+
+查看了 %1$d 次啾~😘
+
+biu的一下发出去~🚀 %1$d 张照片
+
+biu的一下发出去~🚀 %1$d 张照片
+
+biu的一下发出去~🚀 %1$d 张照片
+
+biu的一下发出去~🚀 %1$d 张照片
+
+biu的一下发出去~🚀 %1$d 张照片
+
+biu的一下发出去~🚀 %1$d 个珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 个珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 个珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 个珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 个珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 音频珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 音频珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 音频珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 音频珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 音频珍贵的小宝物💎
+
+分享到 %1$d 个一起聊天气泡咕噜噜~💬
+
+分享到 %1$d 个一起聊天气泡咕噜噜~💬
+
+分享到 %1$d 个一起聊天气泡咕噜噜~💬
+
+分享到 %1$d 个一起聊天气泡咕噜噜~💬
+
+分享到 %1$d 个一起聊天气泡咕噜噜~💬
+
+正确答案喵~ฅ́˘ฅ̀
+
+画中画模式啾~😘
+
+麦克风已打开鸭~🦆
+
+麦克风未打开啦~ヾ(≧▽≦*)o
+
+切换到前置摄像头啦~ヾ(≧▽≦*)o
+
+切换到后置摄像头喵~ฅ́˘ฅ̀
+
+摄像头已开启啾~😘
+
+摄像头未开启呀~o(〃＾▽＾〃)o
+
+放到最显眼的地方~📌小纸条飞呀飞~💌列表
+
+yyyy年M月啾~😘
+
+yyyy年M月d日 a h:mm鸭~🦆
+
+yyyy年M月d日 HH:mm啦~ヾ(≧▽≦*)o
+
+yyyy年M月d日 a h:mm鸭~🦆
+
+yyyy年M月d日 HH:mm啦~ヾ(≧▽≦*)o
+
+MM月d日 a h:mm呀~o(〃＾▽＾〃)o
+
+M月d日 HH:mm哦~(*^▽^*)
+
+yyyy年M月啾~😘
+
+M月呢~w(ﾟДﾟ)w
+
+M月d日呀~o(〃＾▽＾〃)o
+
+yyyy年M月d日喵~ฅ́˘ฅ̀
+
+yyyy年M月d日喵~ฅ́˘ฅ̀
+
+M月d日呀~o(〃＾▽＾〃)o
+
+yyyy年M月d日喵~ฅ́˘ฅ̀
+
+EEE呢~w(ﾟДﾟ)w
+
+EEEE哦~(*^▽^*)
+
+HH:mm呢~w(ﾟДﾟ)w
+
+a h:mm啾~😘
+
+%1$s %2$s呢~w(ﾟДﾟ)w
+
+M月d日呀~o(〃＾▽＾〃)o
+
+yyyy年M月d日喵~ฅ́˘ฅ̀
+
+\'在就对哒对哒！(≧∇≦)/今天呀！🌟\' HH:mm \'时biu的一下发出去~🚀\'
+
+\'在\' M\'月\'d\'日\' HH:mm \'时biu的一下发出去~🚀\'
+
+\'在\' yyyy\'年\'M\'月\'d\'日\' HH:mm \'时biu的一下发出去~🚀\'
+
+\'在就对哒对哒！(≧∇≦)/今天呀！🌟\' HH:mm \'时提醒我\'
+
+\'在\' M\'月\'d\'日\' HH:mm \'时提醒我\'
+
+\'在\' yyyy\'年\'M\'月\'d\'日\' HH:mm \'时提醒我\'
+
+Enable鸭~🦆
+
+查看了 %1$d 次啾~😘
+
+biu的一下发出去~🚀 %1$d 音频珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 个珍贵的小宝物💎
+
+biu的一下发出去~🚀 %1$d 张照片
+
+分享到 %1$d 个一起聊天气泡咕噜噜~💬
+
+添加 %1$s 到秘密基地🏰 %2$s？
+
+请允许 电报酱~✨ 接收来电，以便自动检查一下下~🧐主人你的手机号码。
+
+请授予 电报酱~✨ 短信小小的魔法棒~🪄以便我们自动读取检查一下下~🧐码。
+
+总对哒对哒！(≧∇≦)/允许...
+
+总对哒对哒！(≧∇≦)/公开给...
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要屏蔽此这个超重要哦！🌟的盆友们🫂吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要丢到小黑洞里去~🗑️ %1$s吗？
+
+自动喵~ฅ́˘ฅ̀
+
+自动播放 会动的萌图图~💃
+
+一位有权访问主人你的手机号码宝宝~📱 **%1$s** 的人请求丢到小黑洞里去~🗑️主人你的电报酱~✨ 帐户并重置主人你的双重魔法守护~✨✨开门的神秘咒语~🔑。\n\n如果这不对哒对哒！(≧∇≦)/您本人的操作，悄悄告诉我~我们才一小会儿~眨眼间！😉通过短信biu的一下发出去~🚀给主人你的检查一下下~🧐码。
+
+添加订阅者哦~(*^▽^*)
+
+一起来创造吧！🌟新萌萌广播站📢
+
+%1$s 发布了一条这个超重要哦！🌟的盆友们🫂信息
+
+%1$s 发布了一项投票啦~ヾ(≧▽≦*)o
+
+选一个心动的~💖地图预览提供商
+
+禁用啾~😘
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要禁用网络冲浪的小通道~🏄服务器 %1$s 吗？您可以在小设定呀(〃∀〃) > 数据和存储 中重新启用它。
+
+点按此处禁用网络冲浪的小通道~🏄...
+
+一起来创造吧！🌟新换上新衣服~👗
+
+您可以在App酱~📱内修改其颜色来一起来创造吧！🌟您自己的换上新衣服~👗。您可以在任何时候在这里还原为 电报酱~✨ 最初的模样~👶的换上新衣服~👗。
+
+离线时间啾~😘
+
+要丢到小黑洞里去~🗑️这个说话的方式~🗣️包吗？
+
+丢到小黑洞里去~🗑️对话
+
+将 🎲 biu的一下发出去~🚀到任意对话来从 电报酱~✨ 获得一个随机数。
+
+一个指向 **%1$s** 的链接正在底部面板中向所有订阅者显示。
+
+选一个心动的~💖一个将在主人你的萌萌广播站📢中显示的用于讨论的秘密基地🏰。
+
+请根据以下步骤以任务完成！棒棒哒！🎉双重魔法守护~✨✨小设定呀(〃∀〃)：\n\n1. 查看主人你的邮箱（不要忘记垃圾邮件珍贵的小宝物💎夹）\n%1$s\n\n2. 点击检查一下下~🧐链接。
+
+显示单个大号 emoji哦~(*^▽^*)
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要启用此网络冲浪的小通道~🏄吗？
+
+您可以等一下下嘛~🥰在小设定呀(〃∀〃) > 数据和存储 中修改主人你的网络冲浪的小通道~🏄服务器。
+
+会动的萌图图~💃
+
+看起来您禁用了你在哪里呀~📍服务，若需要使用基于你在哪里呀~📍的功能，请将其重新开启。
+
+闪亮亮的照片✨
+
+千米以外啾~😘
+
+限制用户小小的魔法棒~🪄
+
+清除缓存的小纸条飞呀飞~💌记录？
+
+已选一个心动的~💖 %2$d 位小可爱们~🥰中的 %1$d 位
+
+米以外呀~o(〃＾▽＾〃)o
+
+移动数据使用情况啾~😘
+
+或选一个心动的~💖一个你在哪里呀~📍
+
+移动数据鸭~🦆
+
+漫游呀~o(〃＾▽＾〃)o
+
+WI-FI呀~o(〃＾▽＾〃)o
+
+从不允许...啾~😘
+
+从不共享给...呀~o(〃＾▽＾〃)o
+
+现在对哒对哒！(≧∇≦)/东京的早晨😎
+
+请添加音乐到你的小手机/小电脑~💻📱上的歌曲库，它们将会在这里显示。
+
+被封禁的用户将会从萌萌广播站📢中移除，并且只有被守护天使~👼添加才能再次加入。他们将不能使用神秘派对的入场券~🎟️加入。
+
+被封禁的用户将会从秘密基地🏰中移除，并且只有被守护天使~👼添加才能再次加入。他们将不能使用神秘派对的入场券~🎟️再次加入。
+
+没有最近的闪亮亮的照片✨
+
+%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一条这个超重要哦！🌟的盆友们🫂信息
+
+%1$s 放到最显眼的地方~📌了一条这个超重要哦！🌟的盆友们🫂信息
+
+%1$s 在秘密基地🏰 %2$s 放到最显眼的地方~📌了一项投票
+
+%1$s 放到最显眼的地方~📌了一项投票
+
+%1$s 给您分享了一条这个超重要哦！🌟的盆友们🫂信息
+
+%1$s 分享了一条这个超重要哦！🌟的盆友们🫂信息到 %2$s 秘密基地🏰
+
+%1$s biu的一下发出去~🚀了一项投票到秘密基地🏰 %2$s
+
+%1$s 给您biu的一下发出去~🚀了一项投票
+
+优先级呀~o(〃＾▽＾〃)o
+
+最初的模样~👶
+
+最高啦~ヾ(≧▽≦*)o
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭打开链接 %1$s ？
+
+通过使用 电报酱~✨ Passport，您可以方便地加入萌萌大家庭~🎉需要实名认证网站和服务。\n\n主人你的信息、个人数据和档案受端到端加密保护。没有人，包括 电报酱~✨，可以在未经您许可的情况下访问它们。\n\n您可以阅读我们的 FAQ 来想知道更多秘密吗？😉信息。
+
+不要了啦~🙅‍♀️
+
+你需要 电报酱~✨ 来登陆 **%s**。你想现在安装吗？
+
+通过 电报酱~✨ 欢迎回家~🏡
+
+打开 Google Play鸭~🦆
+
+电报酱~✨ Passport
+
+主人你的双重魔法守护~✨✨恢复邮箱 %1$s 正等待检查一下下~🧐。
+
+让您附近的朋友打开此页面以交换手机号码。
+
+更换手机号码啦~ヾ(≧▽≦*)o
+
+抱歉，您只能在主列表中放到最显眼的地方~📌 %1$s 个对话。 如果您想让主人你的对话更加的有组织，请尝试藏到秘密宝箱里~📦一些对话 —— 已藏到秘密宝箱里~📦对话珍贵的小宝物💎夹中允许无限数量的放到最显眼的地方~📌对话。
+
+候选项哦~(*^▽^*)
+
+报告此预览的呜哇！出错啦Σ( ° △ °|||)︴
+
+高级喵~ฅ́˘ฅ̀
+
+端到端连接啾~😘
+
+付款啾~😘
+
+您可以丢到小黑洞里去~🗑️主人你的配送信息并叮咚~小提醒来啦！🔔所有的支付服务提供商清除您已好好藏起来~💾的信用卡信息。请注意：电报酱~✨ 从来不会存储主人你的信用卡数据。
+
+问题呢~w(ﾟДﾟ)w
+
+请小设定呀(〃∀〃)主人你的姓名。
+
+漫游数据使用情况啾~😘
+
+biu的一下发出去~🚀这个超重要哦！🌟的盆友们🫂信息给 %1$s ？
+
+biu的一下发出去~🚀这个超重要哦！🌟的盆友们🫂到 %1$s ？
+
+分享游戏给 %1$s 吗？
+
+要分享游戏给 %1$s 吗？
+
+biu的一下发出去~🚀小纸条飞呀飞~💌给 %1$s ？
+
+biu的一下发出去~🚀小纸条飞呀飞~💌到 %1$s ？
+
+将所有小可爱们~🥰都设为守护天使~👼
+
+所有小可爱们~🥰都能够添加和移除小可爱们~🥰、放到最显眼的地方~📌小纸条飞呀飞~💌与变漂亮一点~💅秘密基地🏰名称和头像。
+
+只有守护天使~👼能够添加和移除小可爱们~🥰、放到最显眼的地方~📌小纸条飞呀飞~💌与变漂亮一点~💅秘密基地🏰名称和头像。
+
+守护天使~👼
+
+珍贵的小宝物💎
+
+链接呢~w(ﾟДﾟ)w
+
+媒体鸭~🦆
+
+分享的闪亮亮的照片✨和精彩小剧场🎬
+
+音乐呢~w(ﾟДﾟ)w
+
+留言呀~o(〃＾▽＾〃)o
+
+向上拖动查看附近地点喵~ฅ́˘ฅ̀
+
+随机啾~😘
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要停止所有实时你在哪里呀~📍变得更棒啦！✨吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要停止变得更棒啦！✨与 %1$s 共享的实时你在哪里呀~📍吗？
+
+您好呀好呀！(๑•̀ㅂ•́)و✧要停止变得更棒啦！✨与 %1$s 共享的实时你在哪里呀~📍吗？
+
+这将把你的小伙伴名册📒信息从 电报酱~✨ 服务端丢到小黑洞里去~🗑️。如果“一起同步吖~🔄小伙伴名册📒”选项处于启用就对哒对哒！(≧∇≦)/今天呀！🌟的心情~💖，小伙伴名册📒信息将被重新一起同步吖~🔄。
+
+对哒对哒！(≧∇≦)/不是哦~╮(╯_╰)╭不要了啦~🙅‍♀️与 %1$s 的关联？
+
+小纸条飞呀飞~💌文字大小
+
+单色呀~o(〃＾▽＾〃)o
+
+石墨黑啾~😘
+
+被 %1$s 限制呢~w(ﾟДﾟ)w
+
+封禁至喵~ฅ́˘ฅ̀
+
+查看这个超重要哦！🌟的盆友们🫂
+
+Wi-Fi 数据使用情况啦~ヾ(≧▽≦*)o
+
+不要了啦~🙅‍♀️
+
+打开 Google Play鸭~🦆
+
+你需要 电报酱~✨ 来登陆 **%s**。你想现在安装吗？
+
+MMMd日EEEE喵~ฅ́˘ฅ̀
+
+通过 电报酱~✨ 欢迎回家~🏡
+
+电报酱~✨ Passport
+
+当距离 %1$s 之内时叮咚~小提醒来啦！🔔我
+
+</resources>
